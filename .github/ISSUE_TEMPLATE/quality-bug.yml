@@ -1,0 +1,17 @@
+name: Quality bug
+description: Report a broken series link or unsupported methodological claim
+title: "[Quality] "
+labels: ["quality"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Which page, claim or link needs correcting?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source or reproduction
+      description: Link to relevant materials, or show steps to reproduce
