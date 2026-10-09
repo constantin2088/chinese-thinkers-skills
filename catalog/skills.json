@@ -1,0 +1,43 @@
+{
+  "series": "Chinese Thinkers as Skills",
+  "maintainer": "constantin2088",
+  "skills": [
+    {
+      "id": "liang-qichao-skill",
+      "name_zh": "梁启超·自新与变局",
+      "category": "strategy",
+      "status": "published",
+      "repo": "constantin2088/liang-qichao-skill"
+    },
+    {
+      "id": "ye-maozhong-skill",
+      "name_zh": "叶茂中·冲突营销",
+      "category": "marketing",
+      "status": "planned"
+    },
+    {
+      "id": "chen-yinke-research-skill",
+      "name_zh": "陈寅恪·深度研究",
+      "category": "research",
+      "status": "planned"
+    },
+    {
+      "id": "cai-yuanpei-skill",
+      "name_zh": "蔡元培·多元协作",
+      "category": "collaboration",
+      "status": "planned"
+    },
+    {
+      "id": "song-zhiping-management-skill",
+      "name_zh": "宋志平·经营管理",
+      "category": "management",
+      "status": "planned"
+    },
+    {
+      "id": "xu-zhuoyun-systems-skill",
+      "name_zh": "许倬云·系统思维",
+      "category": "systems",
+      "status": "planned"
+    }
+  ]
+}
