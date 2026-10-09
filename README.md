@@ -28,20 +28,27 @@
 
 ## 作品目录
 
+<!-- CATALOG:START -->
 | 人物 | 核心能力 | 项目 | 状态 |
 |---|---|---|---|
-| **梁启超** | 变局判断、能力更新、认知修正 | [liang-qichao-skill](https://github.com/constantin2088/liang-qichao-skill) | **已发布** |
-| **叶茂中** | 消费冲突、市场定位、增长实验 | ye-maozhong-skill | 规划中 |
-| **陈寅恪** | 史料互证、证据分层、研究推断 | chen-yinke-research-skill | 规划中 |
-| **蔡元培** | 异见管理、观点协调、多 Agent 协作 | cai-yuanpei-skill | 规划中 |
-| **宋志平** | 经营决策、精细管理、组织效率 | song-zhiping-management-skill | 规划中 |
-| **许倬云** | 系统观察、跨学科分析、长期演化 | xu-zhuoyun-systems-skill | 规划中 |
+| **梁启超·自新与变局** | 变局判断、能力更新、认知修正 | [liang-qichao-skill](https://github.com/constantin2088/liang-qichao-skill) | 已发布 |
+| **叶茂中·冲突营销** | 消费冲突、产品表达、增长实验 | [ye-maozhong-skill](https://github.com/constantin2088/ye-maozhong-skill) | 已发布 |
+| **陈寅恪·深度研究** | 史料互证、证据分层、研究推断 | chen-yinke-research-skill | 规划中 |
+| **蔡元培·多元协作** | 异见管理、观点协调、多元协作 | cai-yuanpei-skill | 规划中 |
+| **宋志平·经营管理** | 经营决策、精细管理、组织效率 | song-zhiping-management-skill | 规划中 |
+| **许倬云·系统思维** | 系统观察、跨学科分析、长期演化 | xu-zhuoyun-systems-skill | 规划中 |
 
-**只有“已发布”项目有可用安装命令。** 规划项目的主题、仓库名与优先级可能依据研究和反馈调整。项目清单的机器可读版本见 [catalog/skills.json](catalog/skills.json)。
+只有“已发布”项目可安装；规划项目尚不可用。
+
+```bash
+npx skills add constantin2088/liang-qichao-skill
+npx skills add constantin2088/ye-maozhong-skill
+```
+<!-- CATALOG:END -->
 
 ## 快速安装
 
-目前可安装：**梁启超·自新与变局**。
+目前可安装：**梁启超·自新与变局**与**叶茂中·冲突营销**（v0.1.0 初始研究版本）。
 
 ```bash
 npx skills add constantin2088/liang-qichao-skill
@@ -87,6 +94,10 @@ npx skills add constantin2088/liang-qichao-skill
 - **Phase 5 / Scale** — 多个 Skill 稳定后再考虑组合安装、路由与独立社区组织。
 
 详见 [ROADMAP.md](ROADMAP.md)。
+
+## 系列发布与自动关联
+
+只维护 [catalog/skills.json](catalog/skills.json)，由工具生成中英文作品目录、人物系列标识与相关推荐。发布时统一同步 GitHub About。详见 [自动关联说明](docs/series-automation.md)。
 
 ## 参与贡献
 

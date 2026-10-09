@@ -7,37 +7,81 @@
       "name_zh": "梁启超·自新与变局",
       "category": "strategy",
       "status": "published",
-      "repo": "constantin2088/liang-qichao-skill"
+      "repo": "constantin2088/liang-qichao-skill",
+      "focus": "变局判断、能力更新、认知修正",
+      "name_en": "Liang Qichao",
+      "topics": [
+        "strategy",
+        "liang-qichao-skill"
+      ]
     },
     {
       "id": "ye-maozhong-skill",
       "name_zh": "叶茂中·冲突营销",
       "category": "marketing",
-      "status": "planned"
+      "status": "published",
+      "focus": "消费冲突、产品表达、增长实验",
+      "name_en": "Ye Maozhong",
+      "topics": [
+        "marketing",
+        "ye-maozhong-skill"
+      ],
+      "repo": "constantin2088/ye-maozhong-skill"
     },
     {
       "id": "chen-yinke-research-skill",
       "name_zh": "陈寅恪·深度研究",
       "category": "research",
-      "status": "planned"
+      "status": "planned",
+      "focus": "史料互证、证据分层、研究推断",
+      "name_en": "Chen Yinke",
+      "topics": [
+        "research",
+        "chen-yinke-research-skill"
+      ]
     },
     {
       "id": "cai-yuanpei-skill",
       "name_zh": "蔡元培·多元协作",
       "category": "collaboration",
-      "status": "planned"
+      "status": "planned",
+      "focus": "异见管理、观点协调、多元协作",
+      "name_en": "Cai Yuanpei",
+      "topics": [
+        "collaboration",
+        "cai-yuanpei-skill"
+      ]
     },
     {
       "id": "song-zhiping-management-skill",
       "name_zh": "宋志平·经营管理",
       "category": "management",
-      "status": "planned"
+      "status": "planned",
+      "focus": "经营决策、精细管理、组织效率",
+      "name_en": "Song Zhiping",
+      "topics": [
+        "management",
+        "song-zhiping-management-skill"
+      ]
     },
     {
       "id": "xu-zhuoyun-systems-skill",
       "name_zh": "许倬云·系统思维",
       "category": "systems",
-      "status": "planned"
+      "status": "planned",
+      "focus": "系统观察、跨学科分析、长期演化",
+      "name_en": "Cho-yun Hsu",
+      "topics": [
+        "systems",
+        "xu-zhuoyun-systems-skill"
+      ]
     }
-  ]
+  ],
+  "homepage": "https://github.com/constantin2088/chinese-thinkers-skills",
+  "topics": [
+    "chinese-thinkers",
+    "agent-skills",
+    "chinese-thinkers-as-skills"
+  ],
+  "description": "让中国思想成为 AI 的可执行能力：有依据、有边界、可测试的中文思想家 Agent Skills。"
 }

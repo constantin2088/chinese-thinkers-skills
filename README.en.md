@@ -20,16 +20,23 @@ Each released Skill should include a distinct method, credible source map, expli
 
 ## Catalog
 
+<!-- CATALOG:START -->
 | Thinker | Focus | Repository | Status |
 |---|---|---|---|
-| **Liang Qichao** | Transition, capability renewal, belief revision | [liang-qichao-skill](https://github.com/constantin2088/liang-qichao-skill) | **Released** |
-| **Ye Maozhong** | Consumer tension, brand positioning, growth | ye-maozhong-skill | Planned |
-| **Chen Yinke** | Research evidence, source corroboration | chen-yinke-research-skill | Planned |
-| **Cai Yuanpei** | Pluralism, diverse viewpoints, collaboration | cai-yuanpei-skill | Planned |
-| **Song Zhiping** | Enterprise strategy, management, efficiency | song-zhiping-management-skill | Planned |
-| **Cho-yun Hsu** | Systems history and multidisciplinary change | xu-zhuoyun-systems-skill | Planned |
+| **Liang Qichao** | 变局判断、能力更新、认知修正 | [liang-qichao-skill](https://github.com/constantin2088/liang-qichao-skill) | Released |
+| **Ye Maozhong** | 消费冲突、产品表达、增长实验 | [ye-maozhong-skill](https://github.com/constantin2088/ye-maozhong-skill) | Released |
+| **Chen Yinke** | 史料互证、证据分层、研究推断 | chen-yinke-research-skill | Planned |
+| **Cai Yuanpei** | 异见管理、观点协调、多元协作 | cai-yuanpei-skill | Planned |
+| **Song Zhiping** | 经营决策、精细管理、组织效率 | song-zhiping-management-skill | Planned |
+| **Cho-yun Hsu** | 系统观察、跨学科分析、长期演化 | xu-zhuoyun-systems-skill | Planned |
 
-Planned repositories do not yet exist. Only the released skill is installable. Track structured records in [catalog/skills.json](catalog/skills.json).
+Only published entries are installable.
+
+```bash
+npx skills add constantin2088/liang-qichao-skill
+npx skills add constantin2088/ye-maozhong-skill
+```
+<!-- CATALOG:END -->
 
 ## Installation
 
@@ -55,3 +62,4 @@ Runtime behavior differs across agents; see [installation notes](docs/installati
 Read the [quality standard](QUALITY_STANDARD.md) and [roadmap](ROADMAP.md). Contributions are welcome: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 **MIT licensed** · Maintained by [@constantin2088](https://github.com/constantin2088).
+Series links and repository metadata derive from catalog/skills.json; see [automation](docs/series-automation.md).
