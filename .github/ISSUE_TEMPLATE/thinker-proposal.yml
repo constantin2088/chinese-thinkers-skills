@@ -1,0 +1,28 @@
+name: Propose a thinker
+description: Propose a new independently maintained Agent Skill
+title: "[Proposal] "
+labels: ["proposal"]
+body:
+  - type: input
+    id: thinker
+    attributes:
+      label: Thinker name
+    validations:
+      required: true
+  - type: textarea
+    id: unique
+    attributes:
+      label: Distinctive executable methodology
+      description: What does this skill do beyond a persona prompt?
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Primary sources and references
+    validations:
+      required: true
+  - type: textarea
+    id: competition
+    attributes:
+      label: Existing GitHub skills
