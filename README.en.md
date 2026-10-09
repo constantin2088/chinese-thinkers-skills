@@ -25,16 +25,20 @@ Each released Skill should include a distinct method, credible source map, expli
 |---|---|---|---|
 | **Liang Qichao** | 变局判断、能力更新、认知修正 | [liang-qichao-skill](https://github.com/constantin2088/liang-qichao-skill) | Released |
 | **Ye Maozhong** | 消费冲突、产品表达、增长实验 | [ye-maozhong-skill](https://github.com/constantin2088/ye-maozhong-skill) | Released |
-| **Chen Yinke** | 史料互证、证据分层、研究推断 | chen-yinke-research-skill | Planned |
-| **Cai Yuanpei** | 异见管理、观点协调、多元协作 | cai-yuanpei-skill | Planned |
-| **Song Zhiping** | 经营决策、精细管理、组织效率 | song-zhiping-management-skill | Planned |
-| **Cho-yun Hsu** | 系统观察、跨学科分析、长期演化 | xu-zhuoyun-systems-skill | Planned |
+| **Chen Yinke** | 史料互证、证据分层、研究推断 | [chen-yinke-research-skill](https://github.com/constantin2088/chen-yinke-research-skill) | Released |
+| **Cai Yuanpei** | 异见管理、观点协调、多元协作 | [cai-yuanpei-skill](https://github.com/constantin2088/cai-yuanpei-skill) | Released |
+| **Song Zhiping** | 经营决策、精细管理、组织效率 | [song-zhiping-management-skill](https://github.com/constantin2088/song-zhiping-management-skill) | Released |
+| **Cho-yun Hsu** | 系统观察、跨学科分析、长期演化 | [xu-zhuoyun-systems-skill](https://github.com/constantin2088/xu-zhuoyun-systems-skill) | Released |
 
 Only published entries are installable.
 
 ```bash
 npx skills add constantin2088/liang-qichao-skill
 npx skills add constantin2088/ye-maozhong-skill
+npx skills add constantin2088/chen-yinke-research-skill
+npx skills add constantin2088/cai-yuanpei-skill
+npx skills add constantin2088/song-zhiping-management-skill
+npx skills add constantin2088/xu-zhuoyun-systems-skill
 ```
 <!-- CATALOG:END -->
 

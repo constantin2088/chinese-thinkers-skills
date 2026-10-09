@@ -33,22 +33,26 @@
 |---|---|---|---|
 | **梁启超·自新与变局** | 变局判断、能力更新、认知修正 | [liang-qichao-skill](https://github.com/constantin2088/liang-qichao-skill) | 已发布 |
 | **叶茂中·冲突营销** | 消费冲突、产品表达、增长实验 | [ye-maozhong-skill](https://github.com/constantin2088/ye-maozhong-skill) | 已发布 |
-| **陈寅恪·深度研究** | 史料互证、证据分层、研究推断 | chen-yinke-research-skill | 规划中 |
-| **蔡元培·多元协作** | 异见管理、观点协调、多元协作 | cai-yuanpei-skill | 规划中 |
-| **宋志平·经营管理** | 经营决策、精细管理、组织效率 | song-zhiping-management-skill | 规划中 |
-| **许倬云·系统思维** | 系统观察、跨学科分析、长期演化 | xu-zhuoyun-systems-skill | 规划中 |
+| **陈寅恪·深度研究** | 史料互证、证据分层、研究推断 | [chen-yinke-research-skill](https://github.com/constantin2088/chen-yinke-research-skill) | 已发布 |
+| **蔡元培·多元协作** | 异见管理、观点协调、多元协作 | [cai-yuanpei-skill](https://github.com/constantin2088/cai-yuanpei-skill) | 已发布 |
+| **宋志平·经营管理** | 经营决策、精细管理、组织效率 | [song-zhiping-management-skill](https://github.com/constantin2088/song-zhiping-management-skill) | 已发布 |
+| **许倬云·系统思维** | 系统观察、跨学科分析、长期演化 | [xu-zhuoyun-systems-skill](https://github.com/constantin2088/xu-zhuoyun-systems-skill) | 已发布 |
 
 只有“已发布”项目可安装；规划项目尚不可用。
 
 ```bash
 npx skills add constantin2088/liang-qichao-skill
 npx skills add constantin2088/ye-maozhong-skill
+npx skills add constantin2088/chen-yinke-research-skill
+npx skills add constantin2088/cai-yuanpei-skill
+npx skills add constantin2088/song-zhiping-management-skill
+npx skills add constantin2088/xu-zhuoyun-systems-skill
 ```
 <!-- CATALOG:END -->
 
 ## 快速安装
 
-安装命令见上方作品目录，选择标为“已发布”的项目。梁启超与叶茂中均直接通过公开仓库发布 Skill，无需 GitHub Releases。叶茂中的独立目标客户端行为评测待执行。
+安装命令见上方作品目录，选择标为“已发布”的项目。系列六个作品均直接通过公开仓库发布 Skill，无需 GitHub Releases。叶茂中及新增四个人物的独立目标客户端模型行为评测尚未执行；目录发布状态不代表模型评测通过。
 
 ```bash
 npx skills add constantin2088/liang-qichao-skill

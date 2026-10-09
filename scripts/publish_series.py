@@ -26,7 +26,7 @@ def main():
             run('git','add',*files,cwd=checkout)
             changed=subprocess.run(['git','diff','--cached','--quiet'],cwd=checkout)
             if changed.returncode==1:
-                run('git','commit','-m','Sync series links from canonical catalog',cwd=checkout)
+                run('git','-c','user.name=constantin2088','-c','user.email=314848087+constantin2088@users.noreply.github.com','commit','-m','Sync series links from canonical catalog',cwd=checkout)
                 run('git','push',cwd=checkout)
             elif changed.returncode!=0:raise RuntimeError('Cannot inspect changes')
 if __name__=='__main__':main()
