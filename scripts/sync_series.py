@@ -44,8 +44,9 @@ def metadata(catalog,slug,apply=False):
         subprocess.run(['gh','api','--method','PATCH','repos/'+repo,'--input','-'],input=json.dumps(payload),text=True,stdout=subprocess.DEVNULL,check=True)
         subprocess.run(['gh','api','--method','PUT','repos/'+repo+'/topics','--input','-'],input=json.dumps({'names':topics}),text=True,stdout=subprocess.DEVNULL,check=True)
 def main():
-    p=argparse.ArgumentParser();p.add_argument('--catalog');p.add_argument('--root',default='.');p.add_argument('--slug',required=True);p.add_argument('--check',action='store_true');p.add_argument('--metadata',action='store_true');p.add_argument('--apply',action='store_true');a=p.parse_args()
+    p=argparse.ArgumentParser();p.add_argument('--catalog');p.add_argument('--snapshot');p.add_argument('--root',default='.');p.add_argument('--slug',required=True);p.add_argument('--check',action='store_true');p.add_argument('--metadata',action='store_true');p.add_argument('--apply',action='store_true');a=p.parse_args()
     catalog=load_catalog(a.catalog)
+    if a.snapshot:Path(a.snapshot).write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     if a.metadata:metadata(catalog,a.slug,a.apply)
     else:sync_readme(a.root,catalog,a.slug,a.check)
 if __name__=='__main__':main()

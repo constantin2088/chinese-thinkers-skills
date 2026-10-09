@@ -48,7 +48,7 @@ npx skills add constantin2088/ye-maozhong-skill
 
 ## 快速安装
 
-目前可安装：**梁启超·自新与变局**与**叶茂中·冲突营销**（v0.1.0 初始研究版本）。
+安装命令见上方作品目录，选择标为“已发布”的项目。叶茂中目前为 v0.1.0 初始研究版本，独立目标客户端行为评测待执行。
 
 ```bash
 npx skills add constantin2088/liang-qichao-skill
@@ -89,7 +89,7 @@ npx skills add constantin2088/liang-qichao-skill
 
 - **Phase 1 / Foundation** — 系列总仓库、公开目录、统一模板与 CI；梁启超作为首个参考项目。
 - **Phase 2 / Evidence** — 通过真实问题、反例和历史资料修订梁启超 Skill。
-- **Phase 3 / Marketing** — 开发叶茂中 Skill，强调可量化的营销方案与验证。
+- **Phase 3 / Marketing** — 叶茂中初版已发布，继续完成目标客户端行为评测和真实任务反馈。
 - **Phase 4 / Research** — 开发陈寅恪 Skill，重点做材料互证与反证机制。
 - **Phase 5 / Scale** — 多个 Skill 稳定后再考虑组合安装、路由与独立社区组织。
 
