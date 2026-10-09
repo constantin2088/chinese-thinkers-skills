@@ -48,7 +48,7 @@ npx skills add constantin2088/ye-maozhong-skill
 
 ## 快速安装
 
-安装命令见上方作品目录，选择标为“已发布”的项目。叶茂中目前为 v0.1.0 初始研究版本，独立目标客户端行为评测待执行。
+安装命令见上方作品目录，选择标为“已发布”的项目。梁启超与叶茂中均直接通过公开仓库发布 Skill，无需 GitHub Releases。叶茂中的独立目标客户端行为评测待执行。
 
 ```bash
 npx skills add constantin2088/liang-qichao-skill
