@@ -4,13 +4,13 @@
 
 ## Stage gates
 
-| Gate | Requirement | Release blocker? |
+| Gate | Requirement | Publication requirement? |
 |---|---|---|
 | A. Historical grounding | Core models mapped to verifiable primary or reputable scholarly sources | Yes |
 | B. Skill validity | `SKILL.md` name/description valid; name matches directory; references resolve | Yes |
 | C. Method differentiation | Not a copy of another thinker's generic workflow with renamed labels | Yes |
 | D. Runnable method | Clear triggers, steps, outputs, failure modes | Yes |
-| E. Evaluations | At least 10 cases, including 3 adversarial/negative examples | Yes |
+| E. Evaluation plan | At least 10 cases, including 3 adversarial/negative examples; record execution status separately | Yes |
 | F. Source integrity | Quotes verified; modern transfers labeled; limitations stated | Yes |
 | G. Maintainer readiness | README with installation, license, issue template, security notes | Yes |
 | H. Accessibility | Chinese core documentation; English summary; readable structure | Recommended |
@@ -25,6 +25,8 @@
 A modern interpretation is never presented as a verbatim quote or official endorsement.
 
 ## Evaluation rubric (each 0–4)
+
+Published means a public, discoverable Skill with its publication checks complete; it does not mean a GitHub Release or a passing independent-client benchmark. Case definitions are not executed tests. Report pending model evaluations explicitly. When run, record client/model versions, raw outputs, scores and failures. Deterministic tool tests, installation discovery and CI do not establish model behavior quality. Older works require a separate review against updated standards; do not imply all historical case sets meet the current gate.
 
 - **Routing**: Does this skill trigger only when relevant?
 - **Distinctiveness**: Does it use methods attributable to this person's body of work?
@@ -47,4 +49,4 @@ Suggested starting benchmark: **at least 18/24** aggregate, no 0 in evidence or 
 
 Major = breaking change to SKILL trigger or core reasoning architecture. Minor = new method or substantively expanded references. Patch = corrections, clarity and regression fixes.
 
-Before tagging: README examples, `SKILL.md`, source map, changelog and evals must describe the **same current behavior**.
+Before publishing: README examples, `SKILL.md`, source map, change notes and evals must describe the **same current behavior**. Commit-based publication is sufficient; GitHub Releases and version tags are optional.

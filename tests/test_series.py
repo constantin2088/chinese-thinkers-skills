@@ -11,3 +11,11 @@ class SeriesTests(unittest.TestCase):
         self.assertNotIn('owner/two',once)
     def test_invalid_markers_rejected(self):
         with self.assertRaises(ValueError):replace_block('<!-- SERIES:START -->','x')
+    def test_recommendations_collapsed_without_losing_links(self):
+        c={'homepage':'https://example.test','skills':[{'id':'one','name_zh':'One','status':'published','repo':'owner/one'},{'id':'two','name_zh':'Two','status':'published','repo':'owner/two'}]}
+        text=block(c,'one')
+        self.assertIn('<summary>相关推荐（1个作品）</summary>',text)
+        self.assertIn('[Two](https://github.com/owner/two)',text)
+        self.assertNotIn('https://github.com/owner/one',text)
+        self.assertLess(text.index('<details>'),text.index('[Two]'))
+        self.assertLess(text.index('[Two]'),text.index('</details>'))

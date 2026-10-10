@@ -1,45 +1,32 @@
 # Project roadmap / 系列路线图
 
-状态说明：**released** = 独立仓库可访问且可安装；**planned** = 研究计划，不保证最终发布日期或名称。
+作品、地址与状态统一维护在 [catalog/skills.json](catalog/skills.json)，不在路线图另建名单。
 
-## Phase 1 · Brand & infrastructure
+**published** 表示公开仓库已提供可发现的 Skill，已检查资料标注、结构、示例、CI 和安装发现。它不表示创建过 GitHub Release，也不表示独立客户端模型行为评测已经通过。**planned** 表示尚未完成的研究计划。
 
-- [x] 单个成熟原型：梁启超 Skill
-- [x] 定义系列信息架构与机器可读目录
-- [x] 统一双语首页、质量标准、贡献方式
-- [x] 无依赖目录检查工具和 GitHub Actions 配置
-- [ ] 发布系列总仓库并验证公开链接
-- [ ] 发布统一模板仓库并做真实的创建/安装测试
+## 已完成的基础设施
 
-## Phase 2 · Improve the reference release
+- [x] 系列总仓库、公开人物仓库与统一开发模板
+- [x] 机器可读目录、双语首页、贡献规范与资料边界
+- [x] 原生模板创建、系列标识、回链、统一 Topics 和 About Website
+- [x] 由目录生成作品列表与推荐链接，模板继承目录快照
+- [x] 结构检查、确定性辅助工具测试与远端 CI 核验
+- [x] 实际安装发现检查：列出 Skill，不把它记作安装进用户客户端
 
-- [ ] 对梁启超案例进行 15–20 个真实问题评测
-- [ ] 提交失败案例，修订 Skill 路由与资料标注
-- [ ] 为 v1.0.1 记录行为变化与新增反例
+## 接下来的质量工作
 
-## Phase 3 · New audience: marketing
-
-- [ ] 研究叶茂中相关一手著述与公开视频
-- [ ] 将“冲突营销”变成具体可检验工作流，而非广告口号生成器
-- [ ] 设计至少 3 个对照 Demo：低客单价、B2B、服务业
-- [ ] 上线后再把 catalog status 改为 released
-
-## Phase 4 · Deep research
-
-- [ ] 建立陈寅恪史料与学术方法来源表
-- [ ] 设计材料互证、竞争解释、反证协议
-- [ ] 通过真实文献研究的失败案例检验
-
-## Phase 5 · Expand with evidence
-
-- [ ] 由社区讨论蔡元培、宋志平和许倬云候选题材
+- [ ] 在明确版本的独立客户端运行行为用例，保留原始提示、输出、评分与失败记录
+- [ ] 补充真实用户任务的失败案例，验证路由、证据纪律和现代转译边界
+- [ ] 对旧作品逐项复核当前质量标准，回补不足10项的历史评测用例
+- [ ] 根据使用反馈调整发现入口，再评估精选组合与路由工具
 - [ ] 根据开源参与度决定是否组建 GitHub Organization
-- [ ] 至少 3 个正式 Skill 验证可用后，再考虑 curated pack / router
 
-## Rules for a released status
+## 发布与验证状态
 
-1. Public repository exists at the recorded URL.
-2. SKILL.md follows Agent Skills specification.
-3. Sources, contemporary-transfer boundaries, examples and evals are present.
-4. Owner verified actual installation and at least one runtime execution.
-5. Hub catalog and both READMEs are updated in the same PR.
+1. 公开仓库存在，根目录 SKILL.md 合规，来源、现代转译边界、示例、评测计划与维护文档齐全。
+2. 完成结构、链接、适用辅助工具和 CI 检查；确认安装发现结果。
+3. 实际提交推送后，更新唯一目录并同步系列关联。
+4. 新作品按当前标准提供至少10项行为用例，其中至少3项为负面或对抗场景；用例存在与运行通过分别记录。
+5. 独立客户端评测和长期使用效果另列状态。未运行时写“尚未执行”，不以结构测试替代。
+
+直接发布成 Skill 即可，不要求 GitHub Releases。行为变更记录在提交和更新说明中。

@@ -22,13 +22,32 @@
 
 一个好 Skill 应当回答：在什么问题上使用？如何分析？依据是什么？什么时候不适用？怎样判断结果是否有效？
 
-因此每一个人物 Skill 均应具备独特的 **方法论 → 操作步骤 → 真实 Demo → 证据来源 → 失效边界 → 评测用例**。
+因此每一个人物 Skill 均应具备独特的 **方法论 → 操作步骤 → 具体 Demo → 证据来源 → 失效边界 → 评测用例**。
 
 > **方法论可以借鉴，历史人物不能被当作现代事件的代言人。**
 
 ## 作品目录
 
 <!-- CATALOG:START -->
+### 从熟悉的问题开始
+
+| 人物入口 | 可以完成什么 |
+|---|---|
+| [孔子·把学到的变成做到的](https://github.com/constantin2088/confucius-learning-skill) | 把读书笔记转成行动、复盘承诺与协作信用 |
+| [孙子·行动前先算清代价](https://github.com/constantin2088/sun-tzu-strategy-skill) | 民用项目竞争、资源不足或需要决定做与不做 |
+| [老子·减少多余动作](https://github.com/constantin2088/laozi-low-intervention-skill) | 流程越来越复杂、需要降低控制和协调成本 |
+| [庄子·跳出唯一答案](https://github.com/constantin2088/zhuangzi-perspective-skill) | 被单一指标困住、比较不同尺度与生活选择 |
+| [王阳明·把知道变成行动证据](https://github.com/constantin2088/wang-yangming-action-skill) | 明白道理却迟迟不做、需要知行复盘 |
+| [鲁迅·借鉴之前先辨别](https://github.com/constantin2088/lu-xun-selective-learning-skill) | 外部经验看起来都好、需要拆分可用与有害部分 |
+| [苏轼·别把比喻当成掌握](https://github.com/constantin2088/su-shi-understanding-skill) | 概念讲得懂却不会用、需要从说明转成体验与实践 |
+| [胡适·先把问题研究清楚](https://github.com/constantin2088/hu-shi-hypotheses-skill) | 讨论被口号带走、需要把问题拆成可证伪假设 |
+| [诸葛亮·把志向变成可持续专注](https://github.com/constantin2088/zhuge-liang-focus-skill) | 长期目标被杂务冲散、需要学习与行动节奏 |
+| [曾国藩·让长期目标有恢复机制](https://github.com/constantin2088/zeng-guofan-routines-skill) | 长期习惯断断续续、需要稳健积累与复盘 |
+
+知名度帮助发现，实用性取决于任务。这是编辑推荐入口，不是星标增长预测。
+
+### 完整目录
+
 | 人物 | 核心能力 | 项目 | 状态 |
 |---|---|---|---|
 | **梁启超·自新与变局** | 变局判断、能力更新、认知修正 | [liang-qichao-skill](https://github.com/constantin2088/liang-qichao-skill) | 已发布 |
@@ -81,6 +100,36 @@
 | **洪亮吉·需求增长与资源缺口** | 需求与供给增速、分配不均、条件压力与补缺 | [hong-liangji-resources-skill](https://github.com/constantin2088/hong-liangji-resources-skill) | 已发布 |
 | **李渔·用物适位与体验设计** | 使用频率、位置适配、脆弱物保护与实际体验 | [li-yu-usability-skill](https://github.com/constantin2088/li-yu-usability-skill) | 已发布 |
 | **袁枚·性情与风格适题** | 具体感受、材料驱使、风格适配和多样评价 | [yuan-mei-expression-skill](https://github.com/constantin2088/yuan-mei-expression-skill) | 已发布 |
+| **孔子·把学到的变成做到的** | 把读书笔记转成行动、复盘承诺与协作信用 | [confucius-learning-skill](https://github.com/constantin2088/confucius-learning-skill) | 已发布 |
+| **孟子·把善意落实到选择** | 面对利益与原则冲突、把同情转成有边界的行动 | [mencius-values-skill](https://github.com/constantin2088/mencius-values-skill) | 已发布 |
+| **荀子·设计能坚持的学习系统** | 学习计划反复中断、选择工具与练习环境 | [xunzi-deliberate-learning-skill](https://github.com/constantin2088/xunzi-deliberate-learning-skill) | 已发布 |
+| **老子·减少多余动作** | 流程越来越复杂、需要降低控制和协调成本 | [laozi-low-intervention-skill](https://github.com/constantin2088/laozi-low-intervention-skill) | 已发布 |
+| **庄子·跳出唯一答案** | 被单一指标困住、比较不同尺度与生活选择 | [zhuangzi-perspective-skill](https://github.com/constantin2088/zhuangzi-perspective-skill) | 已发布 |
+| **墨子·让能力证据代替关系** | 选人、评价项目、比较受益与资源负担 | [mozi-merit-skill](https://github.com/constantin2088/mozi-merit-skill) | 已发布 |
+| **韩非·看清奖励怎样改变行为** | 指标被刷、奖励被套利、权责与实际表现脱节 | [han-fei-incentives-skill](https://github.com/constantin2088/han-fei-incentives-skill) | 已发布 |
+| **孙子·行动前先算清代价** | 民用项目竞争、资源不足或需要决定做与不做 | [sun-tzu-strategy-skill](https://github.com/constantin2088/sun-tzu-strategy-skill) | 已发布 |
+| **孙膑·按条件重新配置资源** | 民用资源配置、需要在整体目标下重排任务 | [sun-bin-matching-skill](https://github.com/constantin2088/sun-bin-matching-skill) | 已发布 |
+| **管仲·先补基础再谈激励** | 组织激励失效、资源基础与制度要求不匹配 | [guan-zhong-foundations-skill](https://github.com/constantin2088/guan-zhong-foundations-skill) | 已发布 |
+| **商鞅·改变规则先检查代价** | 旧规则妨碍新目标、审查变革的实施与公平 | [shang-yang-reform-skill](https://github.com/constantin2088/shang-yang-reform-skill) | 已发布 |
+| **鬼谷子·先听懂再表达** | 谈判信息不足、需要澄清对方真实约束 | [guiguzi-listening-skill](https://github.com/constantin2088/guiguzi-listening-skill) | 已发布 |
+| **董仲舒·把失误追到治理责任** | 组织反复出错、检验领导示范和纠错机制 | [dong-zhongshu-accountability-skill](https://github.com/constantin2088/dong-zhongshu-accountability-skill) | 已发布 |
+| **贾谊·为突发需求留出余量** | 日常资源够用但缺少应急余量、需要压力情景 | [jia-yi-reserves-skill](https://github.com/constantin2088/jia-yi-reserves-skill) | 已发布 |
+| **司马迁·把事件写成有证据的历史** | 整理机构历史、人物故事或长期变化叙事 | [sima-qian-history-skill](https://github.com/constantin2088/sima-qian-history-skill) | 已发布 |
+| **班固·让分类说清材料边界** | 知识库分类混乱、比较不同历史叙述与门类 | [ban-gu-categories-skill](https://github.com/constantin2088/ban-gu-categories-skill) | 已发布 |
+| **诸葛亮·把志向变成可持续专注** | 长期目标被杂务冲散、需要学习与行动节奏 | [zhuge-liang-focus-skill](https://github.com/constantin2088/zhuge-liang-focus-skill) | 已发布 |
+| **刘禹锡·分清条件与行动空间** | 把失败全怪运气、辨认可以改变与不能控制的部分 | [liu-yuxi-agency-skill](https://github.com/constantin2088/liu-yuxi-agency-skill) | 已发布 |
+| **白居易·让表达回应真实问题** | 文章好看但用途不清、想让写作回应读者与现实 | [bai-juyi-purpose-skill](https://github.com/constantin2088/bai-juyi-purpose-skill) | 已发布 |
+| **苏轼·别把比喻当成掌握** | 概念讲得懂却不会用、需要从说明转成体验与实践 | [su-shi-understanding-skill](https://github.com/constantin2088/su-shi-understanding-skill) | 已发布 |
+| **朱熹·把一段材料真正读懂** | 读长文只剩印象、需要逐段理解和检验先入观点 | [zhu-xi-close-reading-skill](https://github.com/constantin2088/zhu-xi-close-reading-skill) | 已发布 |
+| **陆九渊·识别目标背后的动机** | 目标正确却行动失真、需要审查义利冲突 | [lu-jiuyuan-intentions-skill](https://github.com/constantin2088/lu-jiuyuan-intentions-skill) | 已发布 |
+| **王阳明·把知道变成行动证据** | 明白道理却迟迟不做、需要知行复盘 | [wang-yangming-action-skill](https://github.com/constantin2088/wang-yangming-action-skill) | 已发布 |
+| **曾国藩·让长期目标有恢复机制** | 长期习惯断断续续、需要稳健积累与复盘 | [zeng-guofan-routines-skill](https://github.com/constantin2088/zeng-guofan-routines-skill) | 已发布 |
+| **惠施·找出争论中的尺度变化** | 双方都说有道理却用不同尺度、需要检查概念边界 | [hui-shi-definitions-skill](https://github.com/constantin2088/hui-shi-definitions-skill) | 已发布 |
+| **张之洞·分清目的与引入的方法** | 引入新工具时担心失去原有目标、需要评估取舍 | [zhang-zhidong-adaptation-skill](https://github.com/constantin2088/zhang-zhidong-adaptation-skill) | 已发布 |
+| **胡适·先把问题研究清楚** | 讨论被口号带走、需要把问题拆成可证伪假设 | [hu-shi-hypotheses-skill](https://github.com/constantin2088/hu-shi-hypotheses-skill) | 已发布 |
+| **鲁迅·借鉴之前先辨别** | 外部经验看起来都好、需要拆分可用与有害部分 | [lu-xun-selective-learning-skill](https://github.com/constantin2088/lu-xun-selective-learning-skill) | 已发布 |
+| **陈独秀·让主张接受科学检验** | 观点来自权威或习惯、需要检查自主判断与实际用途 | [chen-duxiu-independent-thinking-skill](https://github.com/constantin2088/chen-duxiu-independent-thinking-skill) | 已发布 |
+| **李大钊·把时代愿景落在现在** | 谈未来理想很多、需要明确当下责任与可实施行动 | [li-dazhao-present-action-skill](https://github.com/constantin2088/li-dazhao-present-action-skill) | 已发布 |
 
 只有“已发布”项目可安装；规划项目尚不可用。
 
@@ -135,12 +184,42 @@ npx skills add constantin2088/chen-liang-capability-skill
 npx skills add constantin2088/hong-liangji-resources-skill
 npx skills add constantin2088/li-yu-usability-skill
 npx skills add constantin2088/yuan-mei-expression-skill
+npx skills add constantin2088/confucius-learning-skill
+npx skills add constantin2088/mencius-values-skill
+npx skills add constantin2088/xunzi-deliberate-learning-skill
+npx skills add constantin2088/laozi-low-intervention-skill
+npx skills add constantin2088/zhuangzi-perspective-skill
+npx skills add constantin2088/mozi-merit-skill
+npx skills add constantin2088/han-fei-incentives-skill
+npx skills add constantin2088/sun-tzu-strategy-skill
+npx skills add constantin2088/sun-bin-matching-skill
+npx skills add constantin2088/guan-zhong-foundations-skill
+npx skills add constantin2088/shang-yang-reform-skill
+npx skills add constantin2088/guiguzi-listening-skill
+npx skills add constantin2088/dong-zhongshu-accountability-skill
+npx skills add constantin2088/jia-yi-reserves-skill
+npx skills add constantin2088/sima-qian-history-skill
+npx skills add constantin2088/ban-gu-categories-skill
+npx skills add constantin2088/zhuge-liang-focus-skill
+npx skills add constantin2088/liu-yuxi-agency-skill
+npx skills add constantin2088/bai-juyi-purpose-skill
+npx skills add constantin2088/su-shi-understanding-skill
+npx skills add constantin2088/zhu-xi-close-reading-skill
+npx skills add constantin2088/lu-jiuyuan-intentions-skill
+npx skills add constantin2088/wang-yangming-action-skill
+npx skills add constantin2088/zeng-guofan-routines-skill
+npx skills add constantin2088/hui-shi-definitions-skill
+npx skills add constantin2088/zhang-zhidong-adaptation-skill
+npx skills add constantin2088/hu-shi-hypotheses-skill
+npx skills add constantin2088/lu-xun-selective-learning-skill
+npx skills add constantin2088/chen-duxiu-independent-thinking-skill
+npx skills add constantin2088/li-dazhao-present-action-skill
 ```
 <!-- CATALOG:END -->
 
 ## 快速安装
 
-安装命令见上方作品目录，选择标为“已发布”的项目。系列五十个作品均直接通过公开仓库发布 Skill，无需 GitHub Releases。叶茂中及后续新增人物的独立目标客户端模型行为评测尚未执行；目录发布状态不代表模型评测通过。
+安装命令见上方作品目录，选择标为“已发布”的项目。系列八十个作品均直接通过公开仓库发布 Skill，无需 GitHub Releases。叶茂中及后续新增人物的独立目标客户端模型行为评测尚未执行；目录发布状态不代表模型评测通过。
 
 ```bash
 npx skills add constantin2088/liang-qichao-skill
@@ -217,4 +296,6 @@ npx skills add constantin2088/liang-qichao-skill
 
 [新增顾炎武、张载等20位人物的选题与检索依据](docs/selection-twenty-2026-10-10.md)。该轮新增20个作品，未创建 GitHub Releases。
 
-[第二批新增王夫之、龚自珍等20位人物的选题与检索依据](docs/selection-second-twenty-2026-10-10.md)。系列现有50个公开作品，直接发布成 Skill。
+[第二批新增王夫之、龚自珍等20位人物的选题与检索依据](docs/selection-second-twenty-2026-10-10.md)。该轮完成后系列为50个公开作品，直接发布成 Skill。
+
+[新增孔子、老子、王阳明、鲁迅等30位知名人物的用途与选题依据](docs/selection-famous-thirty-2026-10-11.md)。系列现有80个公开人物作品，直接安装使用。

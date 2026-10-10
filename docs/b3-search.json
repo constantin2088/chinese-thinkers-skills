@@ -1,0 +1,2659 @@
+[
+  {
+    "slug": "confucius-learning-skill",
+    "person": "孔子",
+    "checked_utc": "2026-10-10T15:43:02.521711+00:00",
+    "queries": [
+      {
+        "query": "孔子 skill -user:constantin2088",
+        "total_count": 11,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "nuwa-skills/kongzi-skill",
+            "url": "https://github.com/nuwa-skills/kongzi-skill",
+            "stars": 3,
+            "description": "孔子的认知操作系统。基于《论语》等经典提炼的可运行思维框架。"
+          },
+          {
+            "repo": "lmz00701/confucius-perspective",
+            "url": "https://github.com/lmz00701/confucius-perspective",
+            "stars": 2,
+            "description": "孔子-skill"
+          },
+          {
+            "repo": "Wudiyi-bigyi/kongzi-skill",
+            "url": "https://github.com/Wudiyi-bigyi/kongzi-skill",
+            "stars": 1,
+            "description": "这是一个基于《论语》孔子语录，为各类人生，学习，处事问题提供儒家经典解读与回答。/This work draws on Confucius’ quotations from The Analects, offering classical Confucian interpretations and responses to a wide range of questions concerning life, study and interpersonal conduct."
+          },
+          {
+            "repo": "77cinc/ai-decision-council",
+            "url": "https://github.com/77cinc/ai-decision-council",
+            "stars": 1,
+            "description": "重大决策拿不准？选择困难症？需要多角度、多维度决策参考？召唤 65 位跨越两千年的历史谋士（诸葛亮/孔子/德鲁克…）为你辩论、挑刺、输出甲/乙方案。基于 Claude Code 的 AI 智囊团决策框架。 | AI multi-agent decision framework: 65 historical advisors debate your hardest choices from many angles — for major decisions, decision paralysis & multi-perspective deliberation. Claude Code skills."
+          },
+          {
+            "repo": "Jinhuichuan/Confucius-skill",
+            "url": "https://github.com/Jinhuichuan/Confucius-skill",
+            "stars": 0,
+            "description": "孔子skill——你的人生需要儒家"
+          },
+          {
+            "repo": "OpenDemon/kong-zi-skill",
+            "url": "https://github.com/OpenDemon/kong-zi-skill",
+            "stars": 0,
+            "description": "孔子的认知操作系统 · Anyone to Skill"
+          },
+          {
+            "repo": "tree3355961795-ops/kongzi-classics",
+            "url": "https://github.com/tree3355961795-ops/kongzi-classics",
+            "stars": 0,
+            "description": "孔子著作知识库（11部经典全文，AI Skill）"
+          },
+          {
+            "repo": "zhaohuang321/confucius-perspective",
+            "url": "https://github.com/zhaohuang321/confucius-perspective",
+            "stars": 0,
+            "description": "孔子思维 Skill：修己示范、仁恕责任与学习纠错 | Zero Wong"
+          },
+          {
+            "repo": "snake-aabb-wtf/confucius",
+            "url": "https://github.com/snake-aabb-wtf/confucius",
+            "stars": 0,
+            "description": "让任何 AI Agent 化身春秋末期儒家先师孔子，以严肃讲学之姿与用户论学问道。An ZCode skill that transforms any AI Agent into Confucius (孔子)."
+          },
+          {
+            "repo": "bettermen/life-path",
+            "url": "https://github.com/bettermen/life-path",
+            "stars": 0,
+            "description": "人生之路 - 基于孔子《论语·为政》六阶段人生论的全维度智慧助手（WorkBuddy Skill）"
+          },
+          {
+            "repo": "wulixin/R-packages-",
+            "url": "https://github.com/wulixin/R-packages-",
+            "stars": 0,
+            "description": "# Helloword    Hello, I am LiXin WU ,a new data scientist,I am curious about data science and marketing,I known the way to become a great data scientist is a long way like Marathon,I build my knowledge framework by Hui Lin who care about China'students learning at this areas,at the same time she is a membership of ASA(American Statistical Association).I enforce my technology skill throung datacamp courseras and courseras.I will expand my software skill by following master about this areas.中国有句古话：孔子之所以为孔子，那是因为以天下人为师.   I have my reasearch on target marketing,finance quantitative and customer management,I like challange and learning by doing.Out of work time ,I write some business article that  my thought about the business competition.   My public wechat (微信公众号)： bettermarketing"
+          }
+        ]
+      },
+      {
+        "query": "Confucius skill -user:constantin2088",
+        "total_count": 15,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "aussieW/skill-confucius-say",
+            "url": "https://github.com/aussieW/skill-confucius-say",
+            "stars": 3,
+            "description": "Mycroft skill which will speak a random quote from Confucius"
+          },
+          {
+            "repo": "ceetity/confucius-skill",
+            "url": "https://github.com/ceetity/confucius-skill",
+            "stars": 3,
+            "description": "汲取孔老二的智慧"
+          },
+          {
+            "repo": "OpenVoiceOS/ovos-skill-confucius-quotes",
+            "url": "https://github.com/OpenVoiceOS/ovos-skill-confucius-quotes",
+            "stars": 2,
+            "description": "Quotes from Confucius"
+          },
+          {
+            "repo": "jacksonhuangfly/confucius-skill",
+            "url": "https://github.com/jacksonhuangfly/confucius-skill",
+            "stars": 2,
+            "description": "Apply Confucian ideas to roles, reciprocal duties, trust, and long-term cooperation. 以儒家思想思考角色、相互责任、信任与长期协作。"
+          },
+          {
+            "repo": "lmz00701/confucius-perspective",
+            "url": "https://github.com/lmz00701/confucius-perspective",
+            "stars": 2,
+            "description": "孔子-skill"
+          },
+          {
+            "repo": "Dreamfutura-Stephen/Sage-skill",
+            "url": "https://github.com/Dreamfutura-Stephen/Sage-skill",
+            "stars": 1,
+            "description": "其他 Skill 是\"帮你做决策\"，智者 Skill 是\"让你自己想明白“。Don't give you answers — teach you how to think. Distill Socrates, Confucius, and Zhuangzi into conversational AI skills. Let the sages walk with you."
+          },
+          {
+            "repo": "rickai0118/chinese-philosophy-3stage",
+            "url": "https://github.com/rickai0118/chinese-philosophy-3stage",
+            "stars": 1,
+            "description": "A reasoning skill that uses Chinese philosophy (Dao De Jing, Sun Tzu, Confucius, I Ching) to analyze hard decisions and complex situations."
+          },
+          {
+            "repo": "Wudiyi-bigyi/kongzi-skill",
+            "url": "https://github.com/Wudiyi-bigyi/kongzi-skill",
+            "stars": 1,
+            "description": "这是一个基于《论语》孔子语录，为各类人生，学习，处事问题提供儒家经典解读与回答。/This work draws on Confucius’ quotations from The Analects, offering classical Confucian interpretations and responses to a wide range of questions concerning life, study and interpersonal conduct."
+          },
+          {
+            "repo": "Yinuo-Guo/dialogues-with-chinese-sages",
+            "url": "https://github.com/Yinuo-Guo/dialogues-with-chinese-sages",
+            "stars": 1,
+            "description": " Chinese sages, reborn as AI skills. Talk to Li Bai. Debate with Confucius. Drink with Su Shi. Not prompts — a systematic methodology, starting with the Poet Immortal. 对话中国先贤。"
+          },
+          {
+            "repo": "sethmblack/skill-confucius",
+            "url": "https://github.com/sethmblack/skill-confucius",
+            "stars": 0,
+            "description": "Paks skill: confucius"
+          },
+          {
+            "repo": "Jinhuichuan/Confucius-skill",
+            "url": "https://github.com/Jinhuichuan/Confucius-skill",
+            "stars": 0,
+            "description": "孔子skill——你的人生需要儒家"
+          },
+          {
+            "repo": "xuan905/confucius-ai-skill",
+            "url": "https://github.com/xuan905/confucius-ai-skill",
+            "stars": 0,
+            "description": "Confucius AI conversation skill - ?????????? (SKILL.md + trilingual Analects database)"
+          },
+          {
+            "repo": "sethmblack/persona-confucius",
+            "url": "https://github.com/sethmblack/persona-confucius",
+            "stars": 0,
+            "description": "AI Persona: confucius expert bundle with integrated skills"
+          },
+          {
+            "repo": "snake-aabb-wtf/confucius",
+            "url": "https://github.com/snake-aabb-wtf/confucius",
+            "stars": 0,
+            "description": "让任何 AI Agent 化身春秋末期儒家先师孔子，以严肃讲学之姿与用户论学问道。An ZCode skill that transforms any AI Agent into Confucius (孔子)."
+          },
+          {
+            "repo": "zhaohuang321/confucius-perspective",
+            "url": "https://github.com/zhaohuang321/confucius-perspective",
+            "stars": 0,
+            "description": "孔子思维 Skill：修己示范、仁恕责任与学习纠错 | Zero Wong"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mencius-values-skill",
+    "person": "孟子",
+    "checked_utc": "2026-10-10T15:43:20.008909+00:00",
+    "queries": [
+      {
+        "query": "孟子 skill -user:constantin2088",
+        "total_count": 2,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "Dillon-Xue/classics-skills",
+            "url": "https://github.com/Dillon-Xue/classics-skills",
+            "stars": 1,
+            "description": "六部中国经典蒸馏出的 WorkBuddy 技能：论语/孟子/庄子/周易/史记/资治通鉴"
+          },
+          {
+            "repo": "zhaohuang321/mencius-perspective",
+            "url": "https://github.com/zhaohuang321/mencius-perspective",
+            "stars": 0,
+            "description": "孟子思维 Skill：道德萌芽、关怀推扩与民生条件 | Zero Wong"
+          }
+        ]
+      },
+      {
+        "query": "Mencius skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "zhaohuang321/mencius-perspective",
+            "url": "https://github.com/zhaohuang321/mencius-perspective",
+            "stars": 0,
+            "description": "孟子思维 Skill：道德萌芽、关怀推扩与民生条件 | Zero Wong"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "xunzi-deliberate-learning-skill",
+    "person": "荀子",
+    "checked_utc": "2026-10-10T15:43:36.027075+00:00",
+    "queries": [
+      {
+        "query": "荀子 skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "zhaohuang321/xunzi-perspective",
+            "url": "https://github.com/zhaohuang321/xunzi-perspective",
+            "stars": 0,
+            "description": "荀子思维 Skill：后天学习、礼与分工、解蔽辨别 | Zero Wong"
+          }
+        ]
+      },
+      {
+        "query": "Xunzi skill -user:constantin2088",
+        "total_count": 2,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "nuwa-skills/xunzi-skill",
+            "url": "https://github.com/nuwa-skills/xunzi-skill",
+            "stars": 0,
+            "description": null
+          },
+          {
+            "repo": "zhaohuang321/xunzi-perspective",
+            "url": "https://github.com/zhaohuang321/xunzi-perspective",
+            "stars": 0,
+            "description": "荀子思维 Skill：后天学习、礼与分工、解蔽辨别 | Zero Wong"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "laozi-low-intervention-skill",
+    "person": "老子",
+    "checked_utc": "2026-10-10T15:43:54.654992+00:00",
+    "queries": [
+      {
+        "query": "老子 skill -user:constantin2088",
+        "total_count": 6,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "nuwa-skills/laozi-skill",
+            "url": "https://github.com/nuwa-skills/laozi-skill",
+            "stars": 3,
+            "description": "老子.skill — 无为而治/道法自然/系统思维的思维操作系统"
+          },
+          {
+            "repo": "azh2000xy/virtual-persona-skill",
+            "url": "https://github.com/azh2000xy/virtual-persona-skill",
+            "stars": 1,
+            "description": "虚拟人格 — 用 MBTI 人格 + 中国式高情商 + 老子《道德经》模拟应对社会场景的 Claude Code skill"
+          },
+          {
+            "repo": "18879952146/claude-skill-laozi",
+            "url": "https://github.com/18879952146/claude-skill-laozi",
+            "stars": 0,
+            "description": "老子·道家心智蒸馏 Skill for Claude Code — Laozi Taoist philosophy distilled into 6 mental models"
+          },
+          {
+            "repo": "xuan905/laozi-ai-skill",
+            "url": "https://github.com/xuan905/laozi-ai-skill",
+            "stars": 0,
+            "description": "老子AI道德經三語資料庫 Skill，支援繁/簡/英查詢，含81章原文及精選語錄"
+          },
+          {
+            "repo": "zhaohuang321/laozi-perspective",
+            "url": "https://github.com/zhaohuang321/laozi-perspective",
+            "stars": 0,
+            "description": "老子思维 Skill：干预分寸、柔弱不争、反转与知止 | Zero Wong"
+          },
+          {
+            "repo": "chmxn/laozi-perspective",
+            "url": "https://github.com/chmxn/laozi-perspective",
+            "stars": 0,
+            "description": "老子（Laozi）的思维框架 Skill：基于《道德经》通行本/帛书本/郭店楚简本与历代注疏蒸馏，6 个心智模型 + 8 条决策启发式 + 完整表达 DNA"
+          }
+        ]
+      },
+      {
+        "query": "Laozi skill -user:constantin2088",
+        "total_count": 9,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "nuwa-skills/laozi-skill",
+            "url": "https://github.com/nuwa-skills/laozi-skill",
+            "stars": 3,
+            "description": "老子.skill — 无为而治/道法自然/系统思维的思维操作系统"
+          },
+          {
+            "repo": "qding98/chinese-philosophy-skills",
+            "url": "https://github.com/qding98/chinese-philosophy-skills",
+            "stars": 2,
+            "description": "道德经 + 阴符经 国学人格 Claude Code skills | Two Chinese-philosophy persona skills built from full classical texts"
+          },
+          {
+            "repo": "sunflower225/laozi-skill",
+            "url": "https://github.com/sunflower225/laozi-skill",
+            "stars": 0,
+            "description": "Laozi perspective skill based on Dao De Jing and careful modern interpretation"
+          },
+          {
+            "repo": "gdwwl168/laozi-perspective",
+            "url": "https://github.com/gdwwl168/laozi-perspective",
+            "stars": 0,
+            "description": "laozi perspective - God Skill distillation"
+          },
+          {
+            "repo": "18879952146/claude-skill-laozi",
+            "url": "https://github.com/18879952146/claude-skill-laozi",
+            "stars": 0,
+            "description": "老子·道家心智蒸馏 Skill for Claude Code — Laozi Taoist philosophy distilled into 6 mental models"
+          },
+          {
+            "repo": "xuan905/laozi-ai-skill",
+            "url": "https://github.com/xuan905/laozi-ai-skill",
+            "stars": 0,
+            "description": "老子AI道德經三語資料庫 Skill，支援繁/簡/英查詢，含81章原文及精選語錄"
+          },
+          {
+            "repo": "zhaohuang321/laozi-perspective",
+            "url": "https://github.com/zhaohuang321/laozi-perspective",
+            "stars": 0,
+            "description": "老子思维 Skill：干预分寸、柔弱不争、反转与知止 | Zero Wong"
+          },
+          {
+            "repo": "chmxn/laozi-perspective",
+            "url": "https://github.com/chmxn/laozi-perspective",
+            "stars": 0,
+            "description": "老子（Laozi）的思维框架 Skill：基于《道德经》通行本/帛书本/郭店楚简本与历代注疏蒸馏，6 个心智模型 + 8 条决策启发式 + 完整表达 DNA"
+          },
+          {
+            "repo": "zunoworks/not-two",
+            "url": "https://github.com/zunoworks/not-two",
+            "stars": 0,
+            "description": "Claude Code skill that names the 不二 (non-duality) supporting two opposing concepts. Lineage: Buddhist non-dual, Laozi taiji, Bohr complementarity — opposite of Hegelian dialectic."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "zhuangzi-perspective-skill",
+    "person": "庄子",
+    "checked_utc": "2026-10-10T15:44:11.048258+00:00",
+    "queries": [
+      {
+        "query": "庄子 skill -user:constantin2088",
+        "total_count": 6,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "OpenDemon/zhuang-zi-skill",
+            "url": "https://github.com/OpenDemon/zhuang-zi-skill",
+            "stars": 1,
+            "description": "庄子的认知操作系统 · Anyone to Skill"
+          },
+          {
+            "repo": "Dillon-Xue/classics-skills",
+            "url": "https://github.com/Dillon-Xue/classics-skills",
+            "stars": 1,
+            "description": "六部中国经典蒸馏出的 WorkBuddy 技能：论语/孟子/庄子/周易/史记/资治通鉴"
+          },
+          {
+            "repo": "XiaoSiKe/comfortable-ones-act-up-skill",
+            "url": "https://github.com/XiaoSiKe/comfortable-ones-act-up-skill",
+            "stars": 1,
+            "description": "舒服者耍起原则 Skill：融合道家、庄子、现代压力管理与温柔幽默的通用情绪支持 Agent Skill"
+          },
+          {
+            "repo": "zhaohuang321/zhuangzi-perspective",
+            "url": "https://github.com/zhaohuang321/zhuangzi-perspective",
+            "stars": 0,
+            "description": "庄子思维 Skill：转换视角、辨认用途与行动空间 | Zero Wong"
+          },
+          {
+            "repo": "YINyang-Taiji/lun-bian",
+            "url": "https://github.com/YINyang-Taiji/lun-bian",
+            "stars": 0,
+            "description": "轮扁——得之于手而应于心。从操作到 Skill，做一遍就学会。出自《庄子·天道》。"
+          },
+          {
+            "repo": "songjinghe/classical-chinese-literature-skill",
+            "url": "https://github.com/songjinghe/classical-chinese-literature-skill",
+            "stars": 0,
+            "description": "AI技能，使用后随机返回一条中文古文经典。来源：《道德经》《庄子》《论语》《六祖坛经》《乐育堂语录》（不断新增中欢迎提建议）"
+          }
+        ]
+      },
+      {
+        "query": "Zhuangzi skill -user:constantin2088",
+        "total_count": 8,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "nuwa-skills/zhuangzi-skill",
+            "url": "https://github.com/nuwa-skills/zhuangzi-skill",
+            "stars": 1,
+            "description": null
+          },
+          {
+            "repo": "Dreamfutura-Stephen/Sage-skill",
+            "url": "https://github.com/Dreamfutura-Stephen/Sage-skill",
+            "stars": 1,
+            "description": "其他 Skill 是\"帮你做决策\"，智者 Skill 是\"让你自己想明白“。Don't give you answers — teach you how to think. Distill Socrates, Confucius, and Zhuangzi into conversational AI skills. Let the sages walk with you."
+          },
+          {
+            "repo": "sethmblack/skill-zhuangzi",
+            "url": "https://github.com/sethmblack/skill-zhuangzi",
+            "stars": 0,
+            "description": "Paks skill: zhuangzi"
+          },
+          {
+            "repo": "watermelontip/zhuangzi-skill",
+            "url": "https://github.com/watermelontip/zhuangzi-skill",
+            "stars": 0,
+            "description": null
+          },
+          {
+            "repo": "sethmblack/persona-zhuangzi",
+            "url": "https://github.com/sethmblack/persona-zhuangzi",
+            "stars": 0,
+            "description": "AI Persona: zhuangzi expert bundle with integrated skills"
+          },
+          {
+            "repo": "xuan905/zhuangzi-ai-skill",
+            "url": "https://github.com/xuan905/zhuangzi-ai-skill",
+            "stars": 0,
+            "description": "Trilingual Zhuangzi AI dialogue skill with JSON knowledge, evaluation, and GitHub Pages docs"
+          },
+          {
+            "repo": "zhaohuang321/zhuangzi-perspective",
+            "url": "https://github.com/zhaohuang321/zhuangzi-perspective",
+            "stars": 0,
+            "description": "庄子思维 Skill：转换视角、辨认用途与行动空间 | Zero Wong"
+          },
+          {
+            "repo": "PabloRuizD/Hermes2-pablo-taoismo-daodejing",
+            "url": "https://github.com/PabloRuizD/Hermes2-pablo-taoismo-daodejing",
+            "stars": 0,
+            "description": "Daodejing, Zhuangzi, Liezi, Yijing - skill para Hermes Agent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mozi-merit-skill",
+    "person": "墨子",
+    "checked_utc": "2026-10-10T15:44:27.553167+00:00",
+    "queries": [
+      {
+        "query": "墨子 skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "zhaohuang321/mozi-perspective",
+            "url": "https://github.com/zhaohuang321/mozi-perspective",
+            "stars": 0,
+            "description": "墨子思维 Skill：公共利害、尺度一致与论证检验 | Zero Wong"
+          }
+        ]
+      },
+      {
+        "query": "Mozi skill -user:constantin2088",
+        "total_count": 18,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "WebThingsIO/mozilla-webthings-gateway-skill",
+            "url": "https://github.com/WebThingsIO/mozilla-webthings-gateway-skill",
+            "stars": 8,
+            "description": "Mycroft skill for the Mozilla WebThings Gateway"
+          },
+          {
+            "repo": "HarenaFiantso/Mozika",
+            "url": "https://github.com/HarenaFiantso/Mozika",
+            "stars": 5,
+            "description": "The goal of this project is to create a mobile application that plays audio files stored locally on the device. The project evaluates fundamental mobile development skills, interaction with native device features, and the ability to build a smooth and ergonomic user interface."
+          },
+          {
+            "repo": "jamesmf/mycroft-mozilla-iot-skill",
+            "url": "https://github.com/jamesmf/mycroft-mozilla-iot-skill",
+            "stars": 2,
+            "description": "CommonIoT Implementation for interacting with Mozilla IoT Gateway from Mycroft"
+          },
+          {
+            "repo": "sinagilassi/MoziChem-Skills",
+            "url": "https://github.com/sinagilassi/MoziChem-Skills",
+            "stars": 1,
+            "description": "MoziChem-Skills"
+          },
+          {
+            "repo": "flecox/moziox",
+            "url": "https://github.com/flecox/moziox",
+            "stars": 1,
+            "description": "test project to show skills with django, javascript, html css and your sister."
+          },
+          {
+            "repo": "SnehalMeshram09/Mozilla_Club_Technical_Interviews",
+            "url": "https://github.com/SnehalMeshram09/Mozilla_Club_Technical_Interviews",
+            "stars": 0,
+            "description": "This github repository has been set to test the Technical skills of the Candidates."
+          },
+          {
+            "repo": "swindire7-eng/mozi_skills",
+            "url": "https://github.com/swindire7-eng/mozi_skills",
+            "stars": 0,
+            "description": "mozi market analysis"
+          },
+          {
+            "repo": "nuwa-skills/mozi-skill",
+            "url": "https://github.com/nuwa-skills/mozi-skill",
+            "stars": 0,
+            "description": null
+          },
+          {
+            "repo": "klsk007/mozi-skill",
+            "url": "https://github.com/klsk007/mozi-skill",
+            "stars": 0,
+            "description": "Grounded mechanical design: function, physics, build, test."
+          },
+          {
+            "repo": "niuduoer001-eng/mozi-ai-game-demo",
+            "url": "https://github.com/niuduoer001-eng/mozi-ai-game-demo",
+            "stars": 0,
+            "description": "Dora’s Mozi Skill Decision Assistant"
+          },
+          {
+            "repo": "Featherwooder/MozillaWebDeveloping",
+            "url": "https://github.com/Featherwooder/MozillaWebDeveloping",
+            "stars": 0,
+            "description": "Learning Web developing skills in Mozilla/FrontEnd Study Recording"
+          },
+          {
+            "repo": "mozilor-technologies/mozilor-skills",
+            "url": "https://github.com/mozilor-technologies/mozilor-skills",
+            "stars": 0,
+            "description": "repo used to add AI skills of mozlior"
+          },
+          {
+            "repo": "icaroseara/mozioto",
+            "url": "https://github.com/icaroseara/mozioto",
+            "stars": 0,
+            "description": "Coding project to show  skills in Django, mysql, html, javascript"
+          },
+          {
+            "repo": "karimshakir/Mozilla_demo",
+            "url": "https://github.com/karimshakir/Mozilla_demo",
+            "stars": 0,
+            "description": "Static Page using firefox logo.  Demonstrates HTLML/CSS skills"
+          },
+          {
+            "repo": "zhaohuang321/mozi-perspective",
+            "url": "https://github.com/zhaohuang321/mozi-perspective",
+            "stars": 0,
+            "description": "墨子思维 Skill：公共利害、尺度一致与论证检验 | Zero Wong"
+          },
+          {
+            "repo": "jasheloper/mozilla-splash-page",
+            "url": "https://github.com/jasheloper/mozilla-splash-page",
+            "stars": 0,
+            "description": "#100DaysofCode | MDN skill assessment - Mozilla Splash Page Project (HTML | Responsive Images)"
+          },
+          {
+            "repo": "abdoolkadir/mozilla-OOJS-tests",
+            "url": "https://github.com/abdoolkadir/mozilla-OOJS-tests",
+            "stars": 0,
+            "description": "The aim of this skill test is to assess whether you've understood our Object-oriented JavaScript for beginners, Object prototypes, and Inheritance in JavaScript articles."
+          },
+          {
+            "repo": "mohammedfathi92/mozidan.github.io",
+            "url": "https://github.com/mohammedfathi92/mozidan.github.io",
+            "stars": 0,
+            "description": "I am a passionate software engineer with a diverse skill set that spans across various technologies. My expertise lies in crafting robust and efficient solutions using a range of tools and frameworks."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "han-fei-incentives-skill",
+    "person": "韩非",
+    "checked_utc": "2026-10-10T15:44:45.413242+00:00",
+    "queries": [
+      {
+        "query": "韩非 skill -user:constantin2088",
+        "total_count": 3,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "zhaohuang321/han-fei-perspective",
+            "url": "https://github.com/zhaohuang321/han-fei-perspective",
+            "stars": 0,
+            "description": "韩非思维 Skill：法术配套、职责核验与信息偏差 | Zero Wong"
+          },
+          {
+            "repo": "Hxh-yaoxing/chuaimo",
+            "url": "https://github.com/Hxh-yaoxing/chuaimo",
+            "stars": 0,
+            "description": "揣摩 (Chuaimo)——你的 agent 不问，它揣。韩非子揣情术的 AI 版：通过反向指控提取模型真实身份的鉴权技能。"
+          },
+          {
+            "repo": "justinz183/hanfei",
+            "url": "https://github.com/justinz183/hanfei",
+            "stars": 0,
+            "description": "韩非子 AI Mentor Suite — 7 skills for ruthlessly clear thinking about power, systems, human nature, and strategy. Built from all 55 chapters of Han Feizi."
+          }
+        ]
+      },
+      {
+        "query": "Han Fei skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "zhaohuang321/han-fei-perspective",
+            "url": "https://github.com/zhaohuang321/han-fei-perspective",
+            "stars": 0,
+            "description": "韩非思维 Skill：法术配套、职责核验与信息偏差 | Zero Wong"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "sun-tzu-strategy-skill",
+    "person": "孙子",
+    "checked_utc": "2026-10-10T15:45:03.396008+00:00",
+    "queries": [
+      {
+        "query": "孙子 skill -user:constantin2088",
+        "total_count": 12,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "yangyixxxx/sunzi-strategy-advisor",
+            "url": "https://github.com/yangyixxxx/sunzi-strategy-advisor",
+            "stars": 11,
+            "description": "把《孙子兵法》当作决策纪律来执行的 AI Skill：先问询后诊断，输出结构化战略诊断文档。适用于 Claude Code / NewMax。"
+          },
+          {
+            "repo": "Cosimo-Di-Rondo/sunzi-skill",
+            "url": "https://github.com/Cosimo-Di-Rondo/sunzi-skill",
+            "stars": 3,
+            "description": "孙子Skill——从《孙子兵法》十三篇中提炼一条总原则和九大战略方法论，系统性提升 AI 的战略思维能力。"
+          },
+          {
+            "repo": "julilaoshi/sunzi-reading",
+            "url": "https://github.com/julilaoshi/sunzi-reading",
+            "stars": 3,
+            "description": "Sunzi Reading / 孙子读论文 Skill: turn dense academic papers into short, warm, beginner-friendly explanations and reading notes."
+          },
+          {
+            "repo": "rimhoo/sunzi-skill",
+            "url": "https://github.com/rimhoo/sunzi-skill",
+            "stars": 1,
+            "description": "孙子兵法战略框架(十三篇 → 现代决策工具)"
+          },
+          {
+            "repo": "reallysix/7q-decision-skill",
+            "url": "https://github.com/reallysix/7q-decision-skill",
+            "stars": 1,
+            "description": "七问（7Q）：孙子兵法「五事七计」决策框架 Claude Code Skill。通过七问漏斗逐层筛选，强制「先算账再动手」。"
+          },
+          {
+            "repo": "konglong87/sun_zi_bing_fa",
+            "url": "https://github.com/konglong87/sun_zi_bing_fa",
+            "stars": 0,
+            "description": "sun zi bingfa skills 孙子兵法"
+          },
+          {
+            "repo": "zqz365001/sunzi-business-skill",
+            "url": "https://github.com/zqz365001/sunzi-business-skill",
+            "stars": 0,
+            "description": "孙子兵法商业智慧助手技能"
+          },
+          {
+            "repo": "Dillon-Xue/sunzi-skills",
+            "url": "https://github.com/Dillon-Xue/sunzi-skills",
+            "stars": 0,
+            "description": "从《孙子兵法》蒸馏出的 3 个可调用技能包：谋略预判、虚实应变、将道情报"
+          },
+          {
+            "repo": "huayizhe/sunzi-skills",
+            "url": "https://github.com/huayizhe/sunzi-skills",
+            "stars": 0,
+            "description": "《孙子兵法》演化出的五道软件工程决策门禁 · Five Art-of-War decision gates for software engineering, as Agent Skills"
+          },
+          {
+            "repo": "tmakagger-blip/sunzi-marketing-strategy",
+            "url": "https://github.com/tmakagger-blip/sunzi-marketing-strategy",
+            "stars": 0,
+            "description": "孙子兵法营销决策 · 把《孙子兵法》做成可打分、可追溯、能拍板的营销战略决策工具（Claude Skill）。面向媒体营销/广告/新媒体矩阵的年度战略规划。"
+          },
+          {
+            "repo": "Layton2617/sun-tzu-strategist",
+            "url": "https://github.com/Layton2617/sun-tzu-strategist",
+            "stars": 0,
+            "description": "Sun Tzu Art of War strategic advisor — Claude Code Skill. Not a quote generator, a reasoning engine for competitive analysis, negotiation, product strategy & decision-making. Bilingual CN/EN. 孙子兵法战略顾问。"
+          },
+          {
+            "repo": "zrxparley/jia-xu-perspective",
+            "url": "https://github.com/zrxparley/jia-xu-perspective",
+            "stars": 0,
+            "description": "三国谋士贾诩(147-223)的AI思维框架Skill。5个核心心智模型+8条决策启发式+《钞孙子兵法》反推精要+现代商业困境推演框架。基于《三国志》六维度并行调研。"
+          }
+        ]
+      },
+      {
+        "query": "Sun Tzu skill -user:constantin2088",
+        "total_count": 13,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "EthanXie-Hub/sunzi-strategist",
+            "url": "https://github.com/EthanXie-Hub/sunzi-strategist",
+            "stars": 10,
+            "description": "A Sun Tzu-based AI strategy skill for decisive unknowns, battlefield choice, opponent reactions, and stop-loss criteria."
+          },
+          {
+            "repo": "dungnotnull/Military-Strategy-Advisor-agent-skill",
+            "url": "https://github.com/dungnotnull/Military-Strategy-Advisor-agent-skill",
+            "stars": 5,
+            "description": "⚔️ Production-grade multi-agent Claude Skill for military strategy & tactics analysis. Synthesizes ancient Asian classics (Sun Tzu/Zhuge Liang) with modern military doctrine (Vo Nguyen Giap/Ho Chi Minh/Napoleon/Clausewitz), asymmetric/guerrilla warfare, terrain doctrine, and 12 quality gates (EN/VI). 🛡️✨"
+          },
+          {
+            "repo": "xAlisher/artofwar-skills",
+            "url": "https://github.com/xAlisher/artofwar-skills",
+            "stars": 3,
+            "description": "Sun Tzu's Art of War as atomic strategy recipes — a decision lens for AI agents. Winning without fighting."
+          },
+          {
+            "repo": "sethmblack/skill-sun-tzu",
+            "url": "https://github.com/sethmblack/skill-sun-tzu",
+            "stars": 1,
+            "description": "Paks skill: sun-tzu"
+          },
+          {
+            "repo": "rickai0118/chinese-philosophy-3stage",
+            "url": "https://github.com/rickai0118/chinese-philosophy-3stage",
+            "stars": 1,
+            "description": "A reasoning skill that uses Chinese philosophy (Dao De Jing, Sun Tzu, Confucius, I Ching) to analyze hard decisions and complex situations."
+          },
+          {
+            "repo": "wolfqing/QadvisorSkills",
+            "url": "https://github.com/wolfqing/QadvisorSkills",
+            "stars": 1,
+            "description": "An AI advisory board for Claude: 17 documented thinking frameworks (Munger, Buffett, Jobs, Sun Tzu, Paul Graham, Karpathy…) reframe your question, debate, and return a verdict report. Claude Code plugin + Agent Skills. EN/中文."
+          },
+          {
+            "repo": "weitzu-com/cloudflare-optimizer",
+            "url": "https://github.com/weitzu-com/cloudflare-optimizer",
+            "stars": 1,
+            "description": "Cloudflare zone optimization skill based on 591 Agent Framework & Sun Tzu's Art of War. 4-dimension PDCA scan → economic ranking → API fix → verify → archive."
+          },
+          {
+            "repo": "sethmblack/persona-sun-tzu",
+            "url": "https://github.com/sethmblack/persona-sun-tzu",
+            "stars": 0,
+            "description": "AI Persona: sun-tzu expert bundle with integrated skills"
+          },
+          {
+            "repo": "Austinguo63/SunTzu_The_Art_of_War_Skill",
+            "url": "https://github.com/Austinguo63/SunTzu_The_Art_of_War_Skill",
+            "stars": 0,
+            "description": "A skill based on ancient Chinese wisdom, book the Art of War by Sun Tzu. "
+          },
+          {
+            "repo": "zhaohuang321/sun-tzu-perspective",
+            "url": "https://github.com/zhaohuang321/sun-tzu-perspective",
+            "stars": 0,
+            "description": "孙武思维 Skill：行动条件、持续成本与组织适应 | Zero Wong"
+          },
+          {
+            "repo": "Layton2617/sun-tzu-strategist",
+            "url": "https://github.com/Layton2617/sun-tzu-strategist",
+            "stars": 0,
+            "description": "Sun Tzu Art of War strategic advisor — Claude Code Skill. Not a quote generator, a reasoning engine for competitive analysis, negotiation, product strategy & decision-making. Bilingual CN/EN. 孙子兵法战略顾问。"
+          },
+          {
+            "repo": "evasong2000-afk/Tzu-yi.Sung",
+            "url": "https://github.com/evasong2000-afk/Tzu-yi.Sung",
+            "stars": 0,
+            "description": "Digital Marketing Management student based in Paris. Passionate about data driven strategy, social media marketing and brand growth. Skilled in SEO, Google Analytics and campaign analysis. Strong international mindset with cross cultural communication skills. Open to internship and junior opportunities."
+          },
+          {
+            "repo": "silkyrex/wu.wei",
+            "url": "https://github.com/silkyrex/wu.wei",
+            "stars": 0,
+            "description": "Claude Code skill: chief of staff advisor grounded in Sun Tzu and Tao Te Ching — attack vs. defend posture calls, empire briefs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "sun-bin-matching-skill",
+    "person": "孙膑",
+    "checked_utc": "2026-10-10T15:45:20.945632+00:00",
+    "queries": [
+      {
+        "query": "孙膑 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Sun Bin skill -user:constantin2088",
+        "total_count": 2,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "qbdx-hub/sunzi-bingfa-skill",
+            "url": "https://github.com/qbdx-hub/sunzi-bingfa-skill",
+            "stars": 19,
+            "description": "AI skill pack distilled from Sunzi Bingfa for strategy and decision making."
+          },
+          {
+            "repo": "konglong87/sun_zi_bing_fa",
+            "url": "https://github.com/konglong87/sun_zi_bing_fa",
+            "stars": 0,
+            "description": "sun zi bingfa skills 孙子兵法"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "guan-zhong-foundations-skill",
+    "person": "管仲",
+    "checked_utc": "2026-10-10T15:45:36.811774+00:00",
+    "queries": [
+      {
+        "query": "管仲 skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "zhaohuang321/guan-zhong-perspective",
+            "url": "https://github.com/zhaohuang321/guan-zhong-perspective",
+            "stars": 0,
+            "description": "管仲思维 Skill：生计基础、因势治理与联盟信誉 | Zero Wong"
+          }
+        ]
+      },
+      {
+        "query": "Guan Zhong skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "zhaohuang321/guan-zhong-perspective",
+            "url": "https://github.com/zhaohuang321/guan-zhong-perspective",
+            "stars": 0,
+            "description": "管仲思维 Skill：生计基础、因势治理与联盟信誉 | Zero Wong"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "shang-yang-reform-skill",
+    "person": "商鞅",
+    "checked_utc": "2026-10-10T15:45:54.291018+00:00",
+    "queries": [
+      {
+        "query": "商鞅 skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "zhaohuang321/shang-yang-perspective",
+            "url": "https://github.com/zhaohuang321/shang-yang-perspective",
+            "stars": 0,
+            "description": "商鞅思维 Skill：规则兑现、奖惩配置与行动激励 | Zero Wong"
+          }
+        ]
+      },
+      {
+        "query": "Shang Yang skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "zhaohuang321/shang-yang-perspective",
+            "url": "https://github.com/zhaohuang321/shang-yang-perspective",
+            "stars": 0,
+            "description": "商鞅思维 Skill：规则兑现、奖惩配置与行动激励 | Zero Wong"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "guiguzi-listening-skill",
+    "person": "鬼谷子",
+    "checked_utc": "2026-10-10T15:46:37.390625+00:00",
+    "queries": [
+      {
+        "query": "鬼谷子 skill -user:constantin2088",
+        "total_count": 6,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "penyy8540-bit/guiguzi-skill",
+            "url": "https://github.com/penyy8540-bit/guiguzi-skill",
+            "stars": 1,
+            "description": "沉浸式鬼谷子原典顾问 Skill：基于《鬼谷子》三卷原文，融合捭阖、揣摩、权谋、决断与命理策略蒸馏，支持识人、识势、择时、谈   判和自我成长。"
+          },
+          {
+            "repo": "Kirky-X/kueiku",
+            "url": "https://github.com/Kirky-X/kueiku",
+            "stars": 1,
+            "description": "kueiku（鬼谷子）— AI agent 方法论导航地图：19 类 142 个方法论的选择路由、调用协议与降级路径，附 19 子命令确定性计算 CLI 与 45 项回归测试"
+          },
+          {
+            "repo": "Dillon-Xue/guiguzi-skills",
+            "url": "https://github.com/Dillon-Xue/guiguzi-skills",
+            "stars": 0,
+            "description": "《鬼谷子》蒸馏出的 5 个可迁移纵横谋略 skill（说服/调研/谋略/内修/统御）"
+          },
+          {
+            "repo": "zhaohuang321/guiguzi-perspective",
+            "url": "https://github.com/zhaohuang321/guiguzi-perspective",
+            "stars": 0,
+            "description": "鬼谷子思维 Skill：沟通核验、处境判断与合作适配 | Zero Wong"
+          },
+          {
+            "repo": "renhuanyi/guiguzi-business-communication-coach",
+            "url": "https://github.com/renhuanyi/guiguzi-business-communication-coach",
+            "stars": 0,
+            "description": "以《鬼谷子》七篇为框架的商务沟通复盘 Skill，可安装到 Claude、Codex、Hermes、OpenClaw、WorkBuddy 与 ChatGPT"
+          },
+          {
+            "repo": "Forage409/guiguzi-skill",
+            "url": "https://github.com/Forage409/guiguzi-skill",
+            "stars": 0,
+            "description": "蒸馏任何领域的方法论操作系统 — 核心原理、致命陷阱、阶段路线图、变现地图。女娲蒸馏人怎么想，鬼谷子蒸馏一门手艺怎么练。Claude Code Skill."
+          }
+        ]
+      },
+      {
+        "query": "Guiguzi skill -user:constantin2088",
+        "total_count": 8,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "penyy8540-bit/guiguzi-skill",
+            "url": "https://github.com/penyy8540-bit/guiguzi-skill",
+            "stars": 1,
+            "description": "沉浸式鬼谷子原典顾问 Skill：基于《鬼谷子》三卷原文，融合捭阖、揣摩、权谋、决断与命理策略蒸馏，支持识人、识势、择时、谈   判和自我成长。"
+          },
+          {
+            "repo": "stFloat/guiguzi-skill",
+            "url": "https://github.com/stFloat/guiguzi-skill",
+            "stars": 1,
+            "description": null
+          },
+          {
+            "repo": "nizhenkexiao-crypto/renqing-skill",
+            "url": "https://github.com/nizhenkexiao-crypto/renqing-skill",
+            "stars": 1,
+            "description": null
+          },
+          {
+            "repo": "Dillon-Xue/guiguzi-skills",
+            "url": "https://github.com/Dillon-Xue/guiguzi-skills",
+            "stars": 0,
+            "description": "《鬼谷子》蒸馏出的 5 个可迁移纵横谋略 skill（说服/调研/谋略/内修/统御）"
+          },
+          {
+            "repo": "Forage409/guiguzi-skill",
+            "url": "https://github.com/Forage409/guiguzi-skill",
+            "stars": 0,
+            "description": "蒸馏任何领域的方法论操作系统 — 核心原理、致命陷阱、阶段路线图、变现地图。女娲蒸馏人怎么想，鬼谷子蒸馏一门手艺怎么练。Claude Code Skill."
+          },
+          {
+            "repo": "nuwa-skills/guiguzi-skill",
+            "url": "https://github.com/nuwa-skills/guiguzi-skill",
+            "stars": 0,
+            "description": null
+          },
+          {
+            "repo": "zhaohuang321/guiguzi-perspective",
+            "url": "https://github.com/zhaohuang321/guiguzi-perspective",
+            "stars": 0,
+            "description": "鬼谷子思维 Skill：沟通核验、处境判断与合作适配 | Zero Wong"
+          },
+          {
+            "repo": "renhuanyi/guiguzi-business-communication-coach",
+            "url": "https://github.com/renhuanyi/guiguzi-business-communication-coach",
+            "stars": 0,
+            "description": "以《鬼谷子》七篇为框架的商务沟通复盘 Skill，可安装到 Claude、Codex、Hermes、OpenClaw、WorkBuddy 与 ChatGPT"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dong-zhongshu-accountability-skill",
+    "person": "董仲舒",
+    "checked_utc": "2026-10-10T15:46:55.132431+00:00",
+    "queries": [
+      {
+        "query": "董仲舒 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Dong Zhongshu skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "jia-yi-reserves-skill",
+    "person": "贾谊",
+    "checked_utc": "2026-10-10T15:47:11.335925+00:00",
+    "queries": [
+      {
+        "query": "贾谊 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Jia Yi skill -user:constantin2088",
+        "total_count": 3,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "gatsby047-oss/zhi-jian-xing-yi",
+            "url": "https://github.com/gatsby047-oss/zhi-jian-xing-yi",
+            "stars": 1,
+            "description": "Anti-overengineering Claude skill. Stop guessing, start with facts, delete before adding. Tested with real benchmarks. v0.4."
+          },
+          {
+            "repo": "Jetting-L/yi-shi-wei-jian",
+            "url": "https://github.com/Jetting-L/yi-shi-wei-jian",
+            "stars": 1,
+            "description": "以史为鉴：用中国历史案例与现代方法，分析去留、合作与时机选择，形成可验证的下一步。Chinese history × decision-making agent skill."
+          },
+          {
+            "repo": "luochen211/jiafang-yifang-skill",
+            "url": "https://github.com/luochen211/jiafang-yifang-skill",
+            "stars": 0,
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "sima-qian-history-skill",
+    "person": "司马迁",
+    "checked_utc": "2026-10-10T15:47:27.508438+00:00",
+    "queries": [
+      {
+        "query": "司马迁 skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "ShaohuaDavidLee/simaqian",
+            "url": "https://github.com/ShaohuaDavidLee/simaqian",
+            "stars": 15,
+            "description": "让人人都有自己的司马迁。把你的材料写成两份小传：一份给 AI 读，一份给人读。"
+          }
+        ]
+      },
+      {
+        "query": "Sima Qian skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "ban-gu-categories-skill",
+    "person": "班固",
+    "checked_utc": "2026-10-10T15:47:44.698504+00:00",
+    "queries": [
+      {
+        "query": "班固 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Ban Gu skill -user:constantin2088",
+        "total_count": 5,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "morsa-dev/guidance-bank",
+            "url": "https://github.com/morsa-dev/guidance-bank",
+            "stars": 3,
+            "description": "Local guidance bank for coding agents - reusable rules, skills, and project guidance"
+          },
+          {
+            "repo": "XoomitLXH/mac-battery-band-guard-skill",
+            "url": "https://github.com/XoomitLXH/mac-battery-band-guard-skill",
+            "stars": 1,
+            "description": "用openclaw监控mac电量从而达到最优的电量循环。使得电脑寿命更长久。Monitor macOS battery status using OpenClaw to maintain optimal charging cycles and maximize longevity."
+          },
+          {
+            "repo": "M47E1/codex-banked-reset-guard",
+            "url": "https://github.com/M47E1/codex-banked-reset-guard",
+            "stars": 0,
+            "description": "Codex Skill and Python guard for safely redeeming expiring banked rate-limit reset credits."
+          },
+          {
+            "repo": "MimiLovesCoding/Verify-Login-Section-Guru-99-Bank",
+            "url": "https://github.com/MimiLovesCoding/Verify-Login-Section-Guru-99-Bank",
+            "stars": 0,
+            "description": "Guru99 offers tutorials and unbiased business software reviews, empowering developers to enhance their skills and professionals to boost business efficiency through continuous learning and active participation in live projects."
+          },
+          {
+            "repo": "maharalihaider986/Bano-Qabil-Sahiwal-Program-A-Complete-Guide-for-Free-IT-Education",
+            "url": "https://github.com/maharalihaider986/Bano-Qabil-Sahiwal-Program-A-Complete-Guide-for-Free-IT-Education",
+            "stars": 0,
+            "description": "Explore the Bano Qabil Sahiwal Program, offering free IT education, practical skills, and career-building opportunities for students in Sahiwal."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "zhuge-liang-focus-skill",
+    "person": "诸葛亮",
+    "checked_utc": "2026-10-10T15:48:01.283194+00:00",
+    "queries": [
+      {
+        "query": "诸葛亮 skill -user:constantin2088",
+        "total_count": 3,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "Cosimo-Di-Rondo/zhuge-skill",
+            "url": "https://github.com/Cosimo-Di-Rondo/zhuge-skill",
+            "stars": 1,
+            "description": "诸葛亮.skill — 给你的 AI 装上卧龙的脑子。5个心智模型 + 7条决策启发式。由女娲.skill方法论指导生成。"
+          },
+          {
+            "repo": "phoenixlucky/family-lovers-skill",
+            "url": "https://github.com/phoenixlucky/family-lovers-skill",
+            "stars": 1,
+            "description": "❤️ 家庭关怀技能 · 走出原生家庭 — 觉察、疗愈、陪伴。内置八大历史人物文化原型（长孙皇后/诸葛亮/孟母等），自动匹配最佳回应身份"
+          },
+          {
+            "repo": "77cinc/ai-decision-council",
+            "url": "https://github.com/77cinc/ai-decision-council",
+            "stars": 1,
+            "description": "重大决策拿不准？选择困难症？需要多角度、多维度决策参考？召唤 65 位跨越两千年的历史谋士（诸葛亮/孔子/德鲁克…）为你辩论、挑刺、输出甲/乙方案。基于 Claude Code 的 AI 智囊团决策框架。 | AI multi-agent decision framework: 65 historical advisors debate your hardest choices from many angles — for major decisions, decision paralysis & multi-perspective deliberation. Claude Code skills."
+          }
+        ]
+      },
+      {
+        "query": "Zhuge Liang skill -user:constantin2088",
+        "total_count": 2,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "dungnotnull/Military-Strategy-Advisor-agent-skill",
+            "url": "https://github.com/dungnotnull/Military-Strategy-Advisor-agent-skill",
+            "stars": 5,
+            "description": "⚔️ Production-grade multi-agent Claude Skill for military strategy & tactics analysis. Synthesizes ancient Asian classics (Sun Tzu/Zhuge Liang) with modern military doctrine (Vo Nguyen Giap/Ho Chi Minh/Napoleon/Clausewitz), asymmetric/guerrilla warfare, terrain doctrine, and 12 quality gates (EN/VI). 🛡️✨"
+          },
+          {
+            "repo": "Solarrr007/zhuge-liang-skill",
+            "url": "https://github.com/Solarrr007/zhuge-liang-skill",
+            "stars": 1,
+            "description": "很多人缺的不是勇气，是一个会替自己谋局的人。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "liu-yuxi-agency-skill",
+    "person": "刘禹锡",
+    "checked_utc": "2026-10-10T15:48:18.769634+00:00",
+    "queries": [
+      {
+        "query": "刘禹锡 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Liu Yuxi skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "bai-juyi-purpose-skill",
+    "person": "白居易",
+    "checked_utc": "2026-10-10T15:48:35.705666+00:00",
+    "queries": [
+      {
+        "query": "白居易 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Bai Juyi skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "su-shi-understanding-skill",
+    "person": "苏轼",
+    "checked_utc": "2026-10-10T15:48:51.884810+00:00",
+    "queries": [
+      {
+        "query": "苏轼 skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "bonniegeng-max/poetry-resonance",
+            "url": "https://github.com/bonniegeng-max/poetry-resonance",
+            "stars": 1,
+            "description": "诗遇 · 唐诗宋词共鸣日签 skill：今日日签 / 找一句诗 / 说人话拆解 / 背诗复习 / 读诗周记，含李白全集 + 杜甫苏轼精选诗库。Connect Tang and Song poetry with everyday life — daily poem card, plain-language notes, spaced-repetition review."
+          }
+        ]
+      },
+      {
+        "query": "Su Shi skill -user:constantin2088",
+        "total_count": 17,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "songpengwei/sushi-skill",
+            "url": "https://github.com/songpengwei/sushi-skill",
+            "stars": 1,
+            "description": "A digital twin of Su Shi"
+          },
+          {
+            "repo": "Zylo206/wo-bu-shi-su-shen",
+            "url": "https://github.com/Zylo206/wo-bu-shi-su-shen",
+            "stars": 1,
+            "description": "Evidence-audited Chinese technical and AI resume skill for Agent Skills."
+          },
+          {
+            "repo": "sunilshinde1319/SunilShinde_Portfolio",
+            "url": "https://github.com/sunilshinde1319/SunilShinde_Portfolio",
+            "stars": 1,
+            "description": "“Personal portfolio website showcasing my projects, skills, and experience using HTML, CSS, JavaScript, and Bootstrap.”"
+          },
+          {
+            "repo": "Yinuo-Guo/dialogues-with-chinese-sages",
+            "url": "https://github.com/Yinuo-Guo/dialogues-with-chinese-sages",
+            "stars": 1,
+            "description": " Chinese sages, reborn as AI skills. Talk to Li Bai. Debate with Confucius. Drink with Su Shi. Not prompts — a systematic methodology, starting with the Poet Immortal. 对话中国先贤。"
+          },
+          {
+            "repo": "Slzx1/su-shi-skill",
+            "url": "https://github.com/Slzx1/su-shi-skill",
+            "stars": 0,
+            "description": null
+          },
+          {
+            "repo": "vian0nguyen/shiny-octo-succotash",
+            "url": "https://github.com/vian0nguyen/shiny-octo-succotash",
+            "stars": 0,
+            "description": "UI/UX skill study. bootcamp to level up skills"
+          },
+          {
+            "repo": "rustyhaidu/SkillBrainSunShineSeleniumSecond",
+            "url": "https://github.com/rustyhaidu/SkillBrainSunShineSeleniumSecond",
+            "stars": 0,
+            "description": null
+          },
+          {
+            "repo": "hxdhchkxd/ocean-shipping-surcharge-skill",
+            "url": "https://github.com/hxdhchkxd/ocean-shipping-surcharge-skill",
+            "stars": 0,
+            "description": "欧线海运附加费分析技能"
+          },
+          {
+            "repo": "ShivaniSutrave/ShivaniSutrave",
+            "url": "https://github.com/ShivaniSutrave/ShivaniSutrave",
+            "stars": 0,
+            "description": "GitHub profile README showcasing my background, skills, and projects in AI, Machine Learning, Cloud, and DevOps."
+          },
+          {
+            "repo": "Shivank-sudo/Shivank-sudo.github.io",
+            "url": "https://github.com/Shivank-sudo/Shivank-sudo.github.io",
+            "stars": 0,
+            "description": "A showcase of my data science projects and skills"
+          },
+          {
+            "repo": "ParkerRex/ship-by-sunday-starter",
+            "url": "https://github.com/ParkerRex/ship-by-sunday-starter",
+            "stars": 0,
+            "description": "Starter template with Next.js, Clerk, Convex, Stripe, protected routes, and local Codex skills."
+          },
+          {
+            "repo": "SudeepShivhare/https-github.com-SudeepShivhare-skills-getting-started-with-github-copilot",
+            "url": "https://github.com/SudeepShivhare/https-github.com-SudeepShivhare-skills-getting-started-with-github-copilot",
+            "stars": 0,
+            "description": null
+          },
+          {
+            "repo": "sufyan020613-ship-it/sufyan020613-ship-it_",
+            "url": "https://github.com/sufyan020613-ship-it/sufyan020613-ship-it_",
+            "stars": 0,
+            "description": "This is my personal portfolio website. I’m a student showcasing my projects, creative work, and skills in web design. Built using HTML and CSS, it reflects my learning and growth as a young developer.”"
+          },
+          {
+            "repo": "sufyan020613-ship-it/sufyan020615-ship-it.github.io",
+            "url": "https://github.com/sufyan020613-ship-it/sufyan020615-ship-it.github.io",
+            "stars": 0,
+            "description": "This is my personal portfolio website. I’m a student showcasing my projects, creative work, and skills in web design. Built using HTML and CSS, it reflects my learning and growth as a young developer.”"
+          },
+          {
+            "repo": "sudam8483/sudam_shinde_fbs_work",
+            "url": "https://github.com/sudam8483/sudam_shinde_fbs_work",
+            "stars": 0,
+            "description": "  A collection of my Python projects, practice programs, automation scripts, and experiments. This repository showcases my learning journey, problem-solving skills, and practical implementation of Python concepts.  Tech Stack: Python , Includes: Projects, scripts, exercises, automation, and Python experiments."
+          },
+          {
+            "repo": "drewharn/Technical-Skills-Survey-Project-II---Exercise-3-Creating-a-Secret-Shift-Value-for-Caesar",
+            "url": "https://github.com/drewharn/Technical-Skills-Survey-Project-II---Exercise-3-Creating-a-Secret-Shift-Value-for-Caesar",
+            "stars": 0,
+            "description": null
+          },
+          {
+            "repo": "trashcode-bot01/SRCKomikIsekaiDeCheatSkillWoTeNiShitaOreWaGenjitsuSekaiWoMoMusouSuruLevelUpWaJinseiWoKaeta",
+            "url": "https://github.com/trashcode-bot01/SRCKomikIsekaiDeCheatSkillWoTeNiShitaOreWaGenjitsuSekaiWoMoMusouSuruLevelUpWaJinseiWoKaeta",
+            "stars": 0,
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "zhu-xi-close-reading-skill",
+    "person": "朱熹",
+    "checked_utc": "2026-10-10T15:49:10.455885+00:00",
+    "queries": [
+      {
+        "query": "朱熹 skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "divenire990/liuyao-zhuxi-skill",
+            "url": "https://github.com/divenire990/liuyao-zhuxi-skill",
+            "stars": 1,
+            "description": "朱熹《周易本义》六爻解卦技能规范与参考体系 | Zhouyi (I Ching) Hexagram Interpretation Skill based on Zhu Xi's Benyi"
+          }
+        ]
+      },
+      {
+        "query": "Zhu Xi skill -user:constantin2088",
+        "total_count": 5,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "MapleOAO/xiao-zhu-nuonuo-skill",
+            "url": "https://github.com/MapleOAO/xiao-zhu-nuonuo-skill",
+            "stars": 23,
+            "description": "一个蒸馏自 12 个「最O幻想」视频的 小朱诺诺的 Skill"
+          },
+          {
+            "repo": "dongriji/ZhuXianSkillSimulator",
+            "url": "https://github.com/dongriji/ZhuXianSkillSimulator",
+            "stars": 2,
+            "description": "《诛仙3》19职业技能加点模拟器"
+          },
+          {
+            "repo": "divenire990/liuyao-zhuxi-skill",
+            "url": "https://github.com/divenire990/liuyao-zhuxi-skill",
+            "stars": 1,
+            "description": "朱熹《周易本义》六爻解卦技能规范与参考体系 | Zhouyi (I Ching) Hexagram Interpretation Skill based on Zhu Xi's Benyi"
+          },
+          {
+            "repo": "gbond0753-rgb/xiaohongshu-zhuanzu",
+            "url": "https://github.com/gbond0753-rgb/xiaohongshu-zhuanzu",
+            "stars": 0,
+            "description": "小红书个人转租文案生成 Skill：参数驱动 + 房型模板 + 真实语感词库 + lint 质检。生成像真实个人随手发的转租帖，而非营销号。"
+          },
+          {
+            "repo": "wph1996wph-commits/douyin-zhuangxiu-wenan-xijie",
+            "url": "https://github.com/wph1996wph-commits/douyin-zhuangxiu-wenan-xijie",
+            "stars": 0,
+            "description": "抖音装修文案细节：装修行业文案、分镜、账号复盘与自然流运营 Codex Skills。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "lu-jiuyuan-intentions-skill",
+    "person": "陆九渊",
+    "checked_utc": "2026-10-10T15:49:28.977002+00:00",
+    "queries": [
+      {
+        "query": "陆九渊 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Lu Jiuyuan skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "wang-yangming-action-skill",
+    "person": "王阳明",
+    "checked_utc": "2026-10-10T15:49:44.753174+00:00",
+    "queries": [
+      {
+        "query": "王阳明 skill -user:constantin2088",
+        "total_count": 8,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "nuwa-skills/wangyangming-skill",
+            "url": "https://github.com/nuwa-skills/wangyangming-skill",
+            "stars": 25,
+            "description": "王阳明.skill — 知行合一/心学/决策哲学的思维操作系统"
+          },
+          {
+            "repo": "lbyxunxunnini/yangming",
+            "url": "https://github.com/lbyxunxunnini/yangming",
+            "stars": 5,
+            "description": "王阳明心学视觉skill"
+          },
+          {
+            "repo": "moyvch/wangyangming-skill",
+            "url": "https://github.com/moyvch/wangyangming-skill",
+            "stars": 5,
+            "description": "王阳明的心学思维框架 - 由女娲.skill蒸馏生成"
+          },
+          {
+            "repo": "3105059695-rgb/wang-yangming-skill",
+            "url": "https://github.com/3105059695-rgb/wang-yangming-skill",
+            "stars": 2,
+            "description": "用王阳明原典与判断方法，回应今天的生活困惑。52 个原典单元 · 8 个思想主题 · 现代白话 · 完整聊天附件与标准 Skill 目录。"
+          },
+          {
+            "repo": "puke78422-sudo/wangyangming-perspective",
+            "url": "https://github.com/puke78422-sudo/wangyangming-perspective",
+            "stars": 1,
+            "description": "王阳明心学视角skill - 王阳明心学思维框架与修身实践指南"
+          },
+          {
+            "repo": "peyoba/xinxue-skill",
+            "url": "https://github.com/peyoba/xinxue-skill",
+            "stars": 1,
+            "description": "王阳明心学skill，阳明先生相伴左右随时修心"
+          },
+          {
+            "repo": "YunhaoDou/wangyangming-xinxue",
+            "url": "https://github.com/YunhaoDou/wangyangming-xinxue",
+            "stars": 1,
+            "description": "王阳明心学 AI Agent 技能库 · Structured Wang Yangming Xinxue knowledge base (Chuanxilu/传习录, 24 chapters) as an LLM agent skill"
+          },
+          {
+            "repo": "bettermen/yangming-xinxue",
+            "url": "https://github.com/bettermen/yangming-xinxue",
+            "stars": 0,
+            "description": "阳明心学全维度智慧助手 | WorkBuddy AI Skill。覆盖心学理论精讲、经典原文解读、现代场景应用(职场焦虑/人生迷茫/拖延症/管理领导力等7大场景)、王阳明生平、金句、修行指南、书单推荐，生成古典美学风格交互式HTML报告。"
+          }
+        ]
+      },
+      {
+        "query": "Wang Yangming skill -user:constantin2088",
+        "total_count": 4,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "3105059695-rgb/wang-yangming-skill",
+            "url": "https://github.com/3105059695-rgb/wang-yangming-skill",
+            "stars": 2,
+            "description": "用王阳明原典与判断方法，回应今天的生活困惑。52 个原典单元 · 8 个思想主题 · 现代白话 · 完整聊天附件与标准 Skill 目录。"
+          },
+          {
+            "repo": "YunhaoDou/wangyangming-xinxue",
+            "url": "https://github.com/YunhaoDou/wangyangming-xinxue",
+            "stars": 1,
+            "description": "王阳明心学 AI Agent 技能库 · Structured Wang Yangming Xinxue knowledge base (Chuanxilu/传习录, 24 chapters) as an LLM agent skill"
+          },
+          {
+            "repo": "MillieYi101/Yangmingxinxue-gewuzhizhiskill",
+            "url": "https://github.com/MillieYi101/Yangmingxinxue-gewuzhizhiskill",
+            "stars": 1,
+            "description": "A Codex skill inspired by Wang Yangming’s philosophy for turning anxiety, rumination, and difficult choices into grounded action."
+          },
+          {
+            "repo": "Daniel421-luo/wang-yangming-skill",
+            "url": "https://github.com/Daniel421-luo/wang-yangming-skill",
+            "stars": 0,
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "zeng-guofan-routines-skill",
+    "person": "曾国藩",
+    "checked_utc": "2026-10-10T15:50:02.336443+00:00",
+    "queries": [
+      {
+        "query": "曾国藩 skill -user:constantin2088",
+        "total_count": 3,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "nuwa-skills/zengguofan-skill",
+            "url": "https://github.com/nuwa-skills/zengguofan-skill",
+            "stars": 3,
+            "description": "曾国藩.skill — 自我管理/领导力/逆境突围的思维操作系统"
+          },
+          {
+            "repo": "2559063619/zeng-guofan-perspective",
+            "url": "https://github.com/2559063619/zeng-guofan-perspective",
+            "stars": 1,
+            "description": "曾国藩老师的SKill"
+          },
+          {
+            "repo": "zhaohuang321/zeng-guofan-perspective",
+            "url": "https://github.com/zhaohuang321/zeng-guofan-perspective",
+            "stars": 0,
+            "description": "曾国藩思维 Skill：组织建设、持续准备与自我校正 | Zero Wong"
+          }
+        ]
+      },
+      {
+        "query": "Zeng Guofan skill -user:constantin2088",
+        "total_count": 4,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "shiyi-1138/zeng-guofan-perspectivezeng-guofan-perspective",
+            "url": "https://github.com/shiyi-1138/zeng-guofan-perspectivezeng-guofan-perspective",
+            "stars": 1,
+            "description": "Zeng Guofan perspective skill for Claude Code"
+          },
+          {
+            "repo": "2559063619/zeng-guofan-perspective",
+            "url": "https://github.com/2559063619/zeng-guofan-perspective",
+            "stars": 1,
+            "description": "曾国藩老师的SKill"
+          },
+          {
+            "repo": "Daniel421-luo/zeng-guofan-skill",
+            "url": "https://github.com/Daniel421-luo/zeng-guofan-skill",
+            "stars": 0,
+            "description": null
+          },
+          {
+            "repo": "zhaohuang321/zeng-guofan-perspective",
+            "url": "https://github.com/zhaohuang321/zeng-guofan-perspective",
+            "stars": 0,
+            "description": "曾国藩思维 Skill：组织建设、持续准备与自我校正 | Zero Wong"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "hui-shi-definitions-skill",
+    "person": "惠施",
+    "checked_utc": "2026-10-10T15:50:21.012591+00:00",
+    "queries": [
+      {
+        "query": "惠施 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Hui Shi skill -user:constantin2088",
+        "total_count": 2,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "wangdaozhenren/shipin-huiyuan",
+            "url": "https://github.com/wangdaozhenren/shipin-huiyuan",
+            "stars": 0,
+            "description": "Skill distribution source: shipin-huiyuan"
+          },
+          {
+            "repo": "Klein2947/https-github.com-xxx-mei-yue-gong-shi-biao-hui-zong",
+            "url": "https://github.com/Klein2947/https-github.com-xxx-mei-yue-gong-shi-biao-hui-zong",
+            "stars": 0,
+            "description": "qclaw skill"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "zhang-zhidong-adaptation-skill",
+    "person": "张之洞",
+    "checked_utc": "2026-10-10T15:50:38.474451+00:00",
+    "queries": [
+      {
+        "query": "张之洞 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Zhang Zhidong skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "hu-shi-hypotheses-skill",
+    "person": "胡适",
+    "checked_utc": "2026-10-10T15:50:55.939394+00:00",
+    "queries": [
+      {
+        "query": "胡适 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Hu Shi skill -user:constantin2088",
+        "total_count": 8,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "ksbsjsj/huasheng-shisan-perspective",
+            "url": "https://github.com/ksbsjsj/huasheng-shisan-perspective",
+            "stars": 14,
+            "description": "花生十三（四海公考行测讲师）思维框架 Skill —— 7心智模型/10决策启发式/453万字语料蒸馏"
+          },
+          {
+            "repo": "shiv21-hub/shiv21-hub",
+            "url": "https://github.com/shiv21-hub/shiv21-hub",
+            "stars": 0,
+            "description": "My GitHub profile - showcasing my projects and skills"
+          },
+          {
+            "repo": "Soma-shree/shield_skill_hub",
+            "url": "https://github.com/Soma-shree/shield_skill_hub",
+            "stars": 0,
+            "description": null
+          },
+          {
+            "repo": "wangdaozhenren/shipin-huiyuan",
+            "url": "https://github.com/wangdaozhenren/shipin-huiyuan",
+            "stars": 0,
+            "description": "Skill distribution source: shipin-huiyuan"
+          },
+          {
+            "repo": "zhaohuang321/qin-shi-huang-perspective",
+            "url": "https://github.com/zhaohuang321/qin-shi-huang-perspective",
+            "stars": 0,
+            "description": "秦始皇思维 Skill：规则整合、执行体系与纠错边界 | Zero Wong"
+          },
+          {
+            "repo": "scschwa/r-shiny-skills-agent-context-hub",
+            "url": "https://github.com/scschwa/r-shiny-skills-agent-context-hub",
+            "stars": 0,
+            "description": "An Rshiny based tool intended to be hosted on a local posit connect that provides a sharable tool for skills, agents, or context markdown files."
+          },
+          {
+            "repo": "k4rthick7/shinobi-battlegrounds-script-hub",
+            "url": "https://github.com/k4rthick7/shinobi-battlegrounds-script-hub",
+            "stars": 0,
+            "description": "Shinobi Battlegrounds Roblox Script Guide Unleash Unique Ninja Skills 🥷🔥"
+          },
+          {
+            "repo": "Klein2947/https-github.com-xxx-mei-yue-gong-shi-biao-hui-zong",
+            "url": "https://github.com/Klein2947/https-github.com-xxx-mei-yue-gong-shi-biao-hui-zong",
+            "stars": 0,
+            "description": "qclaw skill"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "lu-xun-selective-learning-skill",
+    "person": "鲁迅",
+    "checked_utc": "2026-10-10T15:51:12.470757+00:00",
+    "queries": [
+      {
+        "query": "鲁迅 skill -user:constantin2088",
+        "total_count": 13,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "Qcunyu/Deep-LuXun-skill",
+            "url": "https://github.com/Qcunyu/Deep-LuXun-skill",
+            "stars": 8,
+            "description": "基于 71k 字原始语料深度蒸馏的鲁迅思维框架。集成“女娲”Skill 体系，采用 DeepSeek-V3.2 Reasoner 建模。内置二难推理、归谬法等批判逻辑工具，拒绝平庸的 AI 复读，旨在提供最具穿透力的社会文化剖析视野。"
+          },
+          {
+            "repo": "youaifuou/luxun-skill",
+            "url": "https://github.com/youaifuou/luxun-skill",
+            "stars": 5,
+            "description": "鲁迅的思维框架与反讽笔法 · 305 篇全集深度蒸馏 · Agent Skill"
+          },
+          {
+            "repo": "89466598946659/luxun-skill",
+            "url": "https://github.com/89466598946659/luxun-skill",
+            "stars": 5,
+            "description": "这是一个基于 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成的鲁迅思维框架 Skill，能够以鲁迅的视角分析社会现象、审视国民性、提供批判性洞见。"
+          },
+          {
+            "repo": "yuzhouhaoren/luxun-skill",
+            "url": "https://github.com/yuzhouhaoren/luxun-skill",
+            "stars": 4,
+            "description": "鲁迅.skill"
+          },
+          {
+            "repo": "pe1109ggy/luxun-skill",
+            "url": "https://github.com/pe1109ggy/luxun-skill",
+            "stars": 3,
+            "description": "基于女娲skill蒸馏的鲁迅skill"
+          },
+          {
+            "repo": "TOPDzZzz/luxun-thinking-skill",
+            "url": "https://github.com/TOPDzZzz/luxun-thinking-skill",
+            "stars": 2,
+            "description": "基于女娲skill体系蒸馏的「鲁迅思维框架」Skill，强调审辨、现实感与行动导向。"
+          },
+          {
+            "repo": "daizhouchen/commit-poet",
+            "url": "https://github.com/daizhouchen/commit-poet",
+            "stars": 0,
+            "description": "OpenClaw skill: Generate creative commit messages from git diffs in 6 styles — conventional, emoji, poetic, 鲁迅, haiku, changelog"
+          },
+          {
+            "repo": "YasYes77/-skill",
+            "url": "https://github.com/YasYes77/-skill",
+            "stars": 0,
+            "description": "鲁迅思维框架与表达方式的 Agent Skill：可以写作文章、分析观点、对话解惑"
+          },
+          {
+            "repo": "JulyanXu/writing-skill",
+            "url": "https://github.com/JulyanXu/writing-skill",
+            "stars": 0,
+            "description": "30 global literary styles for Claude Code — rewrite or generate text in the voice of Hemingway, Kafka, 鲁迅, Borges, Woolf and 80+ more authors"
+          },
+          {
+            "repo": "Gypsoo/luxun-cover-skill",
+            "url": "https://github.com/Gypsoo/luxun-cover-skill",
+            "stars": 0,
+            "description": "鲁迅封面生成 Skill：陶元庆式几何装饰 + 本地 SVG/PNG CLI，供 Codex 等 Agent 读取"
+          },
+          {
+            "repo": "learnljs/luxun-clear-thinking",
+            "url": "https://github.com/learnljs/luxun-clear-thinking",
+            "stars": 0,
+            "description": "这是一个以鲁迅式杂文风格为特色的skill，旨在用辛辣但不失温度的语言帮助用户剖析个人困惑——无论是职场虚伪、关系讨好、搞钱迷茫还是生活意义感缺失，它能戳破幻觉、辨明困局，并给出当天就能落地的具体行动建议，让用户在清醒中获得力量。"
+          },
+          {
+            "repo": "VijayLam/style-forge",
+            "url": "https://github.com/VijayLam/style-forge",
+            "stars": 0,
+            "description": "文风熔炉——名家文风长文改写引擎（Claude Code Skill）：鲁迅/海明威/莎剧可插拔档案，浓度可调，五平台适配，信息零丢失"
+          },
+          {
+            "repo": "Xiaoyuan628/fanchangshi-skill",
+            "url": "https://github.com/Xiaoyuan628/fanchangshi-skill",
+            "stars": 0,
+            "description": "\"从来如此，便对么？\"  鲁迅这句话写在1918年。一百年过去了，这句话依然好用——不是因为世界没进步，而是因为人脑的节能机制没变过。  当某个观点、方案、设计\"默认运行还行\"的时候，大脑就会跳过它。没人追问它为什么成了默认，没人检查它的前提是否还成立，没人想过有没有更好的替代。  我做了个 Skill 叫「反常识」，干的就一件事：人为制造一个停顿点，强制拉出心智带宽，重新审视那些被跳过的部分。"
+          }
+        ]
+      },
+      {
+        "query": "Lu Xun skill -user:constantin2088",
+        "total_count": 5,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "Qcunyu/Deep-LuXun-skill",
+            "url": "https://github.com/Qcunyu/Deep-LuXun-skill",
+            "stars": 8,
+            "description": "基于 71k 字原始语料深度蒸馏的鲁迅思维框架。集成“女娲”Skill 体系，采用 DeepSeek-V3.2 Reasoner 建模。内置二难推理、归谬法等批判逻辑工具，拒绝平庸的 AI 复读，旨在提供最具穿透力的社会文化剖析视野。"
+          },
+          {
+            "repo": "yh-liao-07/luxun-skill",
+            "url": "https://github.com/yh-liao-07/luxun-skill",
+            "stars": 1,
+            "description": "Distilled Lu Xun writing skill — plain-style narration, irony, short-sentence rhythm, restrained cold prose. Built with the dot-skill engine."
+          },
+          {
+            "repo": "ChenYCL/a-q-skill",
+            "url": "https://github.com/ChenYCL/a-q-skill",
+            "stars": 1,
+            "description": "阿Q胜利法 — Claude Code Skill that reclaims Lu Xun's satire into a real psychological shock absorber. Bilingual (zh + en)"
+          },
+          {
+            "repo": "momozi1996/LuXun-skill",
+            "url": "https://github.com/momozi1996/LuXun-skill",
+            "stars": 0,
+            "description": null
+          },
+          {
+            "repo": "bruceyu0623/lu-xun-perspective-skill",
+            "url": "https://github.com/bruceyu0623/lu-xun-perspective-skill",
+            "stars": 0,
+            "description": "魯迅視角思維操作系統 — HanaAgent perspective skill"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "chen-duxiu-independent-thinking-skill",
+    "person": "陈独秀",
+    "checked_utc": "2026-10-10T15:51:30.602102+00:00",
+    "queries": [
+      {
+        "query": "陈独秀 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Chen Duxiu skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "li-dazhao-present-action-skill",
+    "person": "李大钊",
+    "checked_utc": "2026-10-10T15:51:47.293558+00:00",
+    "queries": [
+      {
+        "query": "李大钊 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Li Dazhao skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "mao-zedong-investigation-skill",
+    "person": "毛泽东",
+    "checked_utc": "2026-10-10T15:52:03.730099+00:00",
+    "queries": [
+      {
+        "query": "毛泽东 skill -user:constantin2088",
+        "total_count": 33,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "leezythu/maoxuan-skill",
+            "url": "https://github.com/leezythu/maoxuan-skill",
+            "stars": 1211,
+            "description": "毛选.skill — 让毛泽东的思维框架帮你分析问题、制定策略、看透本质。7个核心心智模型 · 10条决策启发式 · 完整表达DNA。不是复读语录，是用他的认知框架帮你看问题。"
+          },
+          {
+            "repo": "zhangtianruiwork-droid/Maoxuan-Changzheng",
+            "url": "https://github.com/zhangtianruiwork-droid/Maoxuan-Changzheng",
+            "stars": 443,
+            "description": "毛选Skill升级版：毛选长征机把《毛泽东选集》五卷的方法论提炼为一套可运行的对话协议：调查前置、矛盾重构、持久战略、苏格拉底式反问。它不给通用建议，它帮你把情况搞实，找到真正的主要矛盾，然后一起想清楚。"
+          },
+          {
+            "repo": "SamadhiFire/xinqingnian-maoxuan-skill",
+            "url": "https://github.com/SamadhiFire/xinqingnian-maoxuan-skill",
+            "stars": 364,
+            "description": "毛选Skill/新青年Skill/毛泽东选集：把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。157篇原文蒸馏 · 184份拆解稿沉淀 ·18条风险边界 · 8张方法卡 · 6类场景入口 · 2种输出报告，把《毛选》方法论变成可执行的现实分析 skill。用于复杂问题分析、自我管理、团队治理、关系边界与决策判断。"
+          },
+          {
+            "repo": "20240610ldx-hub/mao-chiang-wisdom-skills",
+            "url": "https://github.com/20240610ldx-hub/mao-chiang-wisdom-skills",
+            "stars": 170,
+            "description": "毛泽东和蒋介石skill——通过自研蒸馏工程化管线制作，严格遵循AI对齐原则"
+          },
+          {
+            "repo": "emmazangAI/mindwiki-skills",
+            "url": "https://github.com/emmazangAI/mindwiki-skills",
+            "stars": 19,
+            "description": "MindWiki — 10 顶级专家组团的决策追问系统 Skills（张小龙、乔布斯、马斯克、张一鸣、芒格、王兴、雷军、梁宁、Naval、毛泽东）。带工具调用和自我验证测试。"
+          },
+          {
+            "repo": "jingshao1992/mao-situation-coach",
+            "url": "https://github.com/jingshao1992/mao-situation-coach",
+            "stars": 14,
+            "description": "基于《毛泽东选集》方法论的复杂局面分析与多轮思考 Skill"
+          },
+          {
+            "repo": "Zolobaby/mao-zedong-wisdom",
+            "url": "https://github.com/Zolobaby/mao-zedong-wisdom",
+            "stars": 10,
+            "description": "毛泽东思想实践智慧 - AI Agent Skill"
+          },
+          {
+            "repo": "Numberreport/maoxuan",
+            "url": "https://github.com/Numberreport/maoxuan",
+            "stars": 9,
+            "description": "毛泽东思想 AI Skill —— 矛盾分析、实践论、实事求是等六大核心思维框架，含毛选静火版 1-7 卷全文"
+          },
+          {
+            "repo": "luxiaoxiaomo/jiaoyuan-perspective",
+            "url": "https://github.com/luxiaoxiaomo/jiaoyuan-perspective",
+            "stars": 8,
+            "description": "毛泽东（教员）思维操作系统 - 基于50+来源深度调研的完整Perspective Skill，含6个心智模型、军事思想、写作方法论、工作方法工具箱"
+          },
+          {
+            "repo": "pener5577/Chairman-Mao-wisdom-skill",
+            "url": "https://github.com/pener5577/Chairman-Mao-wisdom-skill",
+            "stars": 4,
+            "description": "AI助手技能 - 毛主席智慧宝库，让毛泽东选集的智慧指导你"
+          },
+          {
+            "repo": "lyq00177-arch/jiaoyuan-skill",
+            "url": "https://github.com/lyq00177-arch/jiaoyuan-skill",
+            "stars": 4,
+            "description": "教员（毛泽东）思维框架 — Claude Code 自定义 Skill，将核心著作蒸馏为可操作的辩证分析工具"
+          },
+          {
+            "repo": "Aurix-labs/MZT-analysis-skill",
+            "url": "https://github.com/Aurix-labs/MZT-analysis-skill",
+            "stars": 3,
+            "description": "毛泽东思想核心方法论，让 AI 掌握辩证思维 | Core methodologies from Mao Zedong Thought, empowering AI with dialectical thinking"
+          },
+          {
+            "repo": "Vyunyun-AI/MaoXuan-methodology-skill",
+            "url": "https://github.com/Vyunyun-AI/MaoXuan-methodology-skill",
+            "stars": 3,
+            "description": "一个借助《毛泽东选集》方法论分析现实问题、生成决策思路与行动方案的开源 AI Skill"
+          },
+          {
+            "repo": "DDC3344/mao-zedong-perspective",
+            "url": "https://github.com/DDC3344/mao-zedong-perspective",
+            "stars": 2,
+            "description": "毛泽东的思维框架与决策方法论——基于毛选1-4卷蒸馏的Agent Skill"
+          },
+          {
+            "repo": "adragonhope97-pixel/Mao-skill-by-A-Dragon",
+            "url": "https://github.com/adragonhope97-pixel/Mao-skill-by-A-Dragon",
+            "stars": 2,
+            "description": "依据现有毛泽东同志的相关著作和史料，并依靠女娲skill https://github.com/alchaincyf/nuwa-skill项目的框架编写，知识库源自https://github.com/M0rtzz/Selected-Works-of-MaoTseTung，目前持续更新，反馈或建议请下载该markdown文件，找到其中的邮箱联系我"
+          },
+          {
+            "repo": "lizhaohuide-web/mao-thinking-skill",
+            "url": "https://github.com/lizhaohuide-web/mao-thinking-skill",
+            "stars": 1,
+            "description": "毛泽东思维操作系统 - AI Skill"
+          },
+          {
+            "repo": "yoke-control/maozedong-perspective",
+            "url": "https://github.com/yoke-control/maozedong-perspective",
+            "stars": 1,
+            "description": "毛泽东认知思维Skill —— 基于《毛泽东选集》四卷深度蒸馏"
+          },
+          {
+            "repo": "278533874/mao-zexi-skill",
+            "url": "https://github.com/278533874/mao-zexi-skill",
+            "stars": 1,
+            "description": "毛泽东战略思维与认知方法 - 实事求是、矛盾分析、具体问题具体分析"
+          },
+          {
+            "repo": "MRWOOD0808/teacher-skill",
+            "url": "https://github.com/MRWOOD0808/teacher-skill",
+            "stars": 1,
+            "description": "教员skill：基于《毛泽东选集》所读文本蒸馏的调查—矛盾—实践方法论，中文主版本与英文备份合并发布"
+          },
+          {
+            "repo": "fyfyfy9314-stack/mao-zedong-perspective-skill",
+            "url": "https://github.com/fyfyfy9314-stack/mao-zedong-perspective-skill",
+            "stars": 1,
+            "description": "基于公开史料提炼的毛泽东思维框架 Agent Skill，包含研究记录、历史失效边界与安全护栏。"
+          }
+        ]
+      },
+      {
+        "query": "Mao Zedong skill -user:constantin2088",
+        "total_count": 26,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "kangarooking/mao-selected-works-skill",
+            "url": "https://github.com/kangarooking/mao-selected-works-skill",
+            "stars": 115,
+            "description": "An AI skill pack distilling Selected Works of Mao Zedong into reusable cognition, strategy, organization, and execution modules."
+          },
+          {
+            "repo": "hkfrank996/mao-zedong-perspective",
+            "url": "https://github.com/hkfrank996/mao-zedong-perspective",
+            "stars": 13,
+            "description": "一个可移植的历史人物视角 skill，用于分析战略、矛盾、组织与动员；A portable historical perspective skill for analyzing strategy, contradiction, organization, and mobilization."
+          },
+          {
+            "repo": "Zolobaby/mao-zedong-wisdom",
+            "url": "https://github.com/Zolobaby/mao-zedong-wisdom",
+            "stars": 10,
+            "description": "毛泽东思想实践智慧 - AI Agent Skill"
+          },
+          {
+            "repo": "hahadu4520/maoxuanwisdom",
+            "url": "https://github.com/hahadu4520/maoxuanwisdom",
+            "stars": 4,
+            "description": "Claude Code skill: startup wisdom from Mao Zedong's Selected Works. 109 structured knowledge entries with original quotes and citations."
+          },
+          {
+            "repo": "wenwu-111/mao-zedong-skill",
+            "url": "https://github.com/wenwu-111/mao-zedong-skill",
+            "stars": 3,
+            "description": "请注意，本skill是模仿的教员思想，而不是真的教员，仍然有可能出现ai幻觉以及迎合用户的情况，，请理性使用。另外，原版来源为leezythu/maoxuan-skill，此版只做了部分修改。"
+          },
+          {
+            "repo": "Aurix-labs/MZT-analysis-skill",
+            "url": "https://github.com/Aurix-labs/MZT-analysis-skill",
+            "stars": 3,
+            "description": "毛泽东思想核心方法论，让 AI 掌握辩证思维 | Core methodologies from Mao Zedong Thought, empowering AI with dialectical thinking"
+          },
+          {
+            "repo": "DDC3344/mao-zedong-perspective",
+            "url": "https://github.com/DDC3344/mao-zedong-perspective",
+            "stars": 2,
+            "description": "毛泽东的思维框架与决策方法论——基于毛选1-4卷蒸馏的Agent Skill"
+          },
+          {
+            "repo": "983033995/mao-zedong-perspective",
+            "url": "https://github.com/983033995/mao-zedong-perspective",
+            "stars": 1,
+            "description": "教员视角思维操作系统 - 基于228篇原文提炼的AI Skill，包含8个核心心智模型。npx skills add 983033995/mao-zedong-perspective"
+          },
+          {
+            "repo": "fyfyfy9314-stack/mao-zedong-perspective-skill",
+            "url": "https://github.com/fyfyfy9314-stack/mao-zedong-perspective-skill",
+            "stars": 1,
+            "description": "基于公开史料提炼的毛泽东思维框架 Agent Skill，包含研究记录、历史失效边界与安全护栏。"
+          },
+          {
+            "repo": "JbBom/mao-strategy-analysis-framework",
+            "url": "https://github.com/JbBom/mao-strategy-analysis-framework",
+            "stars": 1,
+            "description": "Historical analysis skill distilled from public materials on Mao Zedong, focused on strategy, contradiction analysis, and research-driven reasoning"
+          },
+          {
+            "repo": "elonzhu1949/chairman-mao-thought-ai-assistant",
+            "url": "https://github.com/elonzhu1949/chairman-mao-thought-ai-assistant",
+            "stars": 1,
+            "description": "AI Assistant Skill Based on Mao Zedong Thought: Featuring Organizational Resilience Assessment, Power Structure Analysis, and Decision-Making Process Optimization"
+          },
+          {
+            "repo": "raycaoccc/mao-strategy",
+            "url": "https://github.com/raycaoccc/mao-strategy",
+            "stars": 1,
+            "description": "毛选决策框架 — Decision-making frameworks distilled from Selected Works of Mao Zedong. A Claude Code skill for structured strategic analysis."
+          },
+          {
+            "repo": "jiangwensheng891-source/claude-skill-shijian-lun-method",
+            "url": "https://github.com/jiangwensheng891-source/claude-skill-shijian-lun-method",
+            "stars": 1,
+            "description": "Claude Code Skill: Project methodology based on Mao Zedong's 'On Practice' (实践论) — a structured 5-phase iterative workflow"
+          },
+          {
+            "repo": "Culeot/bianzheng-siwei",
+            "url": "https://github.com/Culeot/bianzheng-siwei",
+            "stars": 1,
+            "description": "Jian Lu Bu Zou thinking OS - unified thinking framework distilled from Ye Zinong + Ding Yuanying + Mao Zedong dialectical materialism"
+          },
+          {
+            "repo": "scarfskiy/mao-zedong-thought-skill",
+            "url": "https://github.com/scarfskiy/mao-zedong-thought-skill",
+            "stars": 0,
+            "description": null
+          },
+          {
+            "repo": "983033995/mao-zedong-perspective-skill",
+            "url": "https://github.com/983033995/mao-zedong-perspective-skill",
+            "stars": 0,
+            "description": "教员视角思维操作系统 · AI Skill · 8个核心心智模型 + 10条决策启发式"
+          },
+          {
+            "repo": "JohnWish1590/yundongzhan-skill",
+            "url": "https://github.com/JohnWish1590/yundongzhan-skill",
+            "stars": 0,
+            "description": "Stock trend analysis skill for Claude Code based on Mao Zedong military thought"
+          },
+          {
+            "repo": "Slzx1/mao-zedong-perspective",
+            "url": "https://github.com/Slzx1/mao-zedong-perspective",
+            "stars": 0,
+            "description": "毛泽东skill：一个可运行的认知操作系统。基于6个维度（著作、对话、表达DNA、他者视角、决策记录、时间线）的深度调研，提炼了毛泽东的7个核心心智模型、10条决策启发式和完整的表达DNA。"
+          },
+          {
+            "repo": "aha-zhb/mao-dialectical-core-skill",
+            "url": "https://github.com/aha-zhb/mao-dialectical-core-skill",
+            "stars": 0,
+            "description": "A practice-centered dialectical analysis skill distilled from Mao Zedong Selected Works I–IV."
+          },
+          {
+            "repo": "arraycervicalartery576/maoxuan-skill",
+            "url": "https://github.com/arraycervicalartery576/maoxuan-skill",
+            "stars": 0,
+            "description": "Apply Mao Zedong Thought as a mental model to analyze challenges, develop actionable strategies, and solve complex problems through logic and critical thinking."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "zhou-enlai-public-duty-skill",
+    "person": "周恩来",
+    "checked_utc": "2026-10-10T15:52:23.427612+00:00",
+    "queries": [
+      {
+        "query": "周恩来 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Zhou Enlai skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "deng-xiaoping-fact-based-pilots-skill",
+    "person": "邓小平",
+    "checked_utc": "2026-10-10T15:52:39.850883+00:00",
+    "queries": [
+      {
+        "query": "邓小平 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Deng Xiaoping skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "sun-yat-sen-preparation-skill",
+    "person": "孙中山",
+    "checked_utc": "2026-10-10T15:52:56.084179+00:00",
+    "queries": [
+      {
+        "query": "孙中山 skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "EASYGOING45/datong-skill",
+            "url": "https://github.com/EASYGOING45/datong-skill",
+            "stars": 2,
+            "description": "「大同 Skill」是一个 AI Agent Skills 合集，从孙中山先生四十年革命生涯中蒸馏出一条总原则和十大方法论工具，系统性地提升 AI 的分析力、设计力和韧性。不是口号，不是鸡汤，而是可操作的思维工具箱。"
+          }
+        ]
+      },
+      {
+        "query": "Sun Yat Sen skill -user:constantin2088",
+        "total_count": 2,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "pi-dal/sysu-lms-skills",
+            "url": "https://github.com/pi-dal/sysu-lms-skills",
+            "stars": 0,
+            "description": "AI agent skill for Sun Yat-sen University LMS (lms.sysu.edu.cn) — site knowledge, browser operations, and automation reference"
+          },
+          {
+            "repo": "mars2003/sysu-duck",
+            "url": "https://github.com/mars2003/sysu-duck",
+            "stars": 0,
+            "description": "Campus AI companion for Sun Yat-sen University. Features local SQLite profiles, gacha personality system, conversation memory, and campus Q&A. Pure Python with standard library only, CLI-based, and skill package structure for easy integration."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "huang-yanpei-vocational-fit-skill",
+    "person": "黄炎培",
+    "checked_utc": "2026-10-10T15:53:13.475474+00:00",
+    "queries": [
+      {
+        "query": "黄炎培 skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "dglijin-oss/huang-yanpei-skill",
+            "url": "https://github.com/dglijin-oss/huang-yanpei-skill",
+            "stars": 0,
+            "description": "黄炎培视角Skill - 女娲蒸馏 v1.0"
+          }
+        ]
+      },
+      {
+        "query": "Huang Yanpei skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "dglijin-oss/huang-yanpei-skill",
+            "url": "https://github.com/dglijin-oss/huang-yanpei-skill",
+            "stars": 0,
+            "description": "黄炎培视角Skill - 女娲蒸馏 v1.0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "wang-guowei-aesthetic-scenes-skill",
+    "person": "王国维",
+    "checked_utc": "2026-10-10T15:53:30.085701+00:00",
+    "queries": [
+      {
+        "query": "王国维 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Wang Guowei skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "lin-yutang-kind-humor-skill",
+    "person": "林语堂",
+    "checked_utc": "2026-10-10T15:53:46.313756+00:00",
+    "queries": [
+      {
+        "query": "林语堂 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Lin Yutang skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "qian-zhongshu-comparative-reading-skill",
+    "person": "钱钟书",
+    "checked_utc": "2026-10-10T15:54:03.174621+00:00",
+    "queries": [
+      {
+        "query": "钱钟书 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Qian Zhongshu skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "yang-jiang-restrained-narrative-skill",
+    "person": "杨绛",
+    "checked_utc": "2026-10-10T15:54:20.130919+00:00",
+    "queries": [
+      {
+        "query": "杨绛 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Yang Jiang skill -user:constantin2088",
+        "total_count": 2,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "Darkmatter131420/jiangnan-perspective",
+            "url": "https://github.com/Darkmatter131420/jiangnan-perspective",
+            "stars": 0,
+            "description": "Jiangnan (Yang Zhi) perspective skill, distilled with nuwa-skill | FIDELITY 96/A"
+          },
+          {
+            "repo": "Carl24-star/jiang-nan-perspective",
+            "url": "https://github.com/Carl24-star/jiang-nan-perspective",
+            "stars": 0,
+            "description": "Jiang Nan (Yang Zhi) perspective skill for Claude Code - 6 mental models, 8 decision heuristics, expression DNA distilled from Dragon Raja, Novoland: Eagle Flag, and all major works"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "chen-heqin-active-curriculum-skill",
+    "person": "陈鹤琴",
+    "checked_utc": "2026-10-10T15:54:35.899664+00:00",
+    "queries": [
+      {
+        "query": "陈鹤琴 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Chen Heqin skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "zhang-boling-service-capability-skill",
+    "person": "张伯苓",
+    "checked_utc": "2026-10-10T15:54:51.983008+00:00",
+    "queries": [
+      {
+        "query": "张伯苓 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Zhang Boling skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "xiong-shili-principles-in-use-skill",
+    "person": "熊十力",
+    "checked_utc": "2026-10-10T15:55:08.019691+00:00",
+    "queries": [
+      {
+        "query": "熊十力 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Xiong Shili skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "mou-zongsan-judgment-boundaries-skill",
+    "person": "牟宗三",
+    "checked_utc": "2026-10-10T15:55:24.224274+00:00",
+    "queries": [
+      {
+        "query": "牟宗三 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Mou Zongsan skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "tang-junyi-cultural-dialogue-skill",
+    "person": "唐君毅",
+    "checked_utc": "2026-10-10T15:55:41.682143+00:00",
+    "queries": [
+      {
+        "query": "唐君毅 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Tang Junyi skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "ji-xianlin-cultural-learning-skill",
+    "person": "季羡林",
+    "checked_utc": "2026-10-10T15:55:58.027769+00:00",
+    "queries": [
+      {
+        "query": "季羡林 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Ji Xianlin skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "nan-huaijin-classics-check-skill",
+    "person": "南怀瑾",
+    "checked_utc": "2026-10-10T15:56:13.655269+00:00",
+    "queries": [
+      {
+        "query": "南怀瑾 skill -user:constantin2088",
+        "total_count": 2,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "baodirewolf/perspective-skills",
+            "url": "https://github.com/baodirewolf/perspective-skills",
+            "stars": 7,
+            "description": "基于女娲Skill方法论蒸馏的人物思维视角技能集：倪海厦、南怀瑾、荣格、阿德勒"
+          },
+          {
+            "repo": "wenasdaq/nanfeng-skill",
+            "url": "https://github.com/wenasdaq/nanfeng-skill",
+            "stars": 0,
+            "description": "Nan Feng skill for Codex: 整理南怀瑾习禅录影文章为小红书风格实修笔记"
+          }
+        ]
+      },
+      {
+        "query": "Nan Huaijin skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "qian-xuesen-system-synthesis-skill",
+    "person": "钱学森",
+    "checked_utc": "2026-10-10T15:56:30.120459+00:00",
+    "queries": [
+      {
+        "query": "钱学森 skill -user:constantin2088",
+        "total_count": 7,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "DENO0521/Qianxuesen-perspective-Engineering-cybernetics",
+            "url": "https://github.com/DENO0521/Qianxuesen-perspective-Engineering-cybernetics",
+            "stars": 12,
+            "description": "钱学森视角 Skill - 工程控制论与系统思维框架，用于分析复杂系统问题"
+          },
+          {
+            "repo": "Tostoevsky/TsienHsueShen",
+            "url": "https://github.com/Tostoevsky/TsienHsueShen",
+            "stars": 4,
+            "description": "钱学森《工程控制论》全书蒸馏的 DeepSeek Harness 方法论技能插件 | A DeepSeek Harness skill plugin distilled from Qian Xuesen's Engineering Cybernetics"
+          },
+          {
+            "repo": "Chaoticyeung/systems-cybernetics-analysis",
+            "url": "https://github.com/Chaoticyeung/systems-cybernetics-analysis",
+            "stars": 2,
+            "description": "Claude Code/Agent Skill：用钱学森/金观涛的系统论—控制论—信息论框架诊断复杂问题、设计干预方案（可能性空间·反馈·稳态·黑箱·综合集成·症状vs病因）"
+          },
+          {
+            "repo": "wbj0256/hermes-skill-qianxuesen",
+            "url": "https://github.com/wbj0256/hermes-skill-qianxuesen",
+            "stars": 1,
+            "description": "钱学森工程控制论 — AI Agent 架构 12 原则 "
+          },
+          {
+            "repo": "jianxing-chen/engineering-cybernetics-SKILL",
+            "url": "https://github.com/jianxing-chen/engineering-cybernetics-SKILL",
+            "stars": 1,
+            "description": "用钱学森《工程控制论》21章的思想框架指导 Agent 架构设计和复杂任务执行 — Claude Code Skill"
+          },
+          {
+            "repo": "GitDzreal93/qstack",
+            "url": "https://github.com/GitDzreal93/qstack",
+            "stars": 0,
+            "description": "钱学森skills"
+          },
+          {
+            "repo": "Fen9pi-Max/cybernetic-project-management",
+            "url": "https://github.com/Fen9pi-Max/cybernetic-project-management",
+            "stars": 0,
+            "description": "项目管理技能：由钱学森《工程控制论》蒸馏的 13 个控制论项目管理能力（cangjie-skill RIA-TV++ 流水线）"
+          }
+        ]
+      },
+      {
+        "query": "Qian Xuesen skill -user:constantin2088",
+        "total_count": 5,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "Tostoevsky/TsienHsueShen",
+            "url": "https://github.com/Tostoevsky/TsienHsueShen",
+            "stars": 4,
+            "description": "钱学森《工程控制论》全书蒸馏的 DeepSeek Harness 方法论技能插件 | A DeepSeek Harness skill plugin distilled from Qian Xuesen's Engineering Cybernetics"
+          },
+          {
+            "repo": "ShrimpLeon/cybernetic-thinking",
+            "url": "https://github.com/ShrimpLeon/cybernetic-thinking",
+            "stars": 2,
+            "description": "A thinking-mode skill for AI Agent. It installs a control-theoretic cognitive operating system in the LLM—shaping how the model thinks about systems. Derived from Qian Xuesen (Tsien Hsue-shen‌) “Engineering Cybernetics”."
+          },
+          {
+            "repo": "peterbruce716-art/engineering-cybernetics-design-skill",
+            "url": "https://github.com/peterbruce716-art/engineering-cybernetics-design-skill",
+            "stars": 1,
+            "description": "Codex skill inspired by Qian Xuesen's Engineering Cybernetics"
+          },
+          {
+            "repo": "JTCAO515/jtcoding-skills",
+            "url": "https://github.com/JTCAO515/jtcoding-skills",
+            "stars": 0,
+            "description": "Complete software systems engineering framework combining Qian Xuesen's systems engineering, cybernetics, and modern engineering practices."
+          },
+          {
+            "repo": "usernametooshort/meta-synthesis-qa",
+            "url": "https://github.com/usernametooshort/meta-synthesis-qa",
+            "stars": 0,
+            "description": "Claude Code skill: Qian Xuesen Meta-Synthesis (综合集成法) QA methodology for AI-assisted development"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ma-yinchu-resource-scenarios-skill",
+    "person": "马寅初",
+    "checked_utc": "2026-10-10T15:56:47.326987+00:00",
+    "queries": [
+      {
+        "query": "马寅初 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Ma Yinchu skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "wu-jinglian-competition-rules-skill",
+    "person": "吴敬琏",
+    "checked_utc": "2026-10-10T15:57:06.107569+00:00",
+    "queries": [
+      {
+        "query": "吴敬琏 skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      },
+      {
+        "query": "Wu Jinglian skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "slug": "li-zehou-aesthetic-context-skill",
+    "person": "李泽厚",
+    "checked_utc": "2026-10-10T15:57:22.737546+00:00",
+    "queries": [
+      {
+        "query": "李泽厚 skill -user:constantin2088",
+        "total_count": 1,
+        "incomplete_results": false,
+        "items": [
+          {
+            "repo": "moomin-bxs/wenben-jiedu-zhuanjiatuan",
+            "url": "https://github.com/moomin-bxs/wenben-jiedu-zhuanjiatuan",
+            "stars": 3,
+            "description": "文本解读专家团 AI Skill：875万字名家论著蒸馏——孙绍振、詹丹、钱理群、叶嘉莹、蒋勋、陈日亮、荣维东、李泽厚、叶朗、松浦友久十位专家方法论 + 智能分诊台。报出篇目，自动路由到对的专家。专为中小学语文教师、师范生、语文教研设计。"
+          }
+        ]
+      },
+      {
+        "query": "Li Zehou skill -user:constantin2088",
+        "total_count": 0,
+        "incomplete_results": false,
+        "items": []
+      }
+    ]
+  }
+]

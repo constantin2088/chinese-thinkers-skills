@@ -651,6 +651,406 @@
         "creative-judgment",
         "yuan-mei-expression-skill"
       ]
+    },
+    {
+      "id": "confucius-learning-skill",
+      "name_zh": "孔子·把学到的变成做到的",
+      "name_en": "Confucius",
+      "category": "learning-transfer",
+      "status": "published",
+      "focus": "把读书笔记转成行动、复盘承诺与协作信用",
+      "repo": "constantin2088/confucius-learning-skill",
+      "topics": [
+        "learning-transfer",
+        "confucius-learning-skill"
+      ],
+      "discovery_rank": 1
+    },
+    {
+      "id": "mencius-values-skill",
+      "name_zh": "孟子·把善意落实到选择",
+      "name_en": "Mencius",
+      "category": "values-in-action",
+      "status": "published",
+      "focus": "面对利益与原则冲突、把同情转成有边界的行动",
+      "repo": "constantin2088/mencius-values-skill",
+      "topics": [
+        "values-in-action",
+        "mencius-values-skill"
+      ]
+    },
+    {
+      "id": "xunzi-deliberate-learning-skill",
+      "name_zh": "荀子·设计能坚持的学习系统",
+      "name_en": "Xunzi",
+      "category": "learning-design",
+      "status": "published",
+      "focus": "学习计划反复中断、选择工具与练习环境",
+      "repo": "constantin2088/xunzi-deliberate-learning-skill",
+      "topics": [
+        "learning-design",
+        "xunzi-deliberate-learning-skill"
+      ]
+    },
+    {
+      "id": "laozi-low-intervention-skill",
+      "name_zh": "老子·减少多余动作",
+      "name_en": "Laozi",
+      "category": "minimal-intervention",
+      "status": "published",
+      "focus": "流程越来越复杂、需要降低控制和协调成本",
+      "repo": "constantin2088/laozi-low-intervention-skill",
+      "topics": [
+        "minimal-intervention",
+        "laozi-low-intervention-skill"
+      ],
+      "discovery_rank": 3
+    },
+    {
+      "id": "zhuangzi-perspective-skill",
+      "name_zh": "庄子·跳出唯一答案",
+      "name_en": "Zhuangzi",
+      "category": "perspective-shifting",
+      "status": "published",
+      "focus": "被单一指标困住、比较不同尺度与生活选择",
+      "repo": "constantin2088/zhuangzi-perspective-skill",
+      "topics": [
+        "perspective-shifting",
+        "zhuangzi-perspective-skill"
+      ],
+      "discovery_rank": 4
+    },
+    {
+      "id": "mozi-merit-skill",
+      "name_zh": "墨子·让能力证据代替关系",
+      "name_en": "Mozi",
+      "category": "merit-review",
+      "status": "published",
+      "focus": "选人、评价项目、比较受益与资源负担",
+      "repo": "constantin2088/mozi-merit-skill",
+      "topics": [
+        "merit-review",
+        "mozi-merit-skill"
+      ]
+    },
+    {
+      "id": "han-fei-incentives-skill",
+      "name_zh": "韩非·看清奖励怎样改变行为",
+      "name_en": "Han Fei",
+      "category": "incentive-audit",
+      "status": "published",
+      "focus": "指标被刷、奖励被套利、权责与实际表现脱节",
+      "repo": "constantin2088/han-fei-incentives-skill",
+      "topics": [
+        "incentive-audit",
+        "han-fei-incentives-skill"
+      ]
+    },
+    {
+      "id": "sun-tzu-strategy-skill",
+      "name_zh": "孙子·行动前先算清代价",
+      "name_en": "Sun Tzu",
+      "category": "strategy-options",
+      "status": "published",
+      "focus": "民用项目竞争、资源不足或需要决定做与不做",
+      "repo": "constantin2088/sun-tzu-strategy-skill",
+      "topics": [
+        "strategy-options",
+        "sun-tzu-strategy-skill"
+      ],
+      "discovery_rank": 2
+    },
+    {
+      "id": "sun-bin-matching-skill",
+      "name_zh": "孙膑·按条件重新配置资源",
+      "name_en": "Sun Bin",
+      "category": "resource-matching",
+      "status": "published",
+      "focus": "民用资源配置、需要在整体目标下重排任务",
+      "repo": "constantin2088/sun-bin-matching-skill",
+      "topics": [
+        "resource-matching",
+        "sun-bin-matching-skill"
+      ]
+    },
+    {
+      "id": "guan-zhong-foundations-skill",
+      "name_zh": "管仲·先补基础再谈激励",
+      "name_en": "Guan Zhong",
+      "category": "operating-foundations",
+      "status": "published",
+      "focus": "组织激励失效、资源基础与制度要求不匹配",
+      "repo": "constantin2088/guan-zhong-foundations-skill",
+      "topics": [
+        "operating-foundations",
+        "guan-zhong-foundations-skill"
+      ]
+    },
+    {
+      "id": "shang-yang-reform-skill",
+      "name_zh": "商鞅·改变规则先检查代价",
+      "name_en": "Shang Yang",
+      "category": "reform-review",
+      "status": "published",
+      "focus": "旧规则妨碍新目标、审查变革的实施与公平",
+      "repo": "constantin2088/shang-yang-reform-skill",
+      "topics": [
+        "reform-review",
+        "shang-yang-reform-skill"
+      ]
+    },
+    {
+      "id": "guiguzi-listening-skill",
+      "name_zh": "鬼谷子·先听懂再表达",
+      "name_en": "Guiguzi",
+      "category": "listening-negotiation",
+      "status": "published",
+      "focus": "谈判信息不足、需要澄清对方真实约束",
+      "repo": "constantin2088/guiguzi-listening-skill",
+      "topics": [
+        "listening-negotiation",
+        "guiguzi-listening-skill"
+      ]
+    },
+    {
+      "id": "dong-zhongshu-accountability-skill",
+      "name_zh": "董仲舒·把失误追到治理责任",
+      "name_en": "Dong Zhongshu",
+      "category": "governance-responsibility",
+      "status": "published",
+      "focus": "组织反复出错、检验领导示范和纠错机制",
+      "repo": "constantin2088/dong-zhongshu-accountability-skill",
+      "topics": [
+        "governance-responsibility",
+        "dong-zhongshu-accountability-skill"
+      ]
+    },
+    {
+      "id": "jia-yi-reserves-skill",
+      "name_zh": "贾谊·为突发需求留出余量",
+      "name_en": "Jia Yi",
+      "category": "resilience-planning",
+      "status": "published",
+      "focus": "日常资源够用但缺少应急余量、需要压力情景",
+      "repo": "constantin2088/jia-yi-reserves-skill",
+      "topics": [
+        "resilience-planning",
+        "jia-yi-reserves-skill"
+      ]
+    },
+    {
+      "id": "sima-qian-history-skill",
+      "name_zh": "司马迁·把事件写成有证据的历史",
+      "name_en": "Sima Qian",
+      "category": "historical-narrative",
+      "status": "published",
+      "focus": "整理机构历史、人物故事或长期变化叙事",
+      "repo": "constantin2088/sima-qian-history-skill",
+      "topics": [
+        "historical-narrative",
+        "sima-qian-history-skill"
+      ]
+    },
+    {
+      "id": "ban-gu-categories-skill",
+      "name_zh": "班固·让分类说清材料边界",
+      "name_en": "Ban Gu",
+      "category": "classification-review",
+      "status": "published",
+      "focus": "知识库分类混乱、比较不同历史叙述与门类",
+      "repo": "constantin2088/ban-gu-categories-skill",
+      "topics": [
+        "classification-review",
+        "ban-gu-categories-skill"
+      ]
+    },
+    {
+      "id": "zhuge-liang-focus-skill",
+      "name_zh": "诸葛亮·把志向变成可持续专注",
+      "name_en": "Zhuge Liang",
+      "category": "focus-planning",
+      "status": "published",
+      "focus": "长期目标被杂务冲散、需要学习与行动节奏",
+      "repo": "constantin2088/zhuge-liang-focus-skill",
+      "topics": [
+        "focus-planning",
+        "zhuge-liang-focus-skill"
+      ],
+      "discovery_rank": 9
+    },
+    {
+      "id": "liu-yuxi-agency-skill",
+      "name_zh": "刘禹锡·分清条件与行动空间",
+      "name_en": "Liu Yuxi",
+      "category": "agency-analysis",
+      "status": "published",
+      "focus": "把失败全怪运气、辨认可以改变与不能控制的部分",
+      "repo": "constantin2088/liu-yuxi-agency-skill",
+      "topics": [
+        "agency-analysis",
+        "liu-yuxi-agency-skill"
+      ]
+    },
+    {
+      "id": "bai-juyi-purpose-skill",
+      "name_zh": "白居易·让表达回应真实问题",
+      "name_en": "Bai Juyi",
+      "category": "purposeful-writing",
+      "status": "published",
+      "focus": "文章好看但用途不清、想让写作回应读者与现实",
+      "repo": "constantin2088/bai-juyi-purpose-skill",
+      "topics": [
+        "purposeful-writing",
+        "bai-juyi-purpose-skill"
+      ]
+    },
+    {
+      "id": "su-shi-understanding-skill",
+      "name_zh": "苏轼·别把比喻当成掌握",
+      "name_en": "Su Shi",
+      "category": "understanding-transfer",
+      "status": "published",
+      "focus": "概念讲得懂却不会用、需要从说明转成体验与实践",
+      "repo": "constantin2088/su-shi-understanding-skill",
+      "topics": [
+        "understanding-transfer",
+        "su-shi-understanding-skill"
+      ],
+      "discovery_rank": 7
+    },
+    {
+      "id": "zhu-xi-close-reading-skill",
+      "name_zh": "朱熹·把一段材料真正读懂",
+      "name_en": "Zhu Xi",
+      "category": "close-reading",
+      "status": "published",
+      "focus": "读长文只剩印象、需要逐段理解和检验先入观点",
+      "repo": "constantin2088/zhu-xi-close-reading-skill",
+      "topics": [
+        "close-reading",
+        "zhu-xi-close-reading-skill"
+      ]
+    },
+    {
+      "id": "lu-jiuyuan-intentions-skill",
+      "name_zh": "陆九渊·识别目标背后的动机",
+      "name_en": "Lu Jiuyuan",
+      "category": "intentions-review",
+      "status": "published",
+      "focus": "目标正确却行动失真、需要审查义利冲突",
+      "repo": "constantin2088/lu-jiuyuan-intentions-skill",
+      "topics": [
+        "intentions-review",
+        "lu-jiuyuan-intentions-skill"
+      ]
+    },
+    {
+      "id": "wang-yangming-action-skill",
+      "name_zh": "王阳明·把知道变成行动证据",
+      "name_en": "Wang Yangming",
+      "category": "action-learning",
+      "status": "published",
+      "focus": "明白道理却迟迟不做、需要知行复盘",
+      "repo": "constantin2088/wang-yangming-action-skill",
+      "topics": [
+        "action-learning",
+        "wang-yangming-action-skill"
+      ],
+      "discovery_rank": 5
+    },
+    {
+      "id": "zeng-guofan-routines-skill",
+      "name_zh": "曾国藩·让长期目标有恢复机制",
+      "name_en": "Zeng Guofan",
+      "category": "sustainable-routines",
+      "status": "published",
+      "focus": "长期习惯断断续续、需要稳健积累与复盘",
+      "repo": "constantin2088/zeng-guofan-routines-skill",
+      "topics": [
+        "sustainable-routines",
+        "zeng-guofan-routines-skill"
+      ],
+      "discovery_rank": 10
+    },
+    {
+      "id": "hui-shi-definitions-skill",
+      "name_zh": "惠施·找出争论中的尺度变化",
+      "name_en": "Hui Shi",
+      "category": "definition-testing",
+      "status": "published",
+      "focus": "双方都说有道理却用不同尺度、需要检查概念边界",
+      "repo": "constantin2088/hui-shi-definitions-skill",
+      "topics": [
+        "definition-testing",
+        "hui-shi-definitions-skill"
+      ]
+    },
+    {
+      "id": "zhang-zhidong-adaptation-skill",
+      "name_zh": "张之洞·分清目的与引入的方法",
+      "name_en": "Zhang Zhidong",
+      "category": "method-adaptation",
+      "status": "published",
+      "focus": "引入新工具时担心失去原有目标、需要评估取舍",
+      "repo": "constantin2088/zhang-zhidong-adaptation-skill",
+      "topics": [
+        "method-adaptation",
+        "zhang-zhidong-adaptation-skill"
+      ]
+    },
+    {
+      "id": "hu-shi-hypotheses-skill",
+      "name_zh": "胡适·先把问题研究清楚",
+      "name_en": "Hu Shi",
+      "category": "hypothesis-review",
+      "status": "published",
+      "focus": "讨论被口号带走、需要把问题拆成可证伪假设",
+      "repo": "constantin2088/hu-shi-hypotheses-skill",
+      "topics": [
+        "hypothesis-review",
+        "hu-shi-hypotheses-skill"
+      ],
+      "discovery_rank": 8
+    },
+    {
+      "id": "lu-xun-selective-learning-skill",
+      "name_zh": "鲁迅·借鉴之前先辨别",
+      "name_en": "Lu Xun",
+      "category": "selective-learning",
+      "status": "published",
+      "focus": "外部经验看起来都好、需要拆分可用与有害部分",
+      "repo": "constantin2088/lu-xun-selective-learning-skill",
+      "topics": [
+        "selective-learning",
+        "lu-xun-selective-learning-skill"
+      ],
+      "discovery_rank": 6
+    },
+    {
+      "id": "chen-duxiu-independent-thinking-skill",
+      "name_zh": "陈独秀·让主张接受科学检验",
+      "name_en": "Chen Duxiu",
+      "category": "independent-thinking",
+      "status": "published",
+      "focus": "观点来自权威或习惯、需要检查自主判断与实际用途",
+      "repo": "constantin2088/chen-duxiu-independent-thinking-skill",
+      "topics": [
+        "independent-thinking",
+        "chen-duxiu-independent-thinking-skill"
+      ]
+    },
+    {
+      "id": "li-dazhao-present-action-skill",
+      "name_zh": "李大钊·把时代愿景落在现在",
+      "name_en": "Li Dazhao",
+      "category": "future-present",
+      "status": "published",
+      "focus": "谈未来理想很多、需要明确当下责任与可实施行动",
+      "repo": "constantin2088/li-dazhao-present-action-skill",
+      "topics": [
+        "future-present",
+        "li-dazhao-present-action-skill"
+      ]
     }
   ],
   "homepage": "https://github.com/constantin2088/chinese-thinkers-skills",

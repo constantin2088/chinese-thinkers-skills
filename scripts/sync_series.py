@@ -13,7 +13,7 @@ def load_catalog(path=None):
 def block(catalog,slug):
     lines=[START,'> **属于 [Chinese Thinkers as Skills 系列]('+catalog['homepage']+')** · [完整作品目录]('+catalog['homepage']+'#作品目录)']
     published=[s for s in catalog['skills'] if s['status']=='published' and s['id']!=slug]
-    if published:lines+=['','**相关推荐**：'+' · '.join('['+s['name_zh']+'](https://github.com/'+s['repo']+')' for s in published)]
+    if published:lines+=['','<details>', '<summary>相关推荐（'+str(len(published))+'个作品）</summary>', '', ' · '.join('['+s['name_zh']+'](https://github.com/'+s['repo']+')' for s in published), '', '</details>']
     lines+=['', '> 系列入口与推荐由总仓库 catalog/skills.json 生成。',END]
     return '\n'.join(lines)
 def replace_block(text,new):
