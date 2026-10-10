@@ -1,0 +1,42 @@
+{
+  "query": "su-shi skill",
+  "total_count": 7,
+  "incomplete": false,
+  "items": [
+    {
+      "repo": "songpengwei/sushi-skill",
+      "url": "https://github.com/songpengwei/sushi-skill",
+      "stars": 1
+    },
+    {
+      "repo": "Slzx1/su-shi-skill",
+      "url": "https://github.com/Slzx1/su-shi-skill",
+      "stars": 0
+    },
+    {
+      "repo": "sunilshinde1319/SunilShinde_Portfolio",
+      "url": "https://github.com/sunilshinde1319/SunilShinde_Portfolio",
+      "stars": 1
+    },
+    {
+      "repo": "rustyhaidu/SkillBrainSunShineSeleniumSecond",
+      "url": "https://github.com/rustyhaidu/SkillBrainSunShineSeleniumSecond",
+      "stars": 0
+    },
+    {
+      "repo": "SudeepShivhare/https-github.com-SudeepShivhare-skills-getting-started-with-github-copilot",
+      "url": "https://github.com/SudeepShivhare/https-github.com-SudeepShivhare-skills-getting-started-with-github-copilot",
+      "stars": 0
+    },
+    {
+      "repo": "sudam8483/sudam_shinde_fbs_work",
+      "url": "https://github.com/sudam8483/sudam_shinde_fbs_work",
+      "stars": 0
+    },
+    {
+      "repo": "Yinuo-Guo/dialogues-with-chinese-sages",
+      "url": "https://github.com/Yinuo-Guo/dialogues-with-chinese-sages",
+      "stars": 1
+    }
+  ]
+}

@@ -391,6 +391,266 @@
         "practice",
         "yan-yuan-practice-skill"
       ]
+    },
+    {
+      "id": "wang-fuzhi-context-skill",
+      "name_zh": "王夫之·因势审例",
+      "name_en": "Wang Fuzhi",
+      "category": "contextual-reasoning",
+      "status": "published",
+      "focus": "历史类比条件、制度适用范围、变化中的判断",
+      "repo": "constantin2088/wang-fuzhi-context-skill",
+      "topics": [
+        "contextual-reasoning",
+        "wang-fuzhi-context-skill"
+      ]
+    },
+    {
+      "id": "gong-zizhen-talent-skill",
+      "name_zh": "龚自珍·破格与人才生态",
+      "name_en": "Gong Zizhen",
+      "category": "talent-systems",
+      "status": "published",
+      "focus": "单一标准偏差、人才多样性、修复成长环境",
+      "repo": "constantin2088/gong-zizhen-talent-skill",
+      "topics": [
+        "talent-systems",
+        "gong-zizhen-talent-skill"
+      ]
+    },
+    {
+      "id": "wei-yuan-benchmark-skill",
+      "name_zh": "魏源·外部比较与长技识别",
+      "name_en": "Wei Yuan",
+      "category": "benchmarking",
+      "status": "published",
+      "focus": "多方外部资料、能力差距、选择性学习",
+      "repo": "constantin2088/wei-yuan-benchmark-skill",
+      "topics": [
+        "benchmarking",
+        "wei-yuan-benchmark-skill"
+      ]
+    },
+    {
+      "id": "kang-youwei-utopia-skill",
+      "name_zh": "康有为·愿景与制度压力检验",
+      "name_en": "Kang Youwei",
+      "category": "institutional-design",
+      "status": "published",
+      "focus": "痛苦地图、理想制度假设、过渡与权利检验",
+      "repo": "constantin2088/kang-youwei-utopia-skill",
+      "topics": [
+        "institutional-design",
+        "kang-youwei-utopia-skill"
+      ]
+    },
+    {
+      "id": "tan-sitong-barriers-skill",
+      "name_zh": "谭嗣同·关系壁垒与互通",
+      "name_en": "Tan Sitong",
+      "category": "accessibility",
+      "status": "published",
+      "focus": "关系阻隔、双向发声、资源与退出",
+      "repo": "constantin2088/tan-sitong-barriers-skill",
+      "topics": [
+        "accessibility",
+        "tan-sitong-barriers-skill"
+      ]
+    },
+    {
+      "id": "zhang-taiyan-terms-skill",
+      "name_zh": "章太炎·术语沿革与文本边界",
+      "name_en": "Zhang Taiyan",
+      "category": "historical-semantics",
+      "status": "published",
+      "focus": "术语古今义、文本类别、翻译中的时代错置",
+      "repo": "constantin2088/zhang-taiyan-terms-skill",
+      "topics": [
+        "historical-semantics",
+        "zhang-taiyan-terms-skill"
+      ]
+    },
+    {
+      "id": "li-zhi-authenticity-skill",
+      "name_zh": "李贽·真意与评价压力",
+      "name_en": "Li Zhi",
+      "category": "authentic-expression",
+      "status": "published",
+      "focus": "表达动机、评价压力、经验与套话分离",
+      "repo": "constantin2088/li-zhi-authenticity-skill",
+      "topics": [
+        "authentic-expression",
+        "li-zhi-authenticity-skill"
+      ]
+    },
+    {
+      "id": "wang-anshi-change-skill",
+      "name_zh": "王安石·改革名实与执行",
+      "name_en": "Wang Anshi",
+      "category": "change-design",
+      "status": "published",
+      "focus": "改革定义、权限、实施负担与异议复核",
+      "repo": "constantin2088/wang-anshi-change-skill",
+      "topics": [
+        "change-design",
+        "wang-anshi-change-skill"
+      ]
+    },
+    {
+      "id": "sima-guang-restraint-skill",
+      "name_zh": "司马光·节用与持续负担",
+      "name_en": "Sima Guang",
+      "category": "resource-restraint",
+      "status": "published",
+      "focus": "必要支出、惯性升级、收入变化下的持续性",
+      "repo": "constantin2088/sima-guang-restraint-skill",
+      "topics": [
+        "resource-restraint",
+        "sima-guang-restraint-skill"
+      ]
+    },
+    {
+      "id": "su-xun-concessions-skill",
+      "name_zh": "苏洵·连续让步与累计代价",
+      "name_en": "Su Xun",
+      "category": "concession-analysis",
+      "status": "published",
+      "focus": "短期缓解、累计资源损失、替代选择与停止线",
+      "repo": "constantin2088/su-xun-concessions-skill",
+      "topics": [
+        "concession-analysis",
+        "su-xun-concessions-skill"
+      ]
+    },
+    {
+      "id": "ouyang-xiu-coalitions-skill",
+      "name_zh": "欧阳修·协作与利益同盟",
+      "name_en": "Ouyang Xiu",
+      "category": "coalition-review",
+      "status": "published",
+      "focus": "协作理由、共同利益、异议和利益变化",
+      "repo": "constantin2088/ouyang-xiu-coalitions-skill",
+      "topics": [
+        "coalition-review",
+        "ouyang-xiu-coalitions-skill"
+      ]
+    },
+    {
+      "id": "han-yu-mentorship-skill",
+      "name_zh": "韩愈·择师与问题求教",
+      "name_en": "Han Yu",
+      "category": "mentorship",
+      "status": "published",
+      "focus": "问题定位、专长匹配、求教与独立迁移",
+      "repo": "constantin2088/han-yu-mentorship-skill",
+      "topics": [
+        "mentorship",
+        "han-yu-mentorship-skill"
+      ]
+    },
+    {
+      "id": "liu-zongyuan-intervention-skill",
+      "name_zh": "柳宗元·减扰与成长条件",
+      "name_en": "Liu Zongyuan",
+      "category": "intervention-design",
+      "status": "published",
+      "focus": "过度干预、必要支持、扰动成本与恢复",
+      "repo": "constantin2088/liu-zongyuan-intervention-skill",
+      "topics": [
+        "intervention-design",
+        "liu-zongyuan-intervention-skill"
+      ]
+    },
+    {
+      "id": "ji-kang-boundaries-skill",
+      "name_zh": "嵇康·适配与拒绝表达",
+      "name_en": "Ji Kang",
+      "category": "role-boundaries",
+      "status": "published",
+      "focus": "角色适配、不可承受条件、诚实拒绝与替代",
+      "repo": "constantin2088/ji-kang-boundaries-skill",
+      "topics": [
+        "role-boundaries",
+        "ji-kang-boundaries-skill"
+      ]
+    },
+    {
+      "id": "ruan-ji-conformity-skill",
+      "name_zh": "阮籍·角色脚本与尺度转换",
+      "name_en": "Ruan Ji",
+      "category": "social-scripts",
+      "status": "published",
+      "focus": "默认身份脚本、外部评价、尺度转换与自主选择",
+      "repo": "constantin2088/ruan-ji-conformity-skill",
+      "topics": [
+        "social-scripts",
+        "ruan-ji-conformity-skill"
+      ]
+    },
+    {
+      "id": "ge-hong-breadth-skill",
+      "name_zh": "葛洪·广博取材与异说并置",
+      "name_en": "Ge Hong",
+      "category": "knowledge-synthesis",
+      "status": "published",
+      "focus": "取材范围、异说保留、用途与证据归属",
+      "repo": "constantin2088/ge-hong-breadth-skill",
+      "topics": [
+        "knowledge-synthesis",
+        "ge-hong-breadth-skill"
+      ]
+    },
+    {
+      "id": "chen-liang-capability-skill",
+      "name_zh": "陈亮·名目与实际能力",
+      "name_en": "Chen Liang",
+      "category": "capability-audit",
+      "status": "published",
+      "focus": "账面资源、实际可用性、表现与配套",
+      "repo": "constantin2088/chen-liang-capability-skill",
+      "topics": [
+        "capability-audit",
+        "chen-liang-capability-skill"
+      ]
+    },
+    {
+      "id": "hong-liangji-resources-skill",
+      "name_zh": "洪亮吉·需求增长与资源缺口",
+      "name_en": "Hong Liangji",
+      "category": "resource-demand",
+      "status": "published",
+      "focus": "需求与供给增速、分配不均、条件压力与补缺",
+      "repo": "constantin2088/hong-liangji-resources-skill",
+      "topics": [
+        "resource-demand",
+        "hong-liangji-resources-skill"
+      ]
+    },
+    {
+      "id": "li-yu-usability-skill",
+      "name_zh": "李渔·用物适位与体验设计",
+      "name_en": "Li Yu",
+      "category": "usability",
+      "status": "published",
+      "focus": "使用频率、位置适配、脆弱物保护与实际体验",
+      "repo": "constantin2088/li-yu-usability-skill",
+      "topics": [
+        "usability",
+        "li-yu-usability-skill"
+      ]
+    },
+    {
+      "id": "yuan-mei-expression-skill",
+      "name_zh": "袁枚·性情与风格适题",
+      "name_en": "Yuan Mei",
+      "category": "creative-judgment",
+      "status": "published",
+      "focus": "具体感受、材料驱使、风格适配和多样评价",
+      "repo": "constantin2088/yuan-mei-expression-skill",
+      "topics": [
+        "creative-judgment",
+        "yuan-mei-expression-skill"
+      ]
     }
   ],
   "homepage": "https://github.com/constantin2088/chinese-thinkers-skills",

@@ -53,6 +53,26 @@ Each released Skill should include a distinct method, credible source map, expli
 | **Feng Youlan** | 自我理解、动机与行动、个人与共同利益的关系 | [feng-youlan-reflection-skill](https://github.com/constantin2088/feng-youlan-reflection-skill) | Released |
 | **Zheng Guanying** | 商务得失、能力链、竞争比较与资源优先级 | [zheng-guanying-commerce-skill](https://github.com/constantin2088/zheng-guanying-commerce-skill) | Released |
 | **Yan Yuan** | 学习投入分配、身体力行、独立表现与反馈 | [yan-yuan-practice-skill](https://github.com/constantin2088/yan-yuan-practice-skill) | Released |
+| **Wang Fuzhi** | 历史类比条件、制度适用范围、变化中的判断 | [wang-fuzhi-context-skill](https://github.com/constantin2088/wang-fuzhi-context-skill) | Released |
+| **Gong Zizhen** | 单一标准偏差、人才多样性、修复成长环境 | [gong-zizhen-talent-skill](https://github.com/constantin2088/gong-zizhen-talent-skill) | Released |
+| **Wei Yuan** | 多方外部资料、能力差距、选择性学习 | [wei-yuan-benchmark-skill](https://github.com/constantin2088/wei-yuan-benchmark-skill) | Released |
+| **Kang Youwei** | 痛苦地图、理想制度假设、过渡与权利检验 | [kang-youwei-utopia-skill](https://github.com/constantin2088/kang-youwei-utopia-skill) | Released |
+| **Tan Sitong** | 关系阻隔、双向发声、资源与退出 | [tan-sitong-barriers-skill](https://github.com/constantin2088/tan-sitong-barriers-skill) | Released |
+| **Zhang Taiyan** | 术语古今义、文本类别、翻译中的时代错置 | [zhang-taiyan-terms-skill](https://github.com/constantin2088/zhang-taiyan-terms-skill) | Released |
+| **Li Zhi** | 表达动机、评价压力、经验与套话分离 | [li-zhi-authenticity-skill](https://github.com/constantin2088/li-zhi-authenticity-skill) | Released |
+| **Wang Anshi** | 改革定义、权限、实施负担与异议复核 | [wang-anshi-change-skill](https://github.com/constantin2088/wang-anshi-change-skill) | Released |
+| **Sima Guang** | 必要支出、惯性升级、收入变化下的持续性 | [sima-guang-restraint-skill](https://github.com/constantin2088/sima-guang-restraint-skill) | Released |
+| **Su Xun** | 短期缓解、累计资源损失、替代选择与停止线 | [su-xun-concessions-skill](https://github.com/constantin2088/su-xun-concessions-skill) | Released |
+| **Ouyang Xiu** | 协作理由、共同利益、异议和利益变化 | [ouyang-xiu-coalitions-skill](https://github.com/constantin2088/ouyang-xiu-coalitions-skill) | Released |
+| **Han Yu** | 问题定位、专长匹配、求教与独立迁移 | [han-yu-mentorship-skill](https://github.com/constantin2088/han-yu-mentorship-skill) | Released |
+| **Liu Zongyuan** | 过度干预、必要支持、扰动成本与恢复 | [liu-zongyuan-intervention-skill](https://github.com/constantin2088/liu-zongyuan-intervention-skill) | Released |
+| **Ji Kang** | 角色适配、不可承受条件、诚实拒绝与替代 | [ji-kang-boundaries-skill](https://github.com/constantin2088/ji-kang-boundaries-skill) | Released |
+| **Ruan Ji** | 默认身份脚本、外部评价、尺度转换与自主选择 | [ruan-ji-conformity-skill](https://github.com/constantin2088/ruan-ji-conformity-skill) | Released |
+| **Ge Hong** | 取材范围、异说保留、用途与证据归属 | [ge-hong-breadth-skill](https://github.com/constantin2088/ge-hong-breadth-skill) | Released |
+| **Chen Liang** | 账面资源、实际可用性、表现与配套 | [chen-liang-capability-skill](https://github.com/constantin2088/chen-liang-capability-skill) | Released |
+| **Hong Liangji** | 需求与供给增速、分配不均、条件压力与补缺 | [hong-liangji-resources-skill](https://github.com/constantin2088/hong-liangji-resources-skill) | Released |
+| **Li Yu** | 使用频率、位置适配、脆弱物保护与实际体验 | [li-yu-usability-skill](https://github.com/constantin2088/li-yu-usability-skill) | Released |
+| **Yuan Mei** | 具体感受、材料驱使、风格适配和多样评价 | [yuan-mei-expression-skill](https://github.com/constantin2088/yuan-mei-expression-skill) | Released |
 
 Only published entries are installable.
 
@@ -87,6 +107,26 @@ npx skills add constantin2088/xu-guangqi-adaptation-skill
 npx skills add constantin2088/feng-youlan-reflection-skill
 npx skills add constantin2088/zheng-guanying-commerce-skill
 npx skills add constantin2088/yan-yuan-practice-skill
+npx skills add constantin2088/wang-fuzhi-context-skill
+npx skills add constantin2088/gong-zizhen-talent-skill
+npx skills add constantin2088/wei-yuan-benchmark-skill
+npx skills add constantin2088/kang-youwei-utopia-skill
+npx skills add constantin2088/tan-sitong-barriers-skill
+npx skills add constantin2088/zhang-taiyan-terms-skill
+npx skills add constantin2088/li-zhi-authenticity-skill
+npx skills add constantin2088/wang-anshi-change-skill
+npx skills add constantin2088/sima-guang-restraint-skill
+npx skills add constantin2088/su-xun-concessions-skill
+npx skills add constantin2088/ouyang-xiu-coalitions-skill
+npx skills add constantin2088/han-yu-mentorship-skill
+npx skills add constantin2088/liu-zongyuan-intervention-skill
+npx skills add constantin2088/ji-kang-boundaries-skill
+npx skills add constantin2088/ruan-ji-conformity-skill
+npx skills add constantin2088/ge-hong-breadth-skill
+npx skills add constantin2088/chen-liang-capability-skill
+npx skills add constantin2088/hong-liangji-resources-skill
+npx skills add constantin2088/li-yu-usability-skill
+npx skills add constantin2088/yuan-mei-expression-skill
 ```
 <!-- CATALOG:END -->
 

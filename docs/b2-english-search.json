@@ -1,0 +1,162 @@
+[
+  {
+    "query": "wang-fuzhi skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "gong-zizhen skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "wei-yuan skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "kang-youwei skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "tan-sitong skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "zhang-taiyan skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "li-zhi skill",
+    "total_count": 3,
+    "incomplete": false,
+    "items": [
+      {
+        "repo": "constantin2088/liu-zhiji-narrative-skill",
+        "url": "https://github.com/constantin2088/liu-zhiji-narrative-skill",
+        "stars": 1
+      },
+      {
+        "repo": "oldzark/liang-zhi-writing-skill",
+        "url": "https://github.com/oldzark/liang-zhi-writing-skill",
+        "stars": 0
+      },
+      {
+        "repo": "ThyannSeng/LongYinLiZhiZhuan_custom_skill_editor",
+        "url": "https://github.com/ThyannSeng/LongYinLiZhiZhuan_custom_skill_editor",
+        "stars": 1
+      }
+    ]
+  },
+  {
+    "query": "wang-anshi skill",
+    "total_count": 1,
+    "incomplete": false,
+    "items": [
+      {
+        "repo": "zhaohuang321/wang-anshi-perspective",
+        "url": "https://github.com/zhaohuang321/wang-anshi-perspective",
+        "stars": 0
+      }
+    ]
+  },
+  {
+    "query": "sima-guang skill",
+    "total_count": 1,
+    "incomplete": false,
+    "items": [
+      {
+        "repo": "zhaohuang321/sima-guang-perspective",
+        "url": "https://github.com/zhaohuang321/sima-guang-perspective",
+        "stars": 0
+      }
+    ]
+  },
+  {
+    "query": "su-xun skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "ouyang-xiu skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "han-yu skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "liu-zongyuan skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "ji-kang skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "ruan-ji skill",
+    "total_count": 1,
+    "incomplete": false,
+    "items": [
+      {
+        "repo": "yinzhuoqun/ruankao-jicheng",
+        "url": "https://github.com/yinzhuoqun/ruankao-jicheng",
+        "stars": 8
+      }
+    ]
+  },
+  {
+    "query": "ge-hong skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "chen-liang skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "hong-liangji skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "li-yu skill",
+    "total_count": 1,
+    "incomplete": false,
+    "items": [
+      {
+        "repo": "450AIE/LiuYu-s-Develop-Skills",
+        "url": "https://github.com/450AIE/LiuYu-s-Develop-Skills",
+        "stars": 0
+      }
+    ]
+  },
+  {
+    "query": "yuan-mei skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  }
+]
