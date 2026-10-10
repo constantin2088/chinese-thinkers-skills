@@ -41,6 +41,26 @@
 | **陶行知·教学做合一** | 真实任务学习、教人自学、迁移验证 | [tao-xingzhi-learning-skill](https://github.com/constantin2088/tao-xingzhi-learning-skill) | 已发布 |
 | **严复·概念转译与论证校核** | 术语定名、意义保真、解释与译文分离 | [yan-fu-translation-skill](https://github.com/constantin2088/yan-fu-translation-skill) | 已发布 |
 | **黄宗羲·制度问责与公共评议** | 规则受益分析、权责制衡、独立评议 | [huang-zongxi-governance-skill](https://github.com/constantin2088/huang-zongxi-governance-skill) | 已发布 |
+| **顾炎武·经世问题研究** | 现实问题定位、广泛取证、知识转成公共用途 | [gu-yanwu-practical-skill](https://github.com/constantin2088/gu-yanwu-practical-skill) | 已发布 |
+| **张载·共同体责任** | 受影响者识别、责任边界、照护负担分配 | [zhang-zai-responsibility-skill](https://github.com/constantin2088/zhang-zai-responsibility-skill) | 已发布 |
+| **戴震·概念与人情辨析** | 词义分辨、规范与事实分离、真实负担审查 | [dai-zhen-concepts-skill](https://github.com/constantin2088/dai-zhen-concepts-skill) | 已发布 |
+| **王充·问难与实证** | 权威主张质疑、逻辑矛盾、可检验反例 | [wang-chong-skepticism-skill](https://github.com/constantin2088/wang-chong-skepticism-skill) | 已发布 |
+| **章学诚·文献义例与史德** | 文献目的、分类义例、编纂取舍与立场披露 | [zhang-xuecheng-documentation-skill](https://github.com/constantin2088/zhang-xuecheng-documentation-skill) | 已发布 |
+| **傅斯年·材料与工具规划** | 研究材料扩展、工具适配、采集计划与证据缺口 | [fu-sinian-evidence-skill](https://github.com/constantin2088/fu-sinian-evidence-skill) | 已发布 |
+| **钱穆·历史文化脉络** | 研究意义、通史关联、制度与文化的情境解释 | [qian-mu-context-skill](https://github.com/constantin2088/qian-mu-context-skill) | 已发布 |
+| **梁漱溟·社区协作实验** | 地方组织、共同事务、合作能力与渐进试点 | [liang-shuming-community-skill](https://github.com/constantin2088/liang-shuming-community-skill) | 已发布 |
+| **晏阳初·生活能力建设** | 识字与表达、生计、卫生常识、公民协作的联动设计 | [yan-yangchu-education-skill](https://github.com/constantin2088/yan-yangchu-education-skill) | 已发布 |
+| **叶圣陶·诚实写作与自改** | 思想与表达对齐、文字精密、自主修改 | [ye-shengtao-writing-skill](https://github.com/constantin2088/ye-shengtao-writing-skill) | 已发布 |
+| **朱光潜·审美观察与判断** | 观看态度区分、具体形式观察、审美理由 | [zhu-guangqian-aesthetics-skill](https://github.com/constantin2088/zhu-guangqian-aesthetics-skill) | 已发布 |
+| **宗白华·意境与空间节奏** | 情景关联、虚实层次、观看路径与时空节奏 | [zong-baihua-artistic-skill](https://github.com/constantin2088/zong-baihua-artistic-skill) | 已发布 |
+| **刘勰·文思与篇章构造** | 立意、材料与想象、篇章气脉和体裁适配 | [liu-xie-composition-skill](https://github.com/constantin2088/liu-xie-composition-skill) | 已发布 |
+| **刘知几·叙事偏差审查** | 事实与褒贬分离、删选偏差、叙事权力与修订 | [liu-zhiji-narrative-skill](https://github.com/constantin2088/liu-zhiji-narrative-skill) | 已发布 |
+| **沈括·观察与试验辨误** | 现象记录、条件变化、仪器误差与解释检验 | [shen-kuo-observation-skill](https://github.com/constantin2088/shen-kuo-observation-skill) | 已发布 |
+| **宋应星·工艺与生产系统** | 原料工具工序、工艺依赖、产出与损耗记录 | [song-yingxing-process-skill](https://github.com/constantin2088/song-yingxing-process-skill) | 已发布 |
+| **徐光启·知识引入与试验** | 跨域知识理解、本地条件适配、小试与扩展门槛 | [xu-guangqi-adaptation-skill](https://github.com/constantin2088/xu-guangqi-adaptation-skill) | 已发布 |
+| **冯友兰·行动意义反思** | 自我理解、动机与行动、个人与共同利益的关系 | [feng-youlan-reflection-skill](https://github.com/constantin2088/feng-youlan-reflection-skill) | 已发布 |
+| **郑观应·产业能力与竞争** | 商务得失、能力链、竞争比较与资源优先级 | [zheng-guanying-commerce-skill](https://github.com/constantin2088/zheng-guanying-commerce-skill) | 已发布 |
+| **颜元·实习与能力验收** | 学习投入分配、身体力行、独立表现与反馈 | [yan-yuan-practice-skill](https://github.com/constantin2088/yan-yuan-practice-skill) | 已发布 |
 
 只有“已发布”项目可安装；规划项目尚不可用。
 
@@ -55,12 +75,32 @@ npx skills add constantin2088/fei-xiaotong-fieldwork-skill
 npx skills add constantin2088/tao-xingzhi-learning-skill
 npx skills add constantin2088/yan-fu-translation-skill
 npx skills add constantin2088/huang-zongxi-governance-skill
+npx skills add constantin2088/gu-yanwu-practical-skill
+npx skills add constantin2088/zhang-zai-responsibility-skill
+npx skills add constantin2088/dai-zhen-concepts-skill
+npx skills add constantin2088/wang-chong-skepticism-skill
+npx skills add constantin2088/zhang-xuecheng-documentation-skill
+npx skills add constantin2088/fu-sinian-evidence-skill
+npx skills add constantin2088/qian-mu-context-skill
+npx skills add constantin2088/liang-shuming-community-skill
+npx skills add constantin2088/yan-yangchu-education-skill
+npx skills add constantin2088/ye-shengtao-writing-skill
+npx skills add constantin2088/zhu-guangqian-aesthetics-skill
+npx skills add constantin2088/zong-baihua-artistic-skill
+npx skills add constantin2088/liu-xie-composition-skill
+npx skills add constantin2088/liu-zhiji-narrative-skill
+npx skills add constantin2088/shen-kuo-observation-skill
+npx skills add constantin2088/song-yingxing-process-skill
+npx skills add constantin2088/xu-guangqi-adaptation-skill
+npx skills add constantin2088/feng-youlan-reflection-skill
+npx skills add constantin2088/zheng-guanying-commerce-skill
+npx skills add constantin2088/yan-yuan-practice-skill
 ```
 <!-- CATALOG:END -->
 
 ## 快速安装
 
-安装命令见上方作品目录，选择标为“已发布”的项目。系列十个作品均直接通过公开仓库发布 Skill，无需 GitHub Releases。叶茂中及后续新增人物的独立目标客户端模型行为评测尚未执行；目录发布状态不代表模型评测通过。
+安装命令见上方作品目录，选择标为“已发布”的项目。系列三十个作品均直接通过公开仓库发布 Skill，无需 GitHub Releases。叶茂中及后续新增人物的独立目标客户端模型行为评测尚未执行；目录发布状态不代表模型评测通过。
 
 ```bash
 npx skills add constantin2088/liang-qichao-skill
@@ -102,7 +142,7 @@ npx skills add constantin2088/liang-qichao-skill
 - **Phase 1 / Foundation** — 系列总仓库、公开目录、统一模板与 CI；梁启超作为首个参考项目。
 - **Phase 2 / Evidence** — 通过真实问题、反例和历史资料修订梁启超 Skill。
 - **Phase 3 / Marketing** — 叶茂中初版已发布，继续完成目标客户端行为评测和真实任务反馈。
-- **Phase 4 / Research** — 开发陈寅恪 Skill，重点做材料互证与反证机制。
+- **Phase 4 / Research** — 陈寅恪及后续研究类 Skill 已发布，继续依据真实任务和新材料复核。
 - **Phase 5 / Scale** — 多个 Skill 稳定后再考虑组合安装、路由与独立社区组织。
 
 详见 [ROADMAP.md](ROADMAP.md)。
@@ -132,5 +172,7 @@ npx skills add constantin2088/liang-qichao-skill
 
 **MIT License** · Maintainer: [@constantin2088](https://github.com/constantin2088)
 
-## 本轮新增选题
+## 历次新增选题
 [费孝通、陶行知、严复、黄宗羲的选题与检索依据](docs/selection-2026-10-10.md)。已核查低覆盖情况；收藏潜力为编辑判断，非增长保证。
+
+[新增顾炎武、张载等20位人物的选题与检索依据](docs/selection-twenty-2026-10-10.md)。系列现有30个公开作品，未创建 GitHub Releases。

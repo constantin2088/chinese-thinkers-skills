@@ -1,0 +1,975 @@
+[
+  {
+    "person": "顾炎武",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "顾炎武 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"顾炎武\" filename:SKILL.md",
+        "total_count": 6,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "Luyu2026/Skill-Bible",
+            "path": "wang-yangming-perspective/SKILL.md",
+            "url": "https://github.com/Luyu2026/Skill-Bible/blob/428bc4a09359ec2be8f8f93e1ae8e5d6dd3c9deb/wang-yangming-perspective/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "nuwa-skills/wangfuzhi-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/nuwa-skills/wangfuzhi-skill/blob/355aaaa4ab06cec56ee45c0cb864f643b5284aea/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "983033995/mao-zedong-perspective",
+            "path": "SKILL.md",
+            "url": "https://github.com/983033995/mao-zedong-perspective/blob/1a950dafc1657861990b86f44a077f3d7923ae16/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "sahit-sai/saviaa",
+            "path": ".agents/skills/gaokao-essay/SKILL.md",
+            "url": "https://github.com/sahit-sai/saviaa/blob/002e82ef963554de441b845fe67a66ca62f50b6b/.agents/skills/gaokao-essay/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "oscar-wang-xin/xin-skills",
+            "path": "xin-jinyong-style-ludingji/SKILL.md",
+            "url": "https://github.com/oscar-wang-xin/xin-skills/blob/788ddbb834f9c0d1e2b381da10ea558754ca4e9a/xin-jinyong-style-ludingji/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "983033995/mao-zedong-perspective-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/983033995/mao-zedong-perspective-skill/blob/74728ca2d5738ac1582526092495be19fd934503/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "张载",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "张载 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"张载\" filename:SKILL.md",
+        "total_count": 6,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/fan_zhongyan/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/fan_zhongyan/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "nuwa-skills/wangfuzhi-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/nuwa-skills/wangfuzhi-skill/blob/355aaaa4ab06cec56ee45c0cb864f643b5284aea/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "sahit-sai/saviaa",
+            "path": ".agents/skills/gaokao-essay/SKILL.md",
+            "url": "https://github.com/sahit-sai/saviaa/blob/002e82ef963554de441b845fe67a66ca62f50b6b/.agents/skills/gaokao-essay/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "XXXXXQ-0206/xingshi-zhengce-paper",
+            "path": "SKILL.md",
+            "url": "https://github.com/XXXXXQ-0206/xingshi-zhengce-paper/blob/14843e22dca630c29eb5e6581ba2d19c96e43703/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "ahang1598/doubao-workbuddy-qwenwork-skills",
+            "path": "workbuddy/experts/today-todo-assistant/skills/alert-ocr/SKILL.md",
+            "url": "https://github.com/ahang1598/doubao-workbuddy-qwenwork-skills/blob/e02e3999aaf0d6bbf48fc11ef491d4f0d71a68d7/workbuddy/experts/today-todo-assistant/skills/alert-ocr/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/song_yingxing/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/song_yingxing/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "戴震",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "戴震 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"戴震\" filename:SKILL.md",
+        "total_count": 1,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/ji_yun/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/ji_yun/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "王充",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "王充 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"王充\" filename:SKILL.md",
+        "total_count": 1,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "leemiracle/work4ai",
+            "path": "讲透哲学/讲透中国哲学史/SKILL.md",
+            "url": "https://github.com/leemiracle/work4ai/blob/b77bb377aef37962be986f0e26139d9875391448/讲透哲学/讲透中国哲学史/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "章学诚",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "章学诚 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"章学诚\" filename:SKILL.md",
+        "total_count": 2,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/yuan_mei/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/yuan_mei/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/ji_yun/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/ji_yun/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "傅斯年",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "傅斯年 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"傅斯年\" filename:SKILL.md",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "person": "钱穆",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "钱穆 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"钱穆\" filename:SKILL.md",
+        "total_count": 21,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "Luyu2026/Skill-Bible",
+            "path": "wang-yangming-perspective/SKILL.md",
+            "url": "https://github.com/Luyu2026/Skill-Bible/blob/428bc4a09359ec2be8f8f93e1ae8e5d6dd3c9deb/wang-yangming-perspective/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "nuwa-skills/wangyangming-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/nuwa-skills/wangyangming-skill/blob/773f32f1040c477727a666a79a045692b9e53e75/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "moyvch/wangyangming-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/moyvch/wangyangming-skill/blob/8e7571ad43c887a0f2e881481e6c710bd1fa1217/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "yyyyyh649/book-skills",
+            "path": "history/SKILL.md",
+            "url": "https://github.com/yyyyyh649/book-skills/blob/d47b751f7428513e537872619c94fc44fdd31e2d/history/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "nuwa-skills/kongzi-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/nuwa-skills/kongzi-skill/blob/7e8538f2649b1e975cebf54c639ab0c29b47413e/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/qian_mu/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/qian_mu/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "IchenDEV/superman",
+            "path": "skills/confucius-perspective/SKILL.md",
+            "url": "https://github.com/IchenDEV/superman/blob/c9fe0b743769e24e101a262452f879cab00785f9/skills/confucius-perspective/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "nuwa-skills/zhuxi-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/nuwa-skills/zhuxi-skill/blob/5d222b7eee3d47f6b9a8087a0c035fda204ca7e5/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "lxyAK/kongfuzi.skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/lxyAK/kongfuzi.skill/blob/2ad2baed0d69f0b8a883f03b50923558e3861c93/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "chinaonlineNIU/DAO",
+            "path": "SKILL.md",
+            "url": "https://github.com/chinaonlineNIU/DAO/blob/ba4c3808095a1c275bad8c3b5b1a436887dff4a6/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "fsh114514/menwaitan",
+            "path": "skills/kongzi-skill/SKILL.md",
+            "url": "https://github.com/fsh114514/menwaitan/blob/517f2c00ee3abeab60cc45d140d0150b8e77ddf7/skills/kongzi-skill/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "sishierdianyijiuwu/mingren_skill",
+            "path": "05_wangxing/SKILL.md",
+            "url": "https://github.com/sishierdianyijiuwu/mingren_skill/blob/371ecc068d36cde2149b8394136d0fb1feff4fef/05_wangxing/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "Wunicheng233/MultiAgentWriter",
+            "path": "backend/skills/liudanpashui-perspective/SKILL.md",
+            "url": "https://github.com/Wunicheng233/MultiAgentWriter/blob/75f5aa3f8c131f129880f6b042abc89cbadf043e/backend/skills/liudanpashui-perspective/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "ChenyqThu/wentian",
+            "path": "experts/wangyangming/SKILL.md",
+            "url": "https://github.com/ChenyqThu/wentian/blob/7a69ee6a9b6fdb76d48992c7041f44ae221b2869/experts/wangyangming/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "chinaonlineNIU/DAO-ideology",
+            "path": "dao-strategic-advisor/SKILL.md",
+            "url": "https://github.com/chinaonlineNIU/DAO-ideology/blob/35ce33ba78573d303880b618dfe13fe12d0e2a91/dao-strategic-advisor/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "ethanol777/Hermes",
+            "path": "user-skills/wangyangming-skill/SKILL.md",
+            "url": "https://github.com/ethanol777/Hermes/blob/d92cb7c5677c8404fae479a13450b33f219937ee/user-skills/wangyangming-skill/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "robertquant/nuwa-skill",
+            "path": "huashu-nuwa/examples/confucius-perspective/SKILL.md",
+            "url": "https://github.com/robertquant/nuwa-skill/blob/1d4ccdbb430d2b6faf62c4a78366a8071b96b4e7/huashu-nuwa/examples/confucius-perspective/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "nuwa-skills/liubang-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/nuwa-skills/liubang-skill/blob/31dd1a74667c0d642ca4352baa22f4b55c87ef28/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "HZ-KMNO/web-novel-writing-guidance-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/HZ-KMNO/web-novel-writing-guidance-skill/blob/24dd6d40099c97c3120dc37942e8dc99263c0259/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "JiaXingou/bian",
+            "path": ".codex/skills/web-novel-guidance/SKILL.md",
+            "url": "https://github.com/JiaXingou/bian/blob/bc7316ca9d1527dcb0ce576991ad48afd7a6fb17/.codex/skills/web-novel-guidance/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "lawrence3699/agent-skills-corpus",
+            "path": "full_text/writing-docs-content/d4ede9139f3a-0c8746a3__web-novel-writing-guidance-skill.md",
+            "url": "https://github.com/lawrence3699/agent-skills-corpus/blob/5b5b4df597b0474c01f6a28f2061c109d3ad9d72/full_text/writing-docs-content/d4ede9139f3a-0c8746a3__web-novel-writing-guidance-skill.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "梁漱溟",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "梁漱溟 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"梁漱溟\" filename:SKILL.md",
+        "total_count": 3,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/liang_shu_ming/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/liang_shu_ming/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/ma_yi_fu/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/ma_yi_fu/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "nuwa-skills/taoxingzhi-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/nuwa-skills/taoxingzhi-skill/blob/ec16cdb2847bfba564c21aa2a817223be5f2017b/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "晏阳初",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "晏阳初 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"晏阳初\" filename:SKILL.md",
+        "total_count": 1,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "nuwa-skills/taoxingzhi-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/nuwa-skills/taoxingzhi-skill/blob/ec16cdb2847bfba564c21aa2a817223be5f2017b/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "叶圣陶",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "叶圣陶 skill",
+        "total_count": 1,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "cscb603/yeshengtao-photo-mentor",
+            "path": null,
+            "url": "https://github.com/cscb603/yeshengtao-photo-mentor",
+            "stars": 1
+          }
+        ]
+      },
+      {
+        "kind": "code",
+        "query": "\"叶圣陶\" filename:SKILL.md",
+        "total_count": 8,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "tunggian/chinese-writing-coach",
+            "path": "SKILL.md",
+            "url": "https://github.com/tunggian/chinese-writing-coach/blob/21096bb862904e9c448e399d526dff0cf87ef02c/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "Zessi-C/normalize-chinese-prose",
+            "path": "SKILL.md",
+            "url": "https://github.com/Zessi-C/normalize-chinese-prose/blob/03a314053a2b6abba698cd4d93e8146ad3952f98/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "cscb603/yeshengtao-photo-mentor",
+            "path": "yeshengtao-photo-mentor/SKILL.md",
+            "url": "https://github.com/cscb603/yeshengtao-photo-mentor/blob/aba7e461b680e756b10af1fbb8e4edbddcdb4cc2/yeshengtao-photo-mentor/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "USTC0825HY/PHD_USTC_HY_SKILL",
+            "path": "skills/qu-ai-wei/SKILL.md",
+            "url": "https://github.com/USTC0825HY/PHD_USTC_HY_SKILL/blob/606b164c1064c5700cd15a109edc6ebdb7b2a8f3/skills/qu-ai-wei/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "leemiracle/work4ai",
+            "path": "讲透文学/讲透中国儿童文学/SKILL.md",
+            "url": "https://github.com/leemiracle/work4ai/blob/b77bb377aef37962be986f0e26139d9875391448/讲透文学/讲透中国儿童文学/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "HwFee/AgentProject",
+            "path": "skills/humanize-chinese/SKILL.md",
+            "url": "https://github.com/HwFee/AgentProject/blob/503cbdd2104626cf48375e1e5f21ee7ea67c487f/skills/humanize-chinese/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "faifaida/duoduo-skills",
+            "path": "skills/duo-voice-deai/references/02-qu-ai-wei/SKILL.md",
+            "url": "https://github.com/faifaida/duoduo-skills/blob/197565a26eb6cb46ff53e6d3f786d2c89936af9b/skills/duo-voice-deai/references/02-qu-ai-wei/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "jiesou/dotfiles",
+            "path": "exact_dot_agents/exact_skills/exact_0workflow/exact_qu-ai-wei/SKILL.md",
+            "url": "https://github.com/jiesou/dotfiles/blob/292145b6d62a952d1fbc8b612de9292b7a2ec9fc/exact_dot_agents/exact_skills/exact_0workflow/exact_qu-ai-wei/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "朱光潜",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "朱光潜 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"朱光潜\" filename:SKILL.md",
+        "total_count": 16,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "Norman-bury/research-writing-skill",
+            "path": "skills/writing-humanities/SKILL.md",
+            "url": "https://github.com/Norman-bury/research-writing-skill/blob/6f7959554b4614d879d79cb4ece9ed04a7c8a88c/skills/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "DVampire/Autogenesis",
+            "path": "autogenesis/skill/writing/writing-humanities/SKILL.md",
+            "url": "https://github.com/DVampire/Autogenesis/blob/5b070d5cd497e951a188a01409138e8b530eaf4a/autogenesis/skill/writing/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "Wdp-ab/articlewriting-skill",
+            "path": "skills/writing-humanities/SKILL.md",
+            "url": "https://github.com/Wdp-ab/articlewriting-skill/blob/1669654adbb245c312a11244373b7831a66fac89/skills/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "CRDong233/academic_helper",
+            "path": "skills/research-writing-skill-main/skills/writing-humanities/SKILL.md",
+            "url": "https://github.com/CRDong233/academic_helper/blob/26cb331f69bea12039e88d67fde37a64ab9ad640/skills/research-writing-skill-main/skills/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "SuiyuanK/vv-skills",
+            "path": "research-writing-skill/skills/writing-humanities/SKILL.md",
+            "url": "https://github.com/SuiyuanK/vv-skills/blob/b63e8e8fe0a16a4dd1c3b99b9826853711186f68/research-writing-skill/skills/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "lth0/codexSkill",
+            "path": "skills/agents/research-writing/writing-humanities/SKILL.md",
+            "url": "https://github.com/lth0/codexSkill/blob/dda0a56eafcaa54181e492ea957732131bb27e61/skills/agents/research-writing/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "huaibovip/research-marketplace",
+            "path": "plugins/research-writing-assistant/skills/writing-humanities/SKILL.md",
+            "url": "https://github.com/huaibovip/research-marketplace/blob/5840fcbf1d45a17f8006baaa6d09b684b083e5bd/plugins/research-writing-assistant/skills/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "family3253/scixz-medical-research-controller",
+            "path": "bundled-skills/research-writing-assistant/skills/writing-humanities/SKILL.md",
+            "url": "https://github.com/family3253/scixz-medical-research-controller/blob/dd46c5f158ebfe3cbca2dbe3fe34477cc0031245/bundled-skills/research-writing-assistant/skills/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "dongper/multi-agent-cyber-defense-platform",
+            "path": "redblue-hermes-studio/skills/research-writing/skills/writing-humanities/SKILL.md",
+            "url": "https://github.com/dongper/multi-agent-cyber-defense-platform/blob/9ce4482fe0f34150cd6e7d0b481d79f80b97d6f2/redblue-hermes-studio/skills/research-writing/skills/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "Job-Yang/jobyang-ai-skills",
+            "path": "skills/haohao-shuohua/SKILL.md",
+            "url": "https://github.com/Job-Yang/jobyang-ai-skills/blob/828caf477dfaae5fbe14596116d5cb93f9046167/skills/haohao-shuohua/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "Zessi-C/normalize-chinese-prose",
+            "path": "SKILL.md",
+            "url": "https://github.com/Zessi-C/normalize-chinese-prose/blob/03a314053a2b6abba698cd4d93e8146ad3952f98/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "cacdcaecawae/hit-thesis",
+            "path": "skills/writing-humanities/SKILL.md",
+            "url": "https://github.com/cacdcaecawae/hit-thesis/blob/fcf603b060f21bdebaba727ca400b30f25d76d14/skills/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "ZKMcv110/fipy_naca0012_2.0-comsol",
+            "path": "skills/research-writing-skill-main/skills/writing-humanities/SKILL.md",
+            "url": "https://github.com/ZKMcv110/fipy_naca0012_2.0-comsol/blob/e4d6393cf34e2f79da94605775bfd964241bc2b9/skills/research-writing-skill-main/skills/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "liukun22404/first-cc",
+            "path": "research-writing-skill/skills/writing-humanities/SKILL.md",
+            "url": "https://github.com/liukun22404/first-cc/blob/61106836a92e47e13e8a592f0264fa2ce03ece2f/research-writing-skill/skills/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "gaoxingkele/mylib",
+            "path": "research-writing-skill/skills/writing-humanities/SKILL.md",
+            "url": "https://github.com/gaoxingkele/mylib/blob/f4fb01ce1e155678a8b0470e17a7bfca1edd99cf/research-writing-skill/skills/writing-humanities/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "ranshaobaichi/CV_Final_Lab",
+            "path": "research-writing-skill/skills/writing-humanities/SKILL.md",
+            "url": "https://github.com/ranshaobaichi/CV_Final_Lab/blob/6d1ac7cee5bf79d1d23908130e75338eabf25eda/research-writing-skill/skills/writing-humanities/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "宗白华",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "宗白华 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"宗白华\" filename:SKILL.md",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "person": "刘勰",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "刘勰 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"刘勰\" filename:SKILL.md",
+        "total_count": 5,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "bbroot/novel-master",
+            "path": "SKILL.md",
+            "url": "https://github.com/bbroot/novel-master/blob/a5cef3991c4afacf803935535b78258e3dc2fc20/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/ji_kang/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/ji_kang/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "Weilv-D/The_Unwritten",
+            "path": ".claude/skills/wenyan-writing/SKILL.md",
+            "url": "https://github.com/Weilv-D/The_Unwritten/blob/6e1d1f884f45e7f03fcf98160828dd75ba707aa2/.claude/skills/wenyan-writing/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/gui_guzi/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/gui_guzi/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/qu_yuan/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/qu_yuan/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "刘知几",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "刘知几 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"刘知几\" filename:SKILL.md",
+        "total_count": 9,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "jtydhr88/screenwriting-skills",
+            "path": "plugins/screenwriting/skills/sw-dialogue/SKILL.md",
+            "url": "https://github.com/jtydhr88/screenwriting-skills/blob/51115f18d160aa8b2ac5813e4432b6f0b425358f/plugins/screenwriting/skills/sw-dialogue/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "RoacherM/Wayne-Skills",
+            "path": "skills/sw-dialogue/SKILL.md",
+            "url": "https://github.com/RoacherM/Wayne-Skills/blob/f61c93e185f09f5e4ab2c37d223e447dcde917bd/skills/sw-dialogue/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "taosaya96/saya_ai_skill_repository",
+            "path": "skills/sw-dialogue/SKILL.md",
+            "url": "https://github.com/taosaya96/saya_ai_skill_repository/blob/79db9b7124855bc57d1d632c539a4b38a4710122/skills/sw-dialogue/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "endman100/skill-router-nexus",
+            "path": "Writing-Craft/sw-dialogue/SKILL.md",
+            "url": "https://github.com/endman100/skill-router-nexus/blob/b33a911ab33b54c042cf3f00027d743aebc8d32a/Writing-Craft/sw-dialogue/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "RoacherM/Wayne-Skills",
+            "path": ".agents/skills/sw-dialogue/SKILL.md",
+            "url": "https://github.com/RoacherM/Wayne-Skills/blob/f61c93e185f09f5e4ab2c37d223e447dcde917bd/.agents/skills/sw-dialogue/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "RoacherM/Wayne-Skills",
+            "path": ".claude/skills/sw-dialogue/SKILL.md",
+            "url": "https://github.com/RoacherM/Wayne-Skills/blob/f61c93e185f09f5e4ab2c37d223e447dcde917bd/.claude/skills/sw-dialogue/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "gautjac/la-replique-native",
+            "path": "Corpus/sw-dialogue/SKILL.md",
+            "url": "https://github.com/gautjac/la-replique-native/blob/f50d0caab30134c8dc21e3ada7951af0b600ceed/Corpus/sw-dialogue/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "gautjac/la-replique",
+            "path": "netlify/functions/lib/corpus/sw-dialogue/SKILL.md",
+            "url": "https://github.com/gautjac/la-replique/blob/30b13c820df13bea48f5a81c3eeba1f647aedfee/netlify/functions/lib/corpus/sw-dialogue/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "xiangnan050610-alt/-",
+            "path": "Skill/GitHub编剧导演Skill精选收藏/screenwriting-skills/skills/sw-dialogue/SKILL.md",
+            "url": "https://github.com/xiangnan050610-alt/-/blob/0d7c259524c6ad6a359181c0c0da38529adf8770/Skill/GitHub编剧导演Skill精选收藏/screenwriting-skills/skills/sw-dialogue/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "沈括",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "沈括 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"沈括\" filename:SKILL.md",
+        "total_count": 2,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/bi_sheng/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/bi_sheng/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/shen_kuo/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/shen_kuo/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "宋应星",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "宋应星 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"宋应星\" filename:SKILL.md",
+        "total_count": 1,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/song_yingxing/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/song_yingxing/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "徐光启",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "徐光启 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"徐光启\" filename:SKILL.md",
+        "total_count": 1,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/xu_guangqi/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/xu_guangqi/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "冯友兰",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "冯友兰 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"冯友兰\" filename:SKILL.md",
+        "total_count": 12,
+        "incomplete": false,
+        "items": [
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/feng_you_lan/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/feng_you_lan/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "IchenDEV/superman",
+            "path": "skills/zou-yan-perspective/SKILL.md",
+            "url": "https://github.com/IchenDEV/superman/blob/c9fe0b743769e24e101a262452f879cab00785f9/skills/zou-yan-perspective/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "nuwa-skills/zhuangzi-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/nuwa-skills/zhuangzi-skill/blob/2acd5532cacb9167b7da5e2f3cbebc6dc07706cb/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "nuwa-skills/xunzi-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/nuwa-skills/xunzi-skill/blob/64aa618b9e25157a676851f99b291b2335eaa075/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "vort-new/mao-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/vort-new/mao-skill/blob/2546139c3c3528f24961a7106bd4a6b8d64be0f3/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "nuwa-skills/wangfuzhi-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/nuwa-skills/wangfuzhi-skill/blob/355aaaa4ab06cec56ee45c0cb864f643b5284aea/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "111pointer111/claude-marketplace",
+            "path": "skills/historical-persona-distiller/output/ji_kang/SKILL.md",
+            "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/ji_kang/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "xinetzone/SpecWeave",
+            "path": ".agents/skills/dao-san-triads/SKILL.md",
+            "url": "https://github.com/xinetzone/SpecWeave/blob/f36ef6e73f9420d84467800253fe6ab2e4d6f8e2/.agents/skills/dao-san-triads/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "j3ffyang/ai-custom-skills",
+            "path": "hermes/260625-luoShenFu/SKILL.md",
+            "url": "https://github.com/j3ffyang/ai-custom-skills/blob/61ddfc03c0362cd82a4fc84ad2b6e6f6ac5d3b23/hermes/260625-luoShenFu/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "lawrence3699/agent-skills-corpus",
+            "path": "full_text/other/d4c1dfe1e25e-3810288b__mao-skill.md",
+            "url": "https://github.com/lawrence3699/agent-skills-corpus/blob/5b5b4df597b0474c01f6a28f2061c109d3ad9d72/full_text/other/d4c1dfe1e25e-3810288b__mao-skill.md",
+            "stars": null
+          },
+          {
+            "repo": "Slzx1/su-shi-skill",
+            "path": "SKILL.md",
+            "url": "https://github.com/Slzx1/su-shi-skill/blob/56275a2414a1ad3bcaa1bd2a15cd082dc4a7cde2/SKILL.md",
+            "stars": null
+          },
+          {
+            "repo": "leemiracle/work4ai",
+            "path": "讲透哲学/讲透中国哲学史/SKILL.md",
+            "url": "https://github.com/leemiracle/work4ai/blob/b77bb377aef37962be986f0e26139d9875391448/讲透哲学/讲透中国哲学史/SKILL.md",
+            "stars": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "郑观应",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "郑观应 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"郑观应\" filename:SKILL.md",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "person": "颜元",
+    "queries": [
+      {
+        "kind": "repositories",
+        "query": "颜元 skill",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      },
+      {
+        "kind": "code",
+        "query": "\"颜元\" filename:SKILL.md",
+        "total_count": 0,
+        "incomplete": false,
+        "items": []
+      }
+    ]
+  }
+]

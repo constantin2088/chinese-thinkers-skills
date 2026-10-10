@@ -131,6 +131,266 @@
         "governance",
         "huang-zongxi-governance-skill"
       ]
+    },
+    {
+      "id": "gu-yanwu-practical-skill",
+      "name_zh": "顾炎武·经世问题研究",
+      "name_en": "Gu Yanwu",
+      "category": "practical-research",
+      "status": "published",
+      "focus": "现实问题定位、广泛取证、知识转成公共用途",
+      "repo": "constantin2088/gu-yanwu-practical-skill",
+      "topics": [
+        "practical-research",
+        "gu-yanwu-practical-skill"
+      ]
+    },
+    {
+      "id": "zhang-zai-responsibility-skill",
+      "name_zh": "张载·共同体责任",
+      "name_en": "Zhang Zai",
+      "category": "ethics",
+      "status": "published",
+      "focus": "受影响者识别、责任边界、照护负担分配",
+      "repo": "constantin2088/zhang-zai-responsibility-skill",
+      "topics": [
+        "ethics",
+        "zhang-zai-responsibility-skill"
+      ]
+    },
+    {
+      "id": "dai-zhen-concepts-skill",
+      "name_zh": "戴震·概念与人情辨析",
+      "name_en": "Dai Zhen",
+      "category": "concept-analysis",
+      "status": "published",
+      "focus": "词义分辨、规范与事实分离、真实负担审查",
+      "repo": "constantin2088/dai-zhen-concepts-skill",
+      "topics": [
+        "concept-analysis",
+        "dai-zhen-concepts-skill"
+      ]
+    },
+    {
+      "id": "wang-chong-skepticism-skill",
+      "name_zh": "王充·问难与实证",
+      "name_en": "Wang Chong",
+      "category": "critical-thinking",
+      "status": "published",
+      "focus": "权威主张质疑、逻辑矛盾、可检验反例",
+      "repo": "constantin2088/wang-chong-skepticism-skill",
+      "topics": [
+        "critical-thinking",
+        "wang-chong-skepticism-skill"
+      ]
+    },
+    {
+      "id": "zhang-xuecheng-documentation-skill",
+      "name_zh": "章学诚·文献义例与史德",
+      "name_en": "Zhang Xuecheng",
+      "category": "documentation",
+      "status": "published",
+      "focus": "文献目的、分类义例、编纂取舍与立场披露",
+      "repo": "constantin2088/zhang-xuecheng-documentation-skill",
+      "topics": [
+        "documentation",
+        "zhang-xuecheng-documentation-skill"
+      ]
+    },
+    {
+      "id": "fu-sinian-evidence-skill",
+      "name_zh": "傅斯年·材料与工具规划",
+      "name_en": "Fu Sinian",
+      "category": "research-planning",
+      "status": "published",
+      "focus": "研究材料扩展、工具适配、采集计划与证据缺口",
+      "repo": "constantin2088/fu-sinian-evidence-skill",
+      "topics": [
+        "research-planning",
+        "fu-sinian-evidence-skill"
+      ]
+    },
+    {
+      "id": "qian-mu-context-skill",
+      "name_zh": "钱穆·历史文化脉络",
+      "name_en": "Qian Mu",
+      "category": "historical-context",
+      "status": "published",
+      "focus": "研究意义、通史关联、制度与文化的情境解释",
+      "repo": "constantin2088/qian-mu-context-skill",
+      "topics": [
+        "historical-context",
+        "qian-mu-context-skill"
+      ]
+    },
+    {
+      "id": "liang-shuming-community-skill",
+      "name_zh": "梁漱溟·社区协作实验",
+      "name_en": "Liang Shuming",
+      "category": "community-development",
+      "status": "published",
+      "focus": "地方组织、共同事务、合作能力与渐进试点",
+      "repo": "constantin2088/liang-shuming-community-skill",
+      "topics": [
+        "community-development",
+        "liang-shuming-community-skill"
+      ]
+    },
+    {
+      "id": "yan-yangchu-education-skill",
+      "name_zh": "晏阳初·生活能力建设",
+      "name_en": "Yan Yangchu",
+      "category": "community-education",
+      "status": "published",
+      "focus": "识字与表达、生计、卫生常识、公民协作的联动设计",
+      "repo": "constantin2088/yan-yangchu-education-skill",
+      "topics": [
+        "community-education",
+        "yan-yangchu-education-skill"
+      ]
+    },
+    {
+      "id": "ye-shengtao-writing-skill",
+      "name_zh": "叶圣陶·诚实写作与自改",
+      "name_en": "Ye Shengtao",
+      "category": "writing",
+      "status": "published",
+      "focus": "思想与表达对齐、文字精密、自主修改",
+      "repo": "constantin2088/ye-shengtao-writing-skill",
+      "topics": [
+        "writing",
+        "ye-shengtao-writing-skill"
+      ]
+    },
+    {
+      "id": "zhu-guangqian-aesthetics-skill",
+      "name_zh": "朱光潜·审美观察与判断",
+      "name_en": "Zhu Guangqian",
+      "category": "aesthetics",
+      "status": "published",
+      "focus": "观看态度区分、具体形式观察、审美理由",
+      "repo": "constantin2088/zhu-guangqian-aesthetics-skill",
+      "topics": [
+        "aesthetics",
+        "zhu-guangqian-aesthetics-skill"
+      ]
+    },
+    {
+      "id": "zong-baihua-artistic-skill",
+      "name_zh": "宗白华·意境与空间节奏",
+      "name_en": "Zong Baihua",
+      "category": "artistic-design",
+      "status": "published",
+      "focus": "情景关联、虚实层次、观看路径与时空节奏",
+      "repo": "constantin2088/zong-baihua-artistic-skill",
+      "topics": [
+        "artistic-design",
+        "zong-baihua-artistic-skill"
+      ]
+    },
+    {
+      "id": "liu-xie-composition-skill",
+      "name_zh": "刘勰·文思与篇章构造",
+      "name_en": "Liu Xie",
+      "category": "composition",
+      "status": "published",
+      "focus": "立意、材料与想象、篇章气脉和体裁适配",
+      "repo": "constantin2088/liu-xie-composition-skill",
+      "topics": [
+        "composition",
+        "liu-xie-composition-skill"
+      ]
+    },
+    {
+      "id": "liu-zhiji-narrative-skill",
+      "name_zh": "刘知几·叙事偏差审查",
+      "name_en": "Liu Zhiji",
+      "category": "narrative-audit",
+      "status": "published",
+      "focus": "事实与褒贬分离、删选偏差、叙事权力与修订",
+      "repo": "constantin2088/liu-zhiji-narrative-skill",
+      "topics": [
+        "narrative-audit",
+        "liu-zhiji-narrative-skill"
+      ]
+    },
+    {
+      "id": "shen-kuo-observation-skill",
+      "name_zh": "沈括·观察与试验辨误",
+      "name_en": "Shen Kuo",
+      "category": "observation",
+      "status": "published",
+      "focus": "现象记录、条件变化、仪器误差与解释检验",
+      "repo": "constantin2088/shen-kuo-observation-skill",
+      "topics": [
+        "observation",
+        "shen-kuo-observation-skill"
+      ]
+    },
+    {
+      "id": "song-yingxing-process-skill",
+      "name_zh": "宋应星·工艺与生产系统",
+      "name_en": "Song Yingxing",
+      "category": "process-design",
+      "status": "published",
+      "focus": "原料工具工序、工艺依赖、产出与损耗记录",
+      "repo": "constantin2088/song-yingxing-process-skill",
+      "topics": [
+        "process-design",
+        "song-yingxing-process-skill"
+      ]
+    },
+    {
+      "id": "xu-guangqi-adaptation-skill",
+      "name_zh": "徐光启·知识引入与试验",
+      "name_en": "Xu Guangqi",
+      "category": "knowledge-adaptation",
+      "status": "published",
+      "focus": "跨域知识理解、本地条件适配、小试与扩展门槛",
+      "repo": "constantin2088/xu-guangqi-adaptation-skill",
+      "topics": [
+        "knowledge-adaptation",
+        "xu-guangqi-adaptation-skill"
+      ]
+    },
+    {
+      "id": "feng-youlan-reflection-skill",
+      "name_zh": "冯友兰·行动意义反思",
+      "name_en": "Feng Youlan",
+      "category": "reflection",
+      "status": "published",
+      "focus": "自我理解、动机与行动、个人与共同利益的关系",
+      "repo": "constantin2088/feng-youlan-reflection-skill",
+      "topics": [
+        "reflection",
+        "feng-youlan-reflection-skill"
+      ]
+    },
+    {
+      "id": "zheng-guanying-commerce-skill",
+      "name_zh": "郑观应·产业能力与竞争",
+      "name_en": "Zheng Guanying",
+      "category": "industrial-strategy",
+      "status": "published",
+      "focus": "商务得失、能力链、竞争比较与资源优先级",
+      "repo": "constantin2088/zheng-guanying-commerce-skill",
+      "topics": [
+        "industrial-strategy",
+        "zheng-guanying-commerce-skill"
+      ]
+    },
+    {
+      "id": "yan-yuan-practice-skill",
+      "name_zh": "颜元·实习与能力验收",
+      "name_en": "Yan Yuan",
+      "category": "practice",
+      "status": "published",
+      "focus": "学习投入分配、身体力行、独立表现与反馈",
+      "repo": "constantin2088/yan-yuan-practice-skill",
+      "topics": [
+        "practice",
+        "yan-yuan-practice-skill"
+      ]
     }
   ],
   "homepage": "https://github.com/constantin2088/chinese-thinkers-skills",
