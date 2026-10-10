@@ -1,0 +1,250 @@
+[
+  {
+    "query": "\"费孝通\" filename:SKILL.md",
+    "total_count": 20,
+    "incomplete": false,
+    "items": [
+      {
+        "repo": "brycewang-stanford/Awesome-Journal-Skills",
+        "path": "Sociological-Studies-Skills/skills/socs-submission/SKILL.md",
+        "url": "https://github.com/brycewang-stanford/Awesome-Journal-Skills/blob/932eb23331721b16e967c59f093781be1928b498/Sociological-Studies-Skills/skills/socs-submission/SKILL.md"
+      },
+      {
+        "repo": "24kchengYe/human-skill-tree",
+        "path": "skills/05-social-intelligence/SKILL.md",
+        "url": "https://github.com/24kchengYe/human-skill-tree/blob/be589ddd04c945cd64642702ed7f6cfbd2466e03/skills/05-social-intelligence/SKILL.md"
+      },
+      {
+        "repo": "24kchengYe/human-skill-tree",
+        "path": "skills/02-humanities-social-tutor/SKILL.md",
+        "url": "https://github.com/24kchengYe/human-skill-tree/blob/be589ddd04c945cd64642702ed7f6cfbd2466e03/skills/02-humanities-social-tutor/SKILL.md"
+      },
+      {
+        "repo": "24kchengYe/human-skill-tree",
+        "path": "app/content/skills/05-social-intelligence/SKILL.md",
+        "url": "https://github.com/24kchengYe/human-skill-tree/blob/be589ddd04c945cd64642702ed7f6cfbd2466e03/app/content/skills/05-social-intelligence/SKILL.md"
+      },
+      {
+        "repo": "24kchengYe/human-skill-tree",
+        "path": "app/content/skills/02-humanities-social-tutor/SKILL.md",
+        "url": "https://github.com/24kchengYe/human-skill-tree/blob/be589ddd04c945cd64642702ed7f6cfbd2466e03/app/content/skills/02-humanities-social-tutor/SKILL.md"
+      },
+      {
+        "repo": "unix2dos/skills",
+        "path": "book-recommender/SKILL.md",
+        "url": "https://github.com/unix2dos/skills/blob/6248464cbadfe26569b8dbb5747fec0c3f7c2119/book-recommender/SKILL.md"
+      },
+      {
+        "repo": "shy-tangerine/publicist-skills",
+        "path": "skills/publicist-china-guanxi/SKILL.md",
+        "url": "https://github.com/shy-tangerine/publicist-skills/blob/909f7d3715a52cd4449f180b82cb3d67dfbd2140/skills/publicist-china-guanxi/SKILL.md"
+      },
+      {
+        "repo": "thedixitjain/the-mega-skill-library",
+        "path": "library/research-and-academic/socs-submission/SKILL.md",
+        "url": "https://github.com/thedixitjain/the-mega-skill-library/blob/1c6d3294f059862aec20847d680c13fd96cc7671/library/research-and-academic/socs-submission/SKILL.md"
+      },
+      {
+        "repo": "gabrielmoreira/agent-skills-mirror",
+        "path": "mirrors/repos/brycewang-stanford@Awesome-Journal-Skills/Sociological-Studies-Skills/skills/socs-submission/SKILL.md",
+        "url": "https://github.com/gabrielmoreira/agent-skills-mirror/blob/01f4e78bde7633f85bd57f778f9071743493751b/mirrors/repos/brycewang-stanford@Awesome-Journal-Skills/Sociological-Studies-Skills/skills/socs-submission/SKILL.md"
+      },
+      {
+        "repo": "gabrielmoreira/agent-skills-mirror",
+        "path": "mirrors/repos/24kchengYe@human-skill-tree/skills/05-social-intelligence/SKILL.md",
+        "url": "https://github.com/gabrielmoreira/agent-skills-mirror/blob/01f4e78bde7633f85bd57f778f9071743493751b/mirrors/repos/24kchengYe@human-skill-tree/skills/05-social-intelligence/SKILL.md"
+      },
+      {
+        "repo": "brycewang-stanford/Awesome-Journal-Skills",
+        "path": "Sociological-Studies-Skills/skills/socs-concept-building/SKILL.md",
+        "url": "https://github.com/brycewang-stanford/Awesome-Journal-Skills/blob/932eb23331721b16e967c59f093781be1928b498/Sociological-Studies-Skills/skills/socs-concept-building/SKILL.md"
+      },
+      {
+        "repo": "gabrielmoreira/agent-skills-mirror",
+        "path": "mirrors/repos/24kchengYe@human-skill-tree/skills/02-humanities-social-tutor/SKILL.md",
+        "url": "https://github.com/gabrielmoreira/agent-skills-mirror/blob/01f4e78bde7633f85bd57f778f9071743493751b/mirrors/repos/24kchengYe@human-skill-tree/skills/02-humanities-social-tutor/SKILL.md"
+      },
+      {
+        "repo": "leemiracle/work4ai",
+        "path": "讲透社会学/讲透社会学史/SKILL.md",
+        "url": "https://github.com/leemiracle/work4ai/blob/b77bb377aef37962be986f0e26139d9875391448/讲透社会学/讲透社会学史/SKILL.md"
+      },
+      {
+        "repo": "gabrielmoreira/agent-skills-mirror",
+        "path": "mirrors/repos/24kchengYe@human-skill-tree/app/content/skills/05-social-intelligence/SKILL.md",
+        "url": "https://github.com/gabrielmoreira/agent-skills-mirror/blob/01f4e78bde7633f85bd57f778f9071743493751b/mirrors/repos/24kchengYe@human-skill-tree/app/content/skills/05-social-intelligence/SKILL.md"
+      },
+      {
+        "repo": "YaoKAI-corder/Qualitative-research-data-manager",
+        "path": "耘知Skills备份/literature-scholar/SKILL.md",
+        "url": "https://github.com/YaoKAI-corder/Qualitative-research-data-manager/blob/a26c6eabe89b63bbb694eb83cb5a9cadacdcef34/耘知Skills备份/literature-scholar/SKILL.md"
+      },
+      {
+        "repo": "gabrielmoreira/agent-skills-mirror",
+        "path": "mirrors/repos/24kchengYe@human-skill-tree/app/content/skills/02-humanities-social-tutor/SKILL.md",
+        "url": "https://github.com/gabrielmoreira/agent-skills-mirror/blob/01f4e78bde7633f85bd57f778f9071743493751b/mirrors/repos/24kchengYe@human-skill-tree/app/content/skills/02-humanities-social-tutor/SKILL.md"
+      },
+      {
+        "repo": "raydian/study_skills",
+        "path": "xiangtu-chapter-video-clone/SKILL.md",
+        "url": "https://github.com/raydian/study_skills/blob/7dc48cdb74fbacf237a4b4f1ccc38d68b6e7d4cf/xiangtu-chapter-video-clone/SKILL.md"
+      },
+      {
+        "repo": "thedixitjain/the-mega-skill-library",
+        "path": "library/general-purpose/socs-concept-building/SKILL.md",
+        "url": "https://github.com/thedixitjain/the-mega-skill-library/blob/1c6d3294f059862aec20847d680c13fd96cc7671/library/general-purpose/socs-concept-building/SKILL.md"
+      },
+      {
+        "repo": "leemiracle/work4ai",
+        "path": "讲透社会学/讲透应用社会学/SKILL.md",
+        "url": "https://github.com/leemiracle/work4ai/blob/b77bb377aef37962be986f0e26139d9875391448/讲透社会学/讲透应用社会学/SKILL.md"
+      },
+      {
+        "repo": "gabrielmoreira/agent-skills-mirror",
+        "path": "mirrors/repos/brycewang-stanford@Awesome-Journal-Skills/Sociological-Studies-Skills/skills/socs-concept-building/SKILL.md",
+        "url": "https://github.com/gabrielmoreira/agent-skills-mirror/blob/01f4e78bde7633f85bd57f778f9071743493751b/mirrors/repos/brycewang-stanford@Awesome-Journal-Skills/Sociological-Studies-Skills/skills/socs-concept-building/SKILL.md"
+      }
+    ]
+  },
+  {
+    "query": "\"陶行知\" filename:SKILL.md",
+    "total_count": 4,
+    "incomplete": false,
+    "items": [
+      {
+        "repo": "Luyu2026/Skill-Bible",
+        "path": "wang-yangming-perspective/SKILL.md",
+        "url": "https://github.com/Luyu2026/Skill-Bible/blob/428bc4a09359ec2be8f8f93e1ae8e5d6dd3c9deb/wang-yangming-perspective/SKILL.md"
+      },
+      {
+        "repo": "nuwa-skills/taoxingzhi-skill",
+        "path": "SKILL.md",
+        "url": "https://github.com/nuwa-skills/taoxingzhi-skill/blob/ec16cdb2847bfba564c21aa2a817223be5f2017b/SKILL.md"
+      },
+      {
+        "repo": "nuwa-skills/dewey-skill",
+        "path": "SKILL.md",
+        "url": "https://github.com/nuwa-skills/dewey-skill/blob/9f04d573962e8ab2c72362a220632c24f799db0d/SKILL.md"
+      },
+      {
+        "repo": "xinetzone/SpecWeave",
+        "path": ".agents/skills/role-model-methodology/SKILL.md",
+        "url": "https://github.com/xinetzone/SpecWeave/blob/f36ef6e73f9420d84467800253fe6ab2e4d6f8e2/.agents/skills/role-model-methodology/SKILL.md"
+      }
+    ]
+  },
+  {
+    "query": "\"严复\" filename:SKILL.md",
+    "total_count": 15,
+    "incomplete": false,
+    "items": [
+      {
+        "repo": "momozi1996/awesome-ai-persona-skills",
+        "path": "Novelists/luxun-skill/SKILL.md",
+        "url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/729ff734f5edcbaed70e256d1031fd0a224f6527/Novelists/luxun-skill/SKILL.md"
+      },
+      {
+        "repo": "majiayu000/claude-skill-registry-data",
+        "path": "agent/luxun-skill/SKILL.md",
+        "url": "https://github.com/majiayu000/claude-skill-registry-data/blob/ee695d0c938ea7cae8d951f119f837e3fff386c9/agent/luxun-skill/SKILL.md"
+      },
+      {
+        "repo": "111pointer111/claude-marketplace",
+        "path": "skills/historical-persona-distiller/output/yan_fu/SKILL.md",
+        "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/yan_fu/SKILL.md"
+      },
+      {
+        "repo": "gabrielmoreira/agent-skills-mirror",
+        "path": "mirrors/repos/momozi1996@awesome-ai-persona-skills/Novelists/luxun-skill/SKILL.md",
+        "url": "https://github.com/gabrielmoreira/agent-skills-mirror/blob/01f4e78bde7633f85bd57f778f9071743493751b/mirrors/repos/momozi1996@awesome-ai-persona-skills/Novelists/luxun-skill/SKILL.md"
+      },
+      {
+        "repo": "jarrett-au/cc-config-starter",
+        "path": "skills/xindaya-translator/SKILL.md",
+        "url": "https://github.com/jarrett-au/cc-config-starter/blob/3c6816cee172c04a482a0ae0be81227c9e4251b5/skills/xindaya-translator/SKILL.md"
+      },
+      {
+        "repo": "TL-SN/luxun-skill",
+        "path": "SKILL.md",
+        "url": "https://github.com/TL-SN/luxun-skill/blob/afd3a1c85a47dd636eda31564b4fb0ca18aa5354/SKILL.md"
+      },
+      {
+        "repo": "haomingz/kimi-skills",
+        "path": "skills/xindaya-translator/SKILL.md",
+        "url": "https://github.com/haomingz/kimi-skills/blob/0ed44c8b4ae17e2967436e7fa82e77f5a97505f3/skills/xindaya-translator/SKILL.md"
+      },
+      {
+        "repo": "leemiracle/work4ai",
+        "path": "讲透文学/讲透中国近代文学/SKILL.md",
+        "url": "https://github.com/leemiracle/work4ai/blob/b77bb377aef37962be986f0e26139d9875391448/讲透文学/讲透中国近代文学/SKILL.md"
+      },
+      {
+        "repo": "qq1018408006/Skills_for_kimi",
+        "path": "kimi-skills/xindaya-translator/SKILL.md",
+        "url": "https://github.com/qq1018408006/Skills_for_kimi/blob/e62369c068a847ff75931bb0d43fd89d17a74320/kimi-skills/xindaya-translator/SKILL.md"
+      },
+      {
+        "repo": "111pointer111/claude-marketplace",
+        "path": "skills/historical-persona-distiller/output/wang_guo_wei/SKILL.md",
+        "url": "https://github.com/111pointer111/claude-marketplace/blob/d41ed9c9dbd640a02cdc7b0b48fa8f42aae8b528/skills/historical-persona-distiller/output/wang_guo_wei/SKILL.md"
+      },
+      {
+        "repo": "Raccoon-Office/Box-Agent",
+        "path": "box_agent/skills/landscape-drawing-review-skill/SKILL.md",
+        "url": "https://github.com/Raccoon-Office/Box-Agent/blob/41934e6a05b5b0c86cc1dc6d67ae9fcef87708fa/box_agent/skills/landscape-drawing-review-skill/SKILL.md"
+      },
+      {
+        "repo": "sahit-sai/saviaa",
+        "path": ".agents/skills/translator/SKILL.md",
+        "url": "https://github.com/sahit-sai/saviaa/blob/002e82ef963554de441b845fe67a66ca62f50b6b/.agents/skills/translator/SKILL.md"
+      },
+      {
+        "repo": "zm1990s/panw",
+        "path": "skills/translate-pptx/SKILL.md",
+        "url": "https://github.com/zm1990s/panw/blob/7b6f2070763c02baf771c01bccaf9f4e86fc1925/skills/translate-pptx/SKILL.md"
+      },
+      {
+        "repo": "nstung463/kimi-agent-skills",
+        "path": "skills/xindaya-translator/SKILL.md",
+        "url": "https://github.com/nstung463/kimi-agent-skills/blob/e5fad4aa49343dcc9563a0f9b2c7ef31b3134eb1/skills/xindaya-translator/SKILL.md"
+      },
+      {
+        "repo": "serejaris/kimi-skills",
+        "path": "skills/xindaya-translator/SKILL.md",
+        "url": "https://github.com/serejaris/kimi-skills/blob/5d6e4fac7ef2a5db5510c0631e29a44f56b8bf78/skills/xindaya-translator/SKILL.md"
+      }
+    ]
+  },
+  {
+    "query": "\"黄宗羲\" filename:SKILL.md",
+    "total_count": 5,
+    "incomplete": false,
+    "items": [
+      {
+        "repo": "digoal/blog",
+        "path": "skills/luo-hongxian-perspective/SKILL.md",
+        "url": "https://github.com/digoal/blog/blob/ad6fcb791b42f590a080ad9b5f9020503bfa0e18/skills/luo-hongxian-perspective/SKILL.md"
+      },
+      {
+        "repo": "Luyu2026/Skill-Bible",
+        "path": "wang-yangming-perspective/SKILL.md",
+        "url": "https://github.com/Luyu2026/Skill-Bible/blob/428bc4a09359ec2be8f8f93e1ae8e5d6dd3c9deb/wang-yangming-perspective/SKILL.md"
+      },
+      {
+        "repo": "nuwa-skills/wangfuzhi-skill",
+        "path": "SKILL.md",
+        "url": "https://github.com/nuwa-skills/wangfuzhi-skill/blob/355aaaa4ab06cec56ee45c0cb864f643b5284aea/SKILL.md"
+      },
+      {
+        "repo": "robertquant/nuwa-skill",
+        "path": "huashu-nuwa/examples/wang-yangming-perspective/SKILL.md",
+        "url": "https://github.com/robertquant/nuwa-skill/blob/1d4ccdbb430d2b6faf62c4a78366a8071b96b4e7/huashu-nuwa/examples/wang-yangming-perspective/SKILL.md"
+      },
+      {
+        "repo": "oscar-wang-xin/xin-skills",
+        "path": "xin-jinyong-style-ludingji/SKILL.md",
+        "url": "https://github.com/oscar-wang-xin/xin-skills/blob/788ddbb834f9c0d1e2b381da10ea558754ca4e9a/xin-jinyong-style-ludingji/SKILL.md"
+      }
+    ]
+  }
+]

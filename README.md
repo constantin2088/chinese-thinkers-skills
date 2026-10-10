@@ -37,6 +37,10 @@
 | **蔡元培·多元协作** | 异见管理、观点协调、多元协作 | [cai-yuanpei-skill](https://github.com/constantin2088/cai-yuanpei-skill) | 已发布 |
 | **宋志平·经营管理** | 经营决策、精细管理、组织效率 | [song-zhiping-management-skill](https://github.com/constantin2088/song-zhiping-management-skill) | 已发布 |
 | **许倬云·系统思维** | 系统观察、跨学科分析、长期演化 | [xu-zhuoyun-systems-skill](https://github.com/constantin2088/xu-zhuoyun-systems-skill) | 已发布 |
+| **费孝通·文化自觉与实地洞察** | 访谈取证、关系情境、跨文化理解 | [fei-xiaotong-fieldwork-skill](https://github.com/constantin2088/fei-xiaotong-fieldwork-skill) | 已发布 |
+| **陶行知·教学做合一** | 真实任务学习、教人自学、迁移验证 | [tao-xingzhi-learning-skill](https://github.com/constantin2088/tao-xingzhi-learning-skill) | 已发布 |
+| **严复·概念转译与论证校核** | 术语定名、意义保真、解释与译文分离 | [yan-fu-translation-skill](https://github.com/constantin2088/yan-fu-translation-skill) | 已发布 |
+| **黄宗羲·制度问责与公共评议** | 规则受益分析、权责制衡、独立评议 | [huang-zongxi-governance-skill](https://github.com/constantin2088/huang-zongxi-governance-skill) | 已发布 |
 
 只有“已发布”项目可安装；规划项目尚不可用。
 
@@ -47,12 +51,16 @@ npx skills add constantin2088/chen-yinke-research-skill
 npx skills add constantin2088/cai-yuanpei-skill
 npx skills add constantin2088/song-zhiping-management-skill
 npx skills add constantin2088/xu-zhuoyun-systems-skill
+npx skills add constantin2088/fei-xiaotong-fieldwork-skill
+npx skills add constantin2088/tao-xingzhi-learning-skill
+npx skills add constantin2088/yan-fu-translation-skill
+npx skills add constantin2088/huang-zongxi-governance-skill
 ```
 <!-- CATALOG:END -->
 
 ## 快速安装
 
-安装命令见上方作品目录，选择标为“已发布”的项目。系列六个作品均直接通过公开仓库发布 Skill，无需 GitHub Releases。叶茂中及新增四个人物的独立目标客户端模型行为评测尚未执行；目录发布状态不代表模型评测通过。
+安装命令见上方作品目录，选择标为“已发布”的项目。系列十个作品均直接通过公开仓库发布 Skill，无需 GitHub Releases。叶茂中及后续新增人物的独立目标客户端模型行为评测尚未执行；目录发布状态不代表模型评测通过。
 
 ```bash
 npx skills add constantin2088/liang-qichao-skill
@@ -123,3 +131,6 @@ npx skills add constantin2088/liang-qichao-skill
 **English:** This is an independent open-source series of research-grounded Agent Skills inspired by Chinese thinkers and practitioners. Each skill aims for a concrete and testable reasoning workflow, not historical impersonation. See the [English README](README.en.md).
 
 **MIT License** · Maintainer: [@constantin2088](https://github.com/constantin2088)
+
+## 本轮新增选题
+[费孝通、陶行知、严复、黄宗羲的选题与检索依据](docs/selection-2026-10-10.md)。已核查低覆盖情况；收藏潜力为编辑判断，非增长保证。

@@ -1,0 +1,61 @@
+[
+  {
+    "query": "费孝通 skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "fei-xiaotong skill",
+    "total_count": 2,
+    "incomplete": false,
+    "items": [
+      {
+        "repo": "zeno339/from-the-soil-skill",
+        "stars": 1,
+        "url": "https://github.com/zeno339/from-the-soil-skill"
+      },
+      {
+        "repo": "ZaynArche/from-the-soil-skill",
+        "stars": 0,
+        "url": "https://github.com/ZaynArche/from-the-soil-skill"
+      }
+    ]
+  },
+  {
+    "query": "陶行知 skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "tao-xingzhi skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "严复 skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "yan-fu skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "黄宗羲 skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  },
+  {
+    "query": "huang-zongxi skill",
+    "total_count": 0,
+    "incomplete": false,
+    "items": []
+  }
+]

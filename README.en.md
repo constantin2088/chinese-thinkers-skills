@@ -29,6 +29,10 @@ Each released Skill should include a distinct method, credible source map, expli
 | **Cai Yuanpei** | 异见管理、观点协调、多元协作 | [cai-yuanpei-skill](https://github.com/constantin2088/cai-yuanpei-skill) | Released |
 | **Song Zhiping** | 经营决策、精细管理、组织效率 | [song-zhiping-management-skill](https://github.com/constantin2088/song-zhiping-management-skill) | Released |
 | **Cho-yun Hsu** | 系统观察、跨学科分析、长期演化 | [xu-zhuoyun-systems-skill](https://github.com/constantin2088/xu-zhuoyun-systems-skill) | Released |
+| **Fei Xiaotong** | 访谈取证、关系情境、跨文化理解 | [fei-xiaotong-fieldwork-skill](https://github.com/constantin2088/fei-xiaotong-fieldwork-skill) | Released |
+| **Tao Xingzhi** | 真实任务学习、教人自学、迁移验证 | [tao-xingzhi-learning-skill](https://github.com/constantin2088/tao-xingzhi-learning-skill) | Released |
+| **Yan Fu** | 术语定名、意义保真、解释与译文分离 | [yan-fu-translation-skill](https://github.com/constantin2088/yan-fu-translation-skill) | Released |
+| **Huang Zongxi** | 规则受益分析、权责制衡、独立评议 | [huang-zongxi-governance-skill](https://github.com/constantin2088/huang-zongxi-governance-skill) | Released |
 
 Only published entries are installable.
 
@@ -39,6 +43,10 @@ npx skills add constantin2088/chen-yinke-research-skill
 npx skills add constantin2088/cai-yuanpei-skill
 npx skills add constantin2088/song-zhiping-management-skill
 npx skills add constantin2088/xu-zhuoyun-systems-skill
+npx skills add constantin2088/fei-xiaotong-fieldwork-skill
+npx skills add constantin2088/tao-xingzhi-learning-skill
+npx skills add constantin2088/yan-fu-translation-skill
+npx skills add constantin2088/huang-zongxi-governance-skill
 ```
 <!-- CATALOG:END -->
 

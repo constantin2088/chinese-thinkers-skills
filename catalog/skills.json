@@ -79,6 +79,58 @@
         "xu-zhuoyun-systems-skill"
       ],
       "repo": "constantin2088/xu-zhuoyun-systems-skill"
+    },
+    {
+      "id": "fei-xiaotong-fieldwork-skill",
+      "name_zh": "费孝通·文化自觉与实地洞察",
+      "name_en": "Fei Xiaotong",
+      "category": "fieldwork",
+      "status": "published",
+      "focus": "访谈取证、关系情境、跨文化理解",
+      "repo": "constantin2088/fei-xiaotong-fieldwork-skill",
+      "topics": [
+        "fieldwork",
+        "fei-xiaotong-fieldwork-skill"
+      ]
+    },
+    {
+      "id": "tao-xingzhi-learning-skill",
+      "name_zh": "陶行知·教学做合一",
+      "name_en": "Tao Xingzhi",
+      "category": "learning",
+      "status": "published",
+      "focus": "真实任务学习、教人自学、迁移验证",
+      "repo": "constantin2088/tao-xingzhi-learning-skill",
+      "topics": [
+        "learning",
+        "tao-xingzhi-learning-skill"
+      ]
+    },
+    {
+      "id": "yan-fu-translation-skill",
+      "name_zh": "严复·概念转译与论证校核",
+      "name_en": "Yan Fu",
+      "category": "translation",
+      "status": "published",
+      "focus": "术语定名、意义保真、解释与译文分离",
+      "repo": "constantin2088/yan-fu-translation-skill",
+      "topics": [
+        "translation",
+        "yan-fu-translation-skill"
+      ]
+    },
+    {
+      "id": "huang-zongxi-governance-skill",
+      "name_zh": "黄宗羲·制度问责与公共评议",
+      "name_en": "Huang Zongxi",
+      "category": "governance",
+      "status": "published",
+      "focus": "规则受益分析、权责制衡、独立评议",
+      "repo": "constantin2088/huang-zongxi-governance-skill",
+      "topics": [
+        "governance",
+        "huang-zongxi-governance-skill"
+      ]
     }
   ],
   "homepage": "https://github.com/constantin2088/chinese-thinkers-skills",
