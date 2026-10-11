@@ -31,6 +31,8 @@ Each published Skill should include a distinct method, credible source map, expl
 | [Zhuangzi](https://github.com/constantin2088/zhuangzi-perspective-skill) | 被单一指标困住、比较不同尺度与生活选择 |
 | [Wang Yangming](https://github.com/constantin2088/wang-yangming-action-skill) | 明白道理却迟迟不做、需要知行复盘 |
 | [Lu Xun](https://github.com/constantin2088/lu-xun-selective-learning-skill) | 外部经验看起来都好、需要拆分可用与有害部分 |
+| [Mao Zedong](https://github.com/constantin2088/mao-zedong-investigation-skill) | 民用项目出现争议、报告只有结论而缺少一手事实 |
+| [Qian Xuesen](https://github.com/constantin2088/qian-xuesen-system-synthesis-skill) | 复杂民用项目涉及多专业、需要把意见和模型对齐 |
 | [Su Shi](https://github.com/constantin2088/su-shi-understanding-skill) | 概念讲得懂却不会用、需要从说明转成体验与实践 |
 | [Hu Shi](https://github.com/constantin2088/hu-shi-hypotheses-skill) | 讨论被口号带走、需要把问题拆成可证伪假设 |
 | [Zhuge Liang](https://github.com/constantin2088/zhuge-liang-focus-skill) | 长期目标被杂务冲散、需要学习与行动节奏 |
@@ -122,6 +124,26 @@ Recognition helps discovery; usefulness depends on the task. This is not a predi
 | **Lu Xun** | 外部经验看起来都好、需要拆分可用与有害部分 | [lu-xun-selective-learning-skill](https://github.com/constantin2088/lu-xun-selective-learning-skill) | Published |
 | **Chen Duxiu** | 观点来自权威或习惯、需要检查自主判断与实际用途 | [chen-duxiu-independent-thinking-skill](https://github.com/constantin2088/chen-duxiu-independent-thinking-skill) | Published |
 | **Li Dazhao** | 谈未来理想很多、需要明确当下责任与可实施行动 | [li-dazhao-present-action-skill](https://github.com/constantin2088/li-dazhao-present-action-skill) | Published |
+| **Mao Zedong** | 民用项目出现争议、报告只有结论而缺少一手事实 | [mao-zedong-investigation-skill](https://github.com/constantin2088/mao-zedong-investigation-skill) | Published |
+| **Zhou Enlai** | 公共资源、亲友请求与岗位职责发生冲突 | [zhou-enlai-public-duty-skill](https://github.com/constantin2088/zhou-enlai-public-duty-skill) | Published |
+| **Deng Xiaoping** | 旧规则阻碍任务、需要先试后扩而非凭口号改革 | [deng-xiaoping-fact-based-pilots-skill](https://github.com/constantin2088/deng-xiaoping-fact-based-pilots-skill) | Published |
+| **Sun Yat Sen** | 计划看似能做、需要检查知识缺口与实施条件 | [sun-yat-sen-preparation-skill](https://github.com/constantin2088/sun-yat-sen-preparation-skill) | Published |
+| **Huang Yanpei** | 课程与岗位脱节、需要设计有实际产出的学习 | [huang-yanpei-vocational-fit-skill](https://github.com/constantin2088/huang-yanpei-vocational-fit-skill) | Published |
+| **Wang Guowei** | 评论诗词或创作只有好美、需要说明景与情如何相连 | [wang-guowei-aesthetic-scenes-skill](https://github.com/constantin2088/wang-guowei-aesthetic-scenes-skill) | Published |
+| **Lin Yutang** | 文案或表达想轻松一些、需要避开羞辱和冷酷 | [lin-yutang-kind-humor-skill](https://github.com/constantin2088/lin-yutang-kind-humor-skill) | Published |
+| **Qian Zhongshu** | 跨文化或跨作品比较容易变成标签、需要落实文本证据 | [qian-zhongshu-comparative-reading-skill](https://github.com/constantin2088/qian-zhongshu-comparative-reading-skill) | Published |
+| **Yang Jiang** | 回忆或个人叙事想避免煽情、需要区分所见与猜想 | [yang-jiang-restrained-narrative-skill](https://github.com/constantin2088/yang-jiang-restrained-narrative-skill) | Published |
+| **Chen Heqin** | 儿童学习只有讲解、需要设计安全的观察与做中学活动 | [chen-heqin-active-curriculum-skill](https://github.com/constantin2088/chen-heqin-active-curriculum-skill) | Published |
+| **Zhang Boling** | 公益或团队项目有热情、需要同时核受益与实际能力 | [zhang-boling-service-capability-skill](https://github.com/constantin2088/zhang-boling-service-capability-skill) | Published |
+| **Xiong Shili** | 宣称有原则但实际行为不一致、需要检查抽象承诺与表现 | [xiong-shili-principles-in-use-skill](https://github.com/constantin2088/xiong-shili-principles-in-use-skill) | Published |
+| **Mou Zongsan** | 以好动机代替专业证据、需要明确道德与知识的分工 | [mou-zongsan-judgment-boundaries-skill](https://github.com/constantin2088/mou-zongsan-judgment-boundaries-skill) | Published |
+| **Tang Junyi** | 跨背景交流陷入文化标签、需要理解自我与他人处境 | [tang-junyi-cultural-dialogue-skill](https://github.com/constantin2088/tang-junyi-cultural-dialogue-skill) | Published |
+| **Ji Xianlin** | 文化介绍容易只讲印象、需要核语言语境和互鉴条件 | [ji-xianlin-cultural-learning-skill](https://github.com/constantin2088/ji-xianlin-cultural-learning-skill) | Published |
+| **Nan Huaijin** | 通俗讲解很吸引人、需要分清原典与讲者发挥 | [nan-huaijin-classics-check-skill](https://github.com/constantin2088/nan-huaijin-classics-check-skill) | Published |
+| **Qian Xuesen** | 复杂民用项目涉及多专业、需要把意见和模型对齐 | [qian-xuesen-system-synthesis-skill](https://github.com/constantin2088/qian-xuesen-system-synthesis-skill) | Published |
+| **Ma Yinchu** | 人数、需求和供给增长不匹配、需要做有条件的资源情景 | [ma-yinchu-resource-scenarios-skill](https://github.com/constantin2088/ma-yinchu-resource-scenarios-skill) | Published |
+| **Wu Jinglian** | 业务竞争被特权、信息不透明或准入障碍扭曲 | [wu-jinglian-competition-rules-skill](https://github.com/constantin2088/wu-jinglian-competition-rules-skill) | Published |
+| **Li Zehou** | 作品评价只有个人喜好、需要连接形式与社会历史语境 | [li-zehou-aesthetic-context-skill](https://github.com/constantin2088/li-zehou-aesthetic-context-skill) | Published |
 
 Only published entries are installable.
 
@@ -206,6 +228,26 @@ npx skills add constantin2088/hu-shi-hypotheses-skill
 npx skills add constantin2088/lu-xun-selective-learning-skill
 npx skills add constantin2088/chen-duxiu-independent-thinking-skill
 npx skills add constantin2088/li-dazhao-present-action-skill
+npx skills add constantin2088/mao-zedong-investigation-skill
+npx skills add constantin2088/zhou-enlai-public-duty-skill
+npx skills add constantin2088/deng-xiaoping-fact-based-pilots-skill
+npx skills add constantin2088/sun-yat-sen-preparation-skill
+npx skills add constantin2088/huang-yanpei-vocational-fit-skill
+npx skills add constantin2088/wang-guowei-aesthetic-scenes-skill
+npx skills add constantin2088/lin-yutang-kind-humor-skill
+npx skills add constantin2088/qian-zhongshu-comparative-reading-skill
+npx skills add constantin2088/yang-jiang-restrained-narrative-skill
+npx skills add constantin2088/chen-heqin-active-curriculum-skill
+npx skills add constantin2088/zhang-boling-service-capability-skill
+npx skills add constantin2088/xiong-shili-principles-in-use-skill
+npx skills add constantin2088/mou-zongsan-judgment-boundaries-skill
+npx skills add constantin2088/tang-junyi-cultural-dialogue-skill
+npx skills add constantin2088/ji-xianlin-cultural-learning-skill
+npx skills add constantin2088/nan-huaijin-classics-check-skill
+npx skills add constantin2088/qian-xuesen-system-synthesis-skill
+npx skills add constantin2088/ma-yinchu-resource-scenarios-skill
+npx skills add constantin2088/wu-jinglian-competition-rules-skill
+npx skills add constantin2088/li-zehou-aesthetic-context-skill
 ```
 <!-- CATALOG:END -->
 
@@ -235,4 +277,6 @@ Read the [quality standard](QUALITY_STANDARD.md) and [roadmap](ROADMAP.md). Cont
 **MIT licensed** · Maintained by [@constantin2088](https://github.com/constantin2088).
 Series links and repository metadata derive from catalog/skills.json; see [automation](docs/series-automation.md).
 
-The series now contains 80 public Skills, installed directly from repositories without GitHub Releases. The thirty added in this expansion have 330 passing local deterministic unit tests and 300 defined behavior cases; independent-client model behavior evaluations have not been executed. CI and installation discovery do not establish model quality. [Selection scope and differentiation](docs/selection-famous-thirty-2026-10-11.md).
+The initial part of this expansion brought the series to 80 public Skills, installed directly from repositories without GitHub Releases. The thirty added in this expansion have 330 passing local deterministic unit tests and 300 defined behavior cases; independent-client model behavior evaluations have not been executed. CI and installation discovery do not establish model quality. [Selection scope and differentiation](docs/selection-famous-thirty-2026-10-11.md).
+
+The series now contains 100 public Skills, installed directly from repositories without GitHub Releases. The fifty added in this expansion have 550 passing local deterministic unit tests and 500 defined behavior cases; independent-client model behavior evaluations have not been executed. CI and installation discovery do not establish model quality. [Selection scope and differentiation](docs/selection-famous-fifty-2026-10-10.md).

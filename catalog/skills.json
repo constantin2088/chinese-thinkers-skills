@@ -876,7 +876,7 @@
         "focus-planning",
         "zhuge-liang-focus-skill"
       ],
-      "discovery_rank": 9
+      "discovery_rank": 11
     },
     {
       "id": "liu-yuxi-agency-skill",
@@ -916,7 +916,7 @@
         "understanding-transfer",
         "su-shi-understanding-skill"
       ],
-      "discovery_rank": 7
+      "discovery_rank": 9
     },
     {
       "id": "zhu-xi-close-reading-skill",
@@ -970,7 +970,7 @@
         "sustainable-routines",
         "zeng-guofan-routines-skill"
       ],
-      "discovery_rank": 10
+      "discovery_rank": 12
     },
     {
       "id": "hui-shi-definitions-skill",
@@ -1010,7 +1010,7 @@
         "hypothesis-review",
         "hu-shi-hypotheses-skill"
       ],
-      "discovery_rank": 8
+      "discovery_rank": 10
     },
     {
       "id": "lu-xun-selective-learning-skill",
@@ -1050,6 +1050,268 @@
       "topics": [
         "future-present",
         "li-dazhao-present-action-skill"
+      ]
+    },
+    {
+      "id": "mao-zedong-investigation-skill",
+      "name_zh": "毛泽东·先调查再下结论",
+      "name_en": "Mao Zedong",
+      "category": "field-investigation",
+      "status": "published",
+      "focus": "民用项目出现争议、报告只有结论而缺少一手事实",
+      "repo": "constantin2088/mao-zedong-investigation-skill",
+      "topics": [
+        "field-investigation",
+        "mao-zedong-investigation-skill"
+      ],
+      "discovery_rank": 7
+    },
+    {
+      "id": "zhou-enlai-public-duty-skill",
+      "name_zh": "周恩来·把公私边界写清楚",
+      "name_en": "Zhou Enlai",
+      "category": "public-duty",
+      "status": "published",
+      "focus": "公共资源、亲友请求与岗位职责发生冲突",
+      "repo": "constantin2088/zhou-enlai-public-duty-skill",
+      "topics": [
+        "public-duty",
+        "zhou-enlai-public-duty-skill"
+      ]
+    },
+    {
+      "id": "deng-xiaoping-fact-based-pilots-skill",
+      "name_zh": "邓小平·用事实检验小范围改变",
+      "name_en": "Deng Xiaoping",
+      "category": "fact-based-pilots",
+      "status": "published",
+      "focus": "旧规则阻碍任务、需要先试后扩而非凭口号改革",
+      "repo": "constantin2088/deng-xiaoping-fact-based-pilots-skill",
+      "topics": [
+        "fact-based-pilots",
+        "deng-xiaoping-fact-based-pilots-skill"
+      ]
+    },
+    {
+      "id": "sun-yat-sen-preparation-skill",
+      "name_zh": "孙中山·把准备知识与实际行动分开",
+      "name_en": "Sun Yat Sen",
+      "category": "prepared-action",
+      "status": "published",
+      "focus": "计划看似能做、需要检查知识缺口与实施条件",
+      "repo": "constantin2088/sun-yat-sen-preparation-skill",
+      "topics": [
+        "prepared-action",
+        "sun-yat-sen-preparation-skill"
+      ]
+    },
+    {
+      "id": "huang-yanpei-vocational-fit-skill",
+      "name_zh": "黄炎培·让学习连接真实职业任务",
+      "name_en": "Huang Yanpei",
+      "category": "vocational-fit",
+      "status": "published",
+      "focus": "课程与岗位脱节、需要设计有实际产出的学习",
+      "repo": "constantin2088/huang-yanpei-vocational-fit-skill",
+      "topics": [
+        "vocational-fit",
+        "huang-yanpei-vocational-fit-skill"
+      ]
+    },
+    {
+      "id": "wang-guowei-aesthetic-scenes-skill",
+      "name_zh": "王国维·把审美判断落到作品细节",
+      "name_en": "Wang Guowei",
+      "category": "aesthetic-scenes",
+      "status": "published",
+      "focus": "评论诗词或创作只有好美、需要说明景与情如何相连",
+      "repo": "constantin2088/wang-guowei-aesthetic-scenes-skill",
+      "topics": [
+        "aesthetic-scenes",
+        "wang-guowei-aesthetic-scenes-skill"
+      ]
+    },
+    {
+      "id": "lin-yutang-kind-humor-skill",
+      "name_zh": "林语堂·让幽默保留体谅",
+      "name_en": "Lin Yutang",
+      "category": "kind-humor",
+      "status": "published",
+      "focus": "文案或表达想轻松一些、需要避开羞辱和冷酷",
+      "repo": "constantin2088/lin-yutang-kind-humor-skill",
+      "topics": [
+        "kind-humor",
+        "lin-yutang-kind-humor-skill"
+      ]
+    },
+    {
+      "id": "qian-zhongshu-comparative-reading-skill",
+      "name_zh": "钱钟书·比较之前先确定可比之处",
+      "name_en": "Qian Zhongshu",
+      "category": "comparative-reading",
+      "status": "published",
+      "focus": "跨文化或跨作品比较容易变成标签、需要落实文本证据",
+      "repo": "constantin2088/qian-zhongshu-comparative-reading-skill",
+      "topics": [
+        "comparative-reading",
+        "qian-zhongshu-comparative-reading-skill"
+      ]
+    },
+    {
+      "id": "yang-jiang-restrained-narrative-skill",
+      "name_zh": "杨绛·让克制表达仍有事实与温度",
+      "name_en": "Yang Jiang",
+      "category": "restrained-narrative",
+      "status": "published",
+      "focus": "回忆或个人叙事想避免煽情、需要区分所见与猜想",
+      "repo": "constantin2088/yang-jiang-restrained-narrative-skill",
+      "topics": [
+        "restrained-narrative",
+        "yang-jiang-restrained-narrative-skill"
+      ]
+    },
+    {
+      "id": "chen-heqin-active-curriculum-skill",
+      "name_zh": "陈鹤琴·从生活活动设计学习",
+      "name_en": "Chen Heqin",
+      "category": "active-curriculum",
+      "status": "published",
+      "focus": "儿童学习只有讲解、需要设计安全的观察与做中学活动",
+      "repo": "constantin2088/chen-heqin-active-curriculum-skill",
+      "topics": [
+        "active-curriculum",
+        "chen-heqin-active-curriculum-skill"
+      ]
+    },
+    {
+      "id": "zhang-boling-service-capability-skill",
+      "name_zh": "张伯苓·把服务目的与能力证据相连",
+      "name_en": "Zhang Boling",
+      "category": "service-capability",
+      "status": "published",
+      "focus": "公益或团队项目有热情、需要同时核受益与实际能力",
+      "repo": "constantin2088/zhang-boling-service-capability-skill",
+      "topics": [
+        "service-capability",
+        "zhang-boling-service-capability-skill"
+      ]
+    },
+    {
+      "id": "xiong-shili-principles-in-use-skill",
+      "name_zh": "熊十力·看原则怎样在实际中表现",
+      "name_en": "Xiong Shili",
+      "category": "principles-in-use",
+      "status": "published",
+      "focus": "宣称有原则但实际行为不一致、需要检查抽象承诺与表现",
+      "repo": "constantin2088/xiong-shili-principles-in-use-skill",
+      "topics": [
+        "principles-in-use",
+        "xiong-shili-principles-in-use-skill"
+      ]
+    },
+    {
+      "id": "mou-zongsan-judgment-boundaries-skill",
+      "name_zh": "牟宗三·分清价值判断与专业认知",
+      "name_en": "Mou Zongsan",
+      "category": "judgment-boundaries",
+      "status": "published",
+      "focus": "以好动机代替专业证据、需要明确道德与知识的分工",
+      "repo": "constantin2088/mou-zongsan-judgment-boundaries-skill",
+      "topics": [
+        "judgment-boundaries",
+        "mou-zongsan-judgment-boundaries-skill"
+      ]
+    },
+    {
+      "id": "tang-junyi-cultural-dialogue-skill",
+      "name_zh": "唐君毅·让文化对话保留多种视角",
+      "name_en": "Tang Junyi",
+      "category": "cultural-dialogue",
+      "status": "published",
+      "focus": "跨背景交流陷入文化标签、需要理解自我与他人处境",
+      "repo": "constantin2088/tang-junyi-cultural-dialogue-skill",
+      "topics": [
+        "cultural-dialogue",
+        "tang-junyi-cultural-dialogue-skill"
+      ]
+    },
+    {
+      "id": "ji-xianlin-cultural-learning-skill",
+      "name_zh": "季羡林·互鉴之前先理解材料",
+      "name_en": "Ji Xianlin",
+      "category": "cultural-learning",
+      "status": "published",
+      "focus": "文化介绍容易只讲印象、需要核语言语境和互鉴条件",
+      "repo": "constantin2088/ji-xianlin-cultural-learning-skill",
+      "topics": [
+        "cultural-learning",
+        "ji-xianlin-cultural-learning-skill"
+      ]
+    },
+    {
+      "id": "nan-huaijin-classics-check-skill",
+      "name_zh": "南怀瑾·读讲解时仍回到原典",
+      "name_en": "Nan Huaijin",
+      "category": "classics-check",
+      "status": "published",
+      "focus": "通俗讲解很吸引人、需要分清原典与讲者发挥",
+      "repo": "constantin2088/nan-huaijin-classics-check-skill",
+      "topics": [
+        "classics-check",
+        "nan-huaijin-classics-check-skill"
+      ]
+    },
+    {
+      "id": "qian-xuesen-system-synthesis-skill",
+      "name_zh": "钱学森·把专家意见与数据合成可检验方案",
+      "name_en": "Qian Xuesen",
+      "category": "system-synthesis",
+      "status": "published",
+      "focus": "复杂民用项目涉及多专业、需要把意见和模型对齐",
+      "repo": "constantin2088/qian-xuesen-system-synthesis-skill",
+      "topics": [
+        "system-synthesis",
+        "qian-xuesen-system-synthesis-skill"
+      ],
+      "discovery_rank": 8
+    },
+    {
+      "id": "ma-yinchu-resource-scenarios-skill",
+      "name_zh": "马寅初·把人口与资源放在同一口径下",
+      "name_en": "Ma Yinchu",
+      "category": "resource-scenarios",
+      "status": "published",
+      "focus": "人数、需求和供给增长不匹配、需要做有条件的资源情景",
+      "repo": "constantin2088/ma-yinchu-resource-scenarios-skill",
+      "topics": [
+        "resource-scenarios",
+        "ma-yinchu-resource-scenarios-skill"
+      ]
+    },
+    {
+      "id": "wu-jinglian-competition-rules-skill",
+      "name_zh": "吴敬琏·先看竞争规则再谈效率",
+      "name_en": "Wu Jinglian",
+      "category": "competition-rules",
+      "status": "published",
+      "focus": "业务竞争被特权、信息不透明或准入障碍扭曲",
+      "repo": "constantin2088/wu-jinglian-competition-rules-skill",
+      "topics": [
+        "competition-rules",
+        "wu-jinglian-competition-rules-skill"
+      ]
+    },
+    {
+      "id": "li-zehou-aesthetic-context-skill",
+      "name_zh": "李泽厚·从历史条件理解审美感受",
+      "name_en": "Li Zehou",
+      "category": "aesthetic-context",
+      "status": "published",
+      "focus": "作品评价只有个人喜好、需要连接形式与社会历史语境",
+      "repo": "constantin2088/li-zehou-aesthetic-context-skill",
+      "topics": [
+        "aesthetic-context",
+        "li-zehou-aesthetic-context-skill"
       ]
     }
   ],

@@ -39,6 +39,8 @@
 | [庄子·跳出唯一答案](https://github.com/constantin2088/zhuangzi-perspective-skill) | 被单一指标困住、比较不同尺度与生活选择 |
 | [王阳明·把知道变成行动证据](https://github.com/constantin2088/wang-yangming-action-skill) | 明白道理却迟迟不做、需要知行复盘 |
 | [鲁迅·借鉴之前先辨别](https://github.com/constantin2088/lu-xun-selective-learning-skill) | 外部经验看起来都好、需要拆分可用与有害部分 |
+| [毛泽东·先调查再下结论](https://github.com/constantin2088/mao-zedong-investigation-skill) | 民用项目出现争议、报告只有结论而缺少一手事实 |
+| [钱学森·把专家意见与数据合成可检验方案](https://github.com/constantin2088/qian-xuesen-system-synthesis-skill) | 复杂民用项目涉及多专业、需要把意见和模型对齐 |
 | [苏轼·别把比喻当成掌握](https://github.com/constantin2088/su-shi-understanding-skill) | 概念讲得懂却不会用、需要从说明转成体验与实践 |
 | [胡适·先把问题研究清楚](https://github.com/constantin2088/hu-shi-hypotheses-skill) | 讨论被口号带走、需要把问题拆成可证伪假设 |
 | [诸葛亮·把志向变成可持续专注](https://github.com/constantin2088/zhuge-liang-focus-skill) | 长期目标被杂务冲散、需要学习与行动节奏 |
@@ -130,6 +132,26 @@
 | **鲁迅·借鉴之前先辨别** | 外部经验看起来都好、需要拆分可用与有害部分 | [lu-xun-selective-learning-skill](https://github.com/constantin2088/lu-xun-selective-learning-skill) | 已发布 |
 | **陈独秀·让主张接受科学检验** | 观点来自权威或习惯、需要检查自主判断与实际用途 | [chen-duxiu-independent-thinking-skill](https://github.com/constantin2088/chen-duxiu-independent-thinking-skill) | 已发布 |
 | **李大钊·把时代愿景落在现在** | 谈未来理想很多、需要明确当下责任与可实施行动 | [li-dazhao-present-action-skill](https://github.com/constantin2088/li-dazhao-present-action-skill) | 已发布 |
+| **毛泽东·先调查再下结论** | 民用项目出现争议、报告只有结论而缺少一手事实 | [mao-zedong-investigation-skill](https://github.com/constantin2088/mao-zedong-investigation-skill) | 已发布 |
+| **周恩来·把公私边界写清楚** | 公共资源、亲友请求与岗位职责发生冲突 | [zhou-enlai-public-duty-skill](https://github.com/constantin2088/zhou-enlai-public-duty-skill) | 已发布 |
+| **邓小平·用事实检验小范围改变** | 旧规则阻碍任务、需要先试后扩而非凭口号改革 | [deng-xiaoping-fact-based-pilots-skill](https://github.com/constantin2088/deng-xiaoping-fact-based-pilots-skill) | 已发布 |
+| **孙中山·把准备知识与实际行动分开** | 计划看似能做、需要检查知识缺口与实施条件 | [sun-yat-sen-preparation-skill](https://github.com/constantin2088/sun-yat-sen-preparation-skill) | 已发布 |
+| **黄炎培·让学习连接真实职业任务** | 课程与岗位脱节、需要设计有实际产出的学习 | [huang-yanpei-vocational-fit-skill](https://github.com/constantin2088/huang-yanpei-vocational-fit-skill) | 已发布 |
+| **王国维·把审美判断落到作品细节** | 评论诗词或创作只有好美、需要说明景与情如何相连 | [wang-guowei-aesthetic-scenes-skill](https://github.com/constantin2088/wang-guowei-aesthetic-scenes-skill) | 已发布 |
+| **林语堂·让幽默保留体谅** | 文案或表达想轻松一些、需要避开羞辱和冷酷 | [lin-yutang-kind-humor-skill](https://github.com/constantin2088/lin-yutang-kind-humor-skill) | 已发布 |
+| **钱钟书·比较之前先确定可比之处** | 跨文化或跨作品比较容易变成标签、需要落实文本证据 | [qian-zhongshu-comparative-reading-skill](https://github.com/constantin2088/qian-zhongshu-comparative-reading-skill) | 已发布 |
+| **杨绛·让克制表达仍有事实与温度** | 回忆或个人叙事想避免煽情、需要区分所见与猜想 | [yang-jiang-restrained-narrative-skill](https://github.com/constantin2088/yang-jiang-restrained-narrative-skill) | 已发布 |
+| **陈鹤琴·从生活活动设计学习** | 儿童学习只有讲解、需要设计安全的观察与做中学活动 | [chen-heqin-active-curriculum-skill](https://github.com/constantin2088/chen-heqin-active-curriculum-skill) | 已发布 |
+| **张伯苓·把服务目的与能力证据相连** | 公益或团队项目有热情、需要同时核受益与实际能力 | [zhang-boling-service-capability-skill](https://github.com/constantin2088/zhang-boling-service-capability-skill) | 已发布 |
+| **熊十力·看原则怎样在实际中表现** | 宣称有原则但实际行为不一致、需要检查抽象承诺与表现 | [xiong-shili-principles-in-use-skill](https://github.com/constantin2088/xiong-shili-principles-in-use-skill) | 已发布 |
+| **牟宗三·分清价值判断与专业认知** | 以好动机代替专业证据、需要明确道德与知识的分工 | [mou-zongsan-judgment-boundaries-skill](https://github.com/constantin2088/mou-zongsan-judgment-boundaries-skill) | 已发布 |
+| **唐君毅·让文化对话保留多种视角** | 跨背景交流陷入文化标签、需要理解自我与他人处境 | [tang-junyi-cultural-dialogue-skill](https://github.com/constantin2088/tang-junyi-cultural-dialogue-skill) | 已发布 |
+| **季羡林·互鉴之前先理解材料** | 文化介绍容易只讲印象、需要核语言语境和互鉴条件 | [ji-xianlin-cultural-learning-skill](https://github.com/constantin2088/ji-xianlin-cultural-learning-skill) | 已发布 |
+| **南怀瑾·读讲解时仍回到原典** | 通俗讲解很吸引人、需要分清原典与讲者发挥 | [nan-huaijin-classics-check-skill](https://github.com/constantin2088/nan-huaijin-classics-check-skill) | 已发布 |
+| **钱学森·把专家意见与数据合成可检验方案** | 复杂民用项目涉及多专业、需要把意见和模型对齐 | [qian-xuesen-system-synthesis-skill](https://github.com/constantin2088/qian-xuesen-system-synthesis-skill) | 已发布 |
+| **马寅初·把人口与资源放在同一口径下** | 人数、需求和供给增长不匹配、需要做有条件的资源情景 | [ma-yinchu-resource-scenarios-skill](https://github.com/constantin2088/ma-yinchu-resource-scenarios-skill) | 已发布 |
+| **吴敬琏·先看竞争规则再谈效率** | 业务竞争被特权、信息不透明或准入障碍扭曲 | [wu-jinglian-competition-rules-skill](https://github.com/constantin2088/wu-jinglian-competition-rules-skill) | 已发布 |
+| **李泽厚·从历史条件理解审美感受** | 作品评价只有个人喜好、需要连接形式与社会历史语境 | [li-zehou-aesthetic-context-skill](https://github.com/constantin2088/li-zehou-aesthetic-context-skill) | 已发布 |
 
 只有“已发布”项目可安装；规划项目尚不可用。
 
@@ -214,12 +236,32 @@ npx skills add constantin2088/hu-shi-hypotheses-skill
 npx skills add constantin2088/lu-xun-selective-learning-skill
 npx skills add constantin2088/chen-duxiu-independent-thinking-skill
 npx skills add constantin2088/li-dazhao-present-action-skill
+npx skills add constantin2088/mao-zedong-investigation-skill
+npx skills add constantin2088/zhou-enlai-public-duty-skill
+npx skills add constantin2088/deng-xiaoping-fact-based-pilots-skill
+npx skills add constantin2088/sun-yat-sen-preparation-skill
+npx skills add constantin2088/huang-yanpei-vocational-fit-skill
+npx skills add constantin2088/wang-guowei-aesthetic-scenes-skill
+npx skills add constantin2088/lin-yutang-kind-humor-skill
+npx skills add constantin2088/qian-zhongshu-comparative-reading-skill
+npx skills add constantin2088/yang-jiang-restrained-narrative-skill
+npx skills add constantin2088/chen-heqin-active-curriculum-skill
+npx skills add constantin2088/zhang-boling-service-capability-skill
+npx skills add constantin2088/xiong-shili-principles-in-use-skill
+npx skills add constantin2088/mou-zongsan-judgment-boundaries-skill
+npx skills add constantin2088/tang-junyi-cultural-dialogue-skill
+npx skills add constantin2088/ji-xianlin-cultural-learning-skill
+npx skills add constantin2088/nan-huaijin-classics-check-skill
+npx skills add constantin2088/qian-xuesen-system-synthesis-skill
+npx skills add constantin2088/ma-yinchu-resource-scenarios-skill
+npx skills add constantin2088/wu-jinglian-competition-rules-skill
+npx skills add constantin2088/li-zehou-aesthetic-context-skill
 ```
 <!-- CATALOG:END -->
 
 ## 快速安装
 
-安装命令见上方作品目录，选择标为“已发布”的项目。系列八十个作品均直接通过公开仓库发布 Skill，无需 GitHub Releases。叶茂中及后续新增人物的独立目标客户端模型行为评测尚未执行；目录发布状态不代表模型评测通过。
+安装命令见上方作品目录，选择标为“已发布”的项目。系列一百个作品均直接通过公开仓库发布 Skill，无需 GitHub Releases。叶茂中及后续新增人物的独立目标客户端模型行为评测尚未执行；目录发布状态不代表模型评测通过。
 
 ```bash
 npx skills add constantin2088/liang-qichao-skill
@@ -298,4 +340,6 @@ npx skills add constantin2088/liang-qichao-skill
 
 [第二批新增王夫之、龚自珍等20位人物的选题与检索依据](docs/selection-second-twenty-2026-10-10.md)。该轮完成后系列为50个公开作品，直接发布成 Skill。
 
-[新增孔子、老子、王阳明、鲁迅等30位知名人物的用途与选题依据](docs/selection-famous-thirty-2026-10-11.md)。系列现有80个公开人物作品，直接安装使用。
+[新增孔子、老子、王阳明、鲁迅等30位知名人物的用途与选题依据](docs/selection-famous-thirty-2026-10-11.md)。该次先行发布后系列为80个公开人物作品。
+
+[新增孔子、老子、鲁迅、毛泽东、钱学森等50位知名人物的用途与选题依据](docs/selection-famous-fifty-2026-10-10.md)。系列现有100个公开人物作品，直接安装使用。
