@@ -5,7 +5,7 @@ from sync_series import metadata,sync_readme
 ROOT=Path(__file__).resolve().parents[1]
 def run(*args,**kwargs):return subprocess.run(list(args),check=True,**kwargs)
 # Previous canonical renderer, checked across the published series before this update.
-KNOWN_SHARED={'f8730d8e2314e03df1c9426fc3b061ea6a72e31dc9482238e8aba4399432a151'}
+KNOWN_SHARED={'3725116a9c7fd617223e7adb4dae7e0063e9e65fc08dae277be690e18ba65e89'}
 def sync_shared(root,source,known_previous=KNOWN_SHARED):
     root=Path(root);files=['scripts/sync_series.py']
     if (root/'templates/scripts/sync_series.py.tmpl').exists():files.append('templates/scripts/sync_series.py.tmpl')
