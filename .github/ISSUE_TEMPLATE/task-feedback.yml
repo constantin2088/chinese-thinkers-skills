@@ -1,0 +1,44 @@
+name: 使用反馈 / Task feedback
+description: 用一个真实任务帮助改进现有方法
+title: "[Task] "
+body:
+  - type: markdown
+    attributes:
+      value: "请分享可以复现的输入、输出和差距。提交前去除私人资料；人物扩展暂停期间优先处理现有方法。"
+  - type: input
+    id: skill
+    attributes:
+      label: 使用的 Skill / Skill repository
+      placeholder: constantin2088/wang-yangming-action-skill
+    validations:
+      required: true
+  - type: input
+    id: runtime
+    attributes:
+      label: 客户端、模型与版本 / Client, model and version
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: 任务输入 / Task input
+      description: 背景、证据、限制和完整提示
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际输出与失败位置 / Actual result
+      description: 未运行时请写明；不要把设想的回答作为真实输出
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期待的成果与验收证据 / Expected artifact
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 相关来源或复现步骤 / Sources or reproduction

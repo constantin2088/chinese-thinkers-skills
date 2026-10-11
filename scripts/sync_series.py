@@ -10,12 +10,25 @@ END='<!-- SERIES:END -->'
 def load_catalog(path=None):
     if path:return json.loads(Path(path).read_text(encoding='utf-8'))
     with urlopen(CATALOG_URL,timeout=30) as response:return json.load(response)
+def related(catalog,slug,limit=3):
+    item=next((s for s in catalog['skills'] if s['id']==slug),None)
+    if not item or not item.get('discovery_path'):return []
+    candidates=[s for s in catalog['skills'] if s['status']=='published' and s['id']!=slug and s.get('discovery_path')==item['discovery_path']]
+    candidates.sort(key=lambda s:s.get('discovery_rank',100000))
+    return candidates[:limit]
+
 def block(catalog,slug):
     lines=[START,'> **属于 [Chinese Thinkers as Skills 系列]('+catalog['homepage']+')** · [完整作品目录]('+catalog['homepage']+'#作品目录)']
+    item=next((s for s in catalog['skills'] if s['id']==slug),None)
+    if item and item.get('discovery_path'):
+        lines+=['','**适合处理**：'+item['focus']+'。']
+        picks=related(catalog,slug)
+        if picks:lines+=['','**同类问题还可以用**：'+' · '.join('['+s['name_zh']+'](https://github.com/'+s['repo']+')' for s in picks)]
     published=[s for s in catalog['skills'] if s['status']=='published' and s['id']!=slug]
     if published:lines+=['','<details>', '<summary>相关推荐（'+str(len(published))+'个作品）</summary>', '', ' · '.join('['+s['name_zh']+'](https://github.com/'+s['repo']+')' for s in published), '', '</details>']
-    lines+=['', '> 系列入口与推荐由总仓库 catalog/skills.json 生成。',END]
+    lines+=['', '> ⭐ [收藏系列总目录]('+catalog['homepage']+')，下次按问题选方法。入口与推荐由 catalog/skills.json 生成。',END]
     return '\n'.join(lines)
+
 def replace_block(text,new):
     if text.count(START)!=text.count(END) or text.count(START)>1:raise ValueError('Malformed series markers')
     if START in text:return re.sub(re.escape(START)+r'.*?'+re.escape(END),lambda _:new,text,flags=re.S)

@@ -1,34 +1,70 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Chinese Thinkers as Skills — Not personas. Executable wisdom." width="900" />
+<img src="assets/banner.svg" alt="中国思想的 AI 工具箱：100 位人物，学习、研究、决策与表达" width="900" />
 
 # Chinese Thinkers as Skills
 
-### 让中国思想，成为 AI 的可执行能力。
+### 给 AI 一座中国思想的工具箱。
 
-**Not personas. Executable wisdom.**
+**孔子帮你把学习变成行动，孙子帮你权衡选择，胡适帮你检验假设，钱学森帮你看清系统。**
 
-把中国思想家、学者与实践者的研究方法与决策框架，转译为可验证、可调用、可复用的 **Agent Skills**。
+100 位中国思想家、学者与实践者，各有一套有出处、有步骤、有示例的 **Agent Skill**。
 
-[📚 作品目录](#作品目录) · [🚀 快速安装](#快速安装) · [🔍 质量标准](QUALITY_STANDARD.md) · [🌍 English](README.en.md) · [🤝 参与贡献](CONTRIBUTING.md)
+[![Validate series](https://github.com/constantin2088/chinese-thinkers-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/constantin2088/chinese-thinkers-skills/actions/workflows/validate.yml)
+[![MIT](https://img.shields.io/badge/License-MIT-dbb86b.svg)](LICENSE)
+
+[60 秒体验](#60秒体验) · [按问题选方法](#作品目录) · [可复制的试用任务](docs/try-it.md) · [English](README.en.md)
 
 </div>
 
----
+## 60秒体验
 
-## 为什么做这个系列？
+**知道很多，行动很少？先试王阳明。** 在项目目录安装：
 
-多数“名人 AI”关注人物语气；我们关注**可用的思考程序**。
+```bash
+npx skills add constantin2088/wang-yangming-action-skill
+```
 
-一个好 Skill 应当回答：在什么问题上使用？如何分析？依据是什么？什么时候不适用？怎样判断结果是否有效？
+安装时选择你的客户端。然后把具体问题交给它：
 
-因此每一个人物 Skill 均应具备独特的 **方法论 → 操作步骤 → 具体 Demo → 证据来源 → 失效边界 → 评测用例**。
+```text
+用王阳明 Skill 分析：我知道备份很重要，却一直没有验证文件能否恢复。
+先区分“不知道怎么做、没准备好、担心风险、目标冲突”，
+再给一个 15 分钟内能完成的小文件备份与恢复任务。
+输出：知行差距表、实际行动、验收证据、失败后的下一步。
+不要把计划已经写好，当成行动已经完成。
+```
 
-> **方法论可以借鉴，历史人物不能被当作现代事件的代言人。**
+你要检查的成果应像这样具体：
+
+| 已声称知道 | 最小行动 | 可以验收的证据 | 下一步 |
+|---|---|---|---|
+| “备份很重要” | 用测试文件做一次备份与恢复 | 恢复后文件内容与原文件一致 | 能恢复再安排真实资料的备份计划 |
+
+*上表为原创虚构示例，展示目标产物，未冒充一次真实模型评测输出。*
+
+还可以试：[胡适：把争论变成假设](docs/try-it.md#hypotheses) · [孙子：做与不做的成本](docs/try-it.md#strategy) · [陈寅恪：矛盾材料互证](docs/try-it.md#evidence) · [叶茂中：从顾客冲突到实验](docs/try-it.md#marketing)。
+
+客户端是否加载和执行 Skill，取决于其支持方式；[安装说明](docs/installation.md)区分安装发现、实际安装与运行验证。
 
 ## 作品目录
 
+先找问题，再找人物。首页推荐来自同一份目录；每个人物仓库都能回到这里，也能找到同类方法。
+
 <!-- CATALOG:START -->
+### 按问题选方法
+
+| 你遇到的问题 | 先试这些方法 |
+|---|---|
+| [读了很多，怎样真正做到？](docs/choose-a-skill.md#learning) | [孔子·把学到的变成做到的](https://github.com/constantin2088/confucius-learning-skill) · [王阳明·把知道变成行动证据](https://github.com/constantin2088/wang-yangming-action-skill) · [苏轼·别把比喻当成掌握](https://github.com/constantin2088/su-shi-understanding-skill) |
+| [材料很多，哪些值得相信？](docs/choose-a-skill.md#research) | [鲁迅·借鉴之前先辨别](https://github.com/constantin2088/lu-xun-selective-learning-skill) · [毛泽东·先调查再下结论](https://github.com/constantin2088/mao-zedong-investigation-skill) · [胡适·先把问题研究清楚](https://github.com/constantin2088/hu-shi-hypotheses-skill) |
+| [资源有限，先做什么、停止什么？](docs/choose-a-skill.md#decisions) | [孙子·行动前先算清代价](https://github.com/constantin2088/sun-tzu-strategy-skill) · [老子·减少多余动作](https://github.com/constantin2088/laozi-low-intervention-skill) · [钱学森·把专家意见与数据合成可检验方案](https://github.com/constantin2088/qian-xuesen-system-synthesis-skill) |
+| [人和规则，怎样一起运转？](docs/choose-a-skill.md#organizations) | [叶茂中·冲突营销](https://github.com/constantin2088/ye-maozhong-skill) · [蔡元培·多元协作](https://github.com/constantin2088/cai-yuanpei-skill) · [宋志平·经营管理](https://github.com/constantin2088/song-zhiping-management-skill) |
+| [怎样写得清楚、看得具体？](docs/choose-a-skill.md#expression) | [叶圣陶·诚实写作与自改](https://github.com/constantin2088/ye-shengtao-writing-skill) · [朱光潜·审美观察与判断](https://github.com/constantin2088/zhu-guangqian-aesthetics-skill) · [宗白华·意境与空间节奏](https://github.com/constantin2088/zong-baihua-artistic-skill) |
+| [被惯性困住，怎样重新看问题？](docs/choose-a-skill.md#reflection) | [庄子·跳出唯一答案](https://github.com/constantin2088/zhuangzi-perspective-skill) · [张载·共同体责任](https://github.com/constantin2088/zhang-zai-responsibility-skill) · [冯友兰·行动意义反思](https://github.com/constantin2088/feng-youlan-reflection-skill) |
+
+[查看六类场景的全部方法](docs/choose-a-skill.md) · [按关键词找方法](docs/installation.md#find-a-method)
+
 ### 从熟悉的问题开始
 
 | 人物入口 | 可以完成什么 |
@@ -46,9 +82,10 @@
 | [诸葛亮·把志向变成可持续专注](https://github.com/constantin2088/zhuge-liang-focus-skill) | 长期目标被杂务冲散、需要学习与行动节奏 |
 | [曾国藩·让长期目标有恢复机制](https://github.com/constantin2088/zeng-guofan-routines-skill) | 长期习惯断断续续、需要稳健积累与复盘 |
 
-知名度帮助发现，实用性取决于任务。这是编辑推荐入口，不是星标增长预测。
-
 ### 完整目录
+
+<details>
+<summary>展开全部100位人物</summary>
 
 | 人物 | 核心能力 | 项目 | 状态 |
 |---|---|---|---|
@@ -153,7 +190,13 @@
 | **吴敬琏·先看竞争规则再谈效率** | 业务竞争被特权、信息不透明或准入障碍扭曲 | [wu-jinglian-competition-rules-skill](https://github.com/constantin2088/wu-jinglian-competition-rules-skill) | 已发布 |
 | **李泽厚·从历史条件理解审美感受** | 作品评价只有个人喜好、需要连接形式与社会历史语境 | [li-zehou-aesthetic-context-skill](https://github.com/constantin2088/li-zehou-aesthetic-context-skill) | 已发布 |
 
-只有“已发布”项目可安装；规划项目尚不可用。
+</details>
+
+<details>
+<summary>展开逐个人物安装命令</summary>
+
+
+选择一个已发布的方法安装即可。
 
 ```bash
 npx skills add constantin2088/liang-qichao-skill
@@ -257,89 +300,49 @@ npx skills add constantin2088/ma-yinchu-resource-scenarios-skill
 npx skills add constantin2088/wu-jinglian-competition-rules-skill
 npx skills add constantin2088/li-zehou-aesthetic-context-skill
 ```
+
+</details>
 <!-- CATALOG:END -->
 
-## 快速安装
+## 为什么值得留在你的工具箱里
 
-安装命令见上方作品目录，选择标为“已发布”的项目。系列一百个作品均直接通过公开仓库发布 Skill，无需 GitHub Releases。叶茂中及后续新增人物的独立目标客户端模型行为评测尚未执行；目录发布状态不代表模型评测通过。
+| 你遇到的情况 | Skill 提供的抓手 |
+|---|---|
+| 建议听起来对，却不知道下一步 | 有顺序的分析步骤、工作表与具体交付物 |
+| 引语听起来像真的，却找不到出处 | 标明资料、章段、核查范围与现代转译 |
+| 每个问题都被套成同一套答案 | 各人物独立的方法、适用问题与失效边界 |
+| 想改进结果，却没有检查依据 | 示例、反例、确定性工具测试和待运行行为用例 |
 
-```bash
-npx skills add constantin2088/liang-qichao-skill
-```
+以[王阳明](https://github.com/constantin2088/wang-yangming-action-skill)的行动验收、[胡适](https://github.com/constantin2088/hu-shi-hypotheses-skill)的假设研究和[陈寅恪](https://github.com/constantin2088/chen-yinke-research-skill)的史料互证为例：它们帮助你形成不同的可检查产物。资料卡区分历史材料、研究解释与项目设计的现代工作流。
 
-随后在你使用的 Agent 中提问：
+## 现在做到哪一步
 
-> 用梁启超的方法分析我的职业转型。先判断是不是结构性变局，再盘点旧优势和新能力缺口，并给出可验证的 60 天方案。
+**100 个公开人物 Skill，直接从仓库安装，无需 GitHub Releases。新增人物暂告一段落，接下来优先打磨真实使用。**
 
-安装和运行时兼容性取决于客户端；请参阅 [安装说明](docs/installation.md) 与各项目的 README。
+- 已完成目录关联、公开提交、结构与链接检查、确定性工具测试、GitHub CI 和安装发现核验。
+- 最近新增的 50 个作品有 550 项通过的本地单元测试，500 项已定义的模型行为场景；**这些模型行为场景尚未在独立客户端运行**。
+- 安装工具能发现 Skill，不等于已安装进你的客户端；CI 通过也不等于模型回答已经达到预期。旧作品的行为用例数量另行复核。
 
-## 统一标准，各有自己的方法
+[质量标准](QUALITY_STANDARD.md) · [下一阶段计划](ROADMAP.md) · [最近 50 位的选题与资料范围](docs/selection-famous-fifty-2026-10-10.md)。
 
-**不是**把同一个七步法复制六次，只替换人名。统一的是工程质量；不同人物必须提供独立的分析路径和历史依据。
+## 一份目录，连起整个系列
 
-| 方法类别 | 应当呈现的独特能力 | 典型用户 |
-|---|---|---|
-| 变革与自新 | 旧经验何时失效，哪些需要保留或更新 | 职场与组织管理 |
-| 营销与增长 | 消费冲突如何形成更好的产品表达与测试 | 创业者、品牌经理 |
-| 证据研究 | 不一致的材料如何被核查与互证 | 分析师、研究者 |
-| 多元协作 | 不同观点如何充分争辩并转成共同决策 | 团队、Multi-Agent |
-| 企业经营 | 经营、管理、组织的效率如何具体改善 | 企业管理者 |
-| 复杂系统 | 如何识别历史及产业系统的结构变化 | 产业与政策研究 |
+维护者只编辑 [catalog/skills.json](catalog/skills.json)：作品状态、任务介绍、中英文发现入口、六类场景和推荐次序都来自这里。总仓库生成目录；人物仓库展示系列标识、总目录回链、三个同类方法和折叠的完整推荐。GitHub About 的 Description、Website、Topics 在发布时同步，开发模板继承这些关联。
 
-## 为什么可信？
+[自动关联说明](docs/series-automation.md) · [开发模板](https://github.com/constantin2088/thinkers-skill-template)。
 
-我们要求每个正式发布的 Skill：
+## 帮它变得更好
 
-- **有史料 / 访谈 / 原著依据**：不把网上流传的名言当作证据；
-- **四层严格区分**：历史事实、作者原意、项目解释、现代转译；
-- **明确适用和不适用**：不把某个人物的思维当作万能工具；
-- **可检查工作流**：不是华丽口号，而是能在案例中执行；
-- **有针对性评测**：既验证能力，也记录会失败的场景。
+**如果这套方法帮你把一个问题想清楚，欢迎给总仓库一颗 ⭐，方便下次找回来。**
 
-详细标准：[QUALITY_STANDARD.md](QUALITY_STANDARD.md)。
+最有价值的贡献是一个真实问题：[提交使用反馈](https://github.com/constantin2088/chinese-thinkers-skills/issues/new?template=task-feedback.yml)、[纠正资料或报告问题](https://github.com/constantin2088/chinese-thinkers-skills/issues/new?template=quality-bug.yml)。请说明使用的 Skill、客户端、输入、输出和失败位置；分享前去除私人信息。人物扩展暂停期间，新人物提案保留为备选，优先处理现有作品的反馈与修正。
 
-## 路线图
+[贡献指南](CONTRIBUTING.md) · [行为准则](CODE_OF_CONDUCT.md)。
 
-- **Phase 1 / Foundation** — 系列总仓库、公开目录、统一模板与 CI；梁启超作为首个参考项目。
-- **Phase 2 / Evidence** — 通过真实问题、反例和历史资料修订梁启超 Skill。
-- **Phase 3 / Marketing** — 叶茂中初版已发布，继续完成目标客户端行为评测和真实任务反馈。
-- **Phase 4 / Research** — 陈寅恪及后续研究类 Skill 已发布，继续依据真实任务和新材料复核。
-- **Phase 5 / Scale** — 多个 Skill 稳定后再考虑组合安装、路由与独立社区组织。
+想介绍给朋友？可使用[1280×640 分享图](assets/social-preview.png)，并附上总仓库链接，方便对方按问题挑选。
 
-详见 [ROADMAP.md](ROADMAP.md)。
+## 资料与使用边界
 
-## 系列发布与自动关联
+本项目独立开源，历史材料与现代工作流的归属分别标注；不冒充人物本人，不伪造引语，不替人物认证现代事件的观点。资料卡会说明采用原文、译文、后人研究或回忆，以及实际核查范围。第三方资料保留原权利；原创代码与文档使用 [MIT](LICENSE)。
 
-只维护 [catalog/skills.json](catalog/skills.json)，由工具生成中英文作品目录、人物系列标识与相关推荐。发布时统一同步 GitHub About。详见 [自动关联说明](docs/series-automation.md)。
-
-## 参与贡献
-
-欢迎提交真实任务、失败案例、史料修正和新人物提案。请先阅读 [贡献指南](CONTRIBUTING.md)，或通过 [GitHub Issue](https://github.com/constantin2088/chinese-thinkers-skills/issues) 提案。
-
-我们不以关注数量、立场一致或文风相似度作为接受贡献的标准。
-
-## 安全、版权与免责声明
-
-- 独立开源项目，未获相关历史人物、家属或机构的授权或背书；不宣称代表人物本人。
-- 不伪造引语，不替已故人物对其身后事件表达“真实观点”。
-- 一手文本与现代版著作的版权可能不同；仓库不应未经许可复制受保护的整书材料。
-- 不把历史概念当作现代政治宣传、歧视、恐吓、操纵或高风险专业建议的理由。
-
-阅读 [SECURITY.md](SECURITY.md) 与 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)。
-
----
-
-**English:** This is an independent open-source series of research-grounded Agent Skills inspired by Chinese thinkers and practitioners. Each skill aims for a concrete and testable reasoning workflow, not historical impersonation. See the [English README](README.en.md).
-
-**MIT License** · Maintainer: [@constantin2088](https://github.com/constantin2088)
-
-## 历次新增选题
-[费孝通、陶行知、严复、黄宗羲的选题与检索依据](docs/selection-2026-10-10.md)。已核查低覆盖情况；收藏潜力为编辑判断，非增长保证。
-
-[新增顾炎武、张载等20位人物的选题与检索依据](docs/selection-twenty-2026-10-10.md)。该轮新增20个作品，未创建 GitHub Releases。
-
-[第二批新增王夫之、龚自珍等20位人物的选题与检索依据](docs/selection-second-twenty-2026-10-10.md)。该轮完成后系列为50个公开作品，直接发布成 Skill。
-
-[新增孔子、老子、王阳明、鲁迅等30位知名人物的用途与选题依据](docs/selection-famous-thirty-2026-10-11.md)。该次先行发布后系列为80个公开人物作品。
-
-[新增孔子、老子、鲁迅、毛泽东、钱学森等50位知名人物的用途与选题依据](docs/selection-famous-fifty-2026-10-10.md)。系列现有100个公开人物作品，直接安装使用。
+[安全说明](SECURITY.md) · 维护者 [@constantin2088](https://github.com/constantin2088)。

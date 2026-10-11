@@ -1,149 +1,192 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="900" alt="Chinese Thinkers as Skills" />
+<img src="assets/banner.svg" alt="Chinese Thinkers as Skills: 100 thinkers, practical reasoning workflows" width="900" />
 
 # Chinese Thinkers as Skills
 
-### Not personas. Executable wisdom.
+### A toolbox of Chinese thought for your AI agent.
 
-Research-grounded, testable AI Agent Skills inspired by methods of Chinese thinkers, scholars, and practitioners.
+**Learn with Confucius. Weigh options with Sun Tzu. Test hypotheses with Hu Shih. Map systems with Qian Xuesen.**
 
-[中文](README.md) · [Catalog](#catalog) · [Install](#installation) · [Quality Standard](QUALITY_STANDARD.md) · [Contribute](CONTRIBUTING.md)
+100 thinkers, scholars and practitioners. Individually installable Agent Skills with distinct workflows, source notes, examples and boundaries.
+
+[![Validate series](https://github.com/constantin2088/chinese-thinkers-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/constantin2088/chinese-thinkers-skills/actions/workflows/validate.yml)
+[![MIT](https://img.shields.io/badge/License-MIT-dbb86b.svg)](LICENSE)
+
+[中文](README.md) · [Try one](#installation) · [Choose a task](#catalog) · [Sample tasks](docs/try-it.md)
 
 </div>
 
-## Why this exists
+## Installation
 
-A historical figure should not become a simulated authority on modern events. Instead, we turn **documented reasoning approaches** into transparent, limited and testable workflows.
+Start with one concrete problem. Wang Yangming's skill helps turn claimed knowledge into observed action:
 
-Each published Skill should include a distinct method, credible source map, explicit trigger, examples, failure cases and boundaries. A shared project style does *not* mean the thinkers share one generic decision template.
+```bash
+npx skills add constantin2088/wang-yangming-action-skill
+```
+
+Select your client during installation, then try:
+
+```text
+Use the Wang Yangming skill: I know backups matter, but I have never tested a restore.
+Distinguish missing knowledge, missing preparation, risks and conflicting goals.
+Plan a 15-minute backup-and-restore task using a test file.
+Return the knowledge-action gap, the real action, acceptance evidence and a next step if it fails.
+Do not count a written plan as completed action.
+```
+
+The intended artifact is a small, checkable action record: what you claim to know, what you actually do, and the evidence that it worked. This is a fictional demonstration of the desired artifact, not a completed model benchmark.
+
+See [installation and discovery](docs/installation.md) for scope and limitations. CLI discovery, installation and actual client execution are separate checks.
 
 ## Catalog
 
+Choose by the problem first. Each thinker repository links back to this index and points to methods for similar tasks.
+
 <!-- CATALOG:START -->
+### Choose by the problem
+
+| Your task | Start here |
+|---|---|
+| [Turn knowledge into demonstrated action.](docs/choose-a-skill.md#learning) | [Confucius](https://github.com/constantin2088/confucius-learning-skill) · [Wang Yangming](https://github.com/constantin2088/wang-yangming-action-skill) · [Su Shi](https://github.com/constantin2088/su-shi-understanding-skill) |
+| [Check evidence, concepts and competing explanations.](docs/choose-a-skill.md#research) | [Lu Xun](https://github.com/constantin2088/lu-xun-selective-learning-skill) · [Mao Zedong](https://github.com/constantin2088/mao-zedong-investigation-skill) · [Hu Shi](https://github.com/constantin2088/hu-shi-hypotheses-skill) |
+| [Compare options, constraints and system effects.](docs/choose-a-skill.md#decisions) | [Sun Tzu](https://github.com/constantin2088/sun-tzu-strategy-skill) · [Laozi](https://github.com/constantin2088/laozi-low-intervention-skill) · [Qian Xuesen](https://github.com/constantin2088/qian-xuesen-system-synthesis-skill) |
+| [Examine incentives, responsibilities and coordination.](docs/choose-a-skill.md#organizations) | [Ye Maozhong](https://github.com/constantin2088/ye-maozhong-skill) · [Cai Yuanpei](https://github.com/constantin2088/cai-yuanpei-skill) · [Song Zhiping](https://github.com/constantin2088/song-zhiping-management-skill) |
+| [Make expression precise and aesthetic judgments explicit.](docs/choose-a-skill.md#expression) | [Ye Shengtao](https://github.com/constantin2088/ye-shengtao-writing-skill) · [Zhu Guangqian](https://github.com/constantin2088/zhu-guangqian-aesthetics-skill) · [Zong Baihua](https://github.com/constantin2088/zong-baihua-artistic-skill) |
+| [Reconsider assumptions, values and personal boundaries.](docs/choose-a-skill.md#reflection) | [Zhuangzi](https://github.com/constantin2088/zhuangzi-perspective-skill) · [Zhang Zai](https://github.com/constantin2088/zhang-zai-responsibility-skill) · [Feng Youlan](https://github.com/constantin2088/feng-youlan-reflection-skill) |
+
+[Explore every skill by task](docs/choose-a-skill.md) · [Search the catalog](docs/installation.md#find-a-method)
+
 ### Start with a familiar task
 
 | Thinker | What you can do |
 |---|---|
-| [Confucius](https://github.com/constantin2088/confucius-learning-skill) | 把读书笔记转成行动、复盘承诺与协作信用 |
-| [Sun Tzu](https://github.com/constantin2088/sun-tzu-strategy-skill) | 民用项目竞争、资源不足或需要决定做与不做 |
-| [Laozi](https://github.com/constantin2088/laozi-low-intervention-skill) | 流程越来越复杂、需要降低控制和协调成本 |
-| [Zhuangzi](https://github.com/constantin2088/zhuangzi-perspective-skill) | 被单一指标困住、比较不同尺度与生活选择 |
-| [Wang Yangming](https://github.com/constantin2088/wang-yangming-action-skill) | 明白道理却迟迟不做、需要知行复盘 |
-| [Lu Xun](https://github.com/constantin2088/lu-xun-selective-learning-skill) | 外部经验看起来都好、需要拆分可用与有害部分 |
-| [Mao Zedong](https://github.com/constantin2088/mao-zedong-investigation-skill) | 民用项目出现争议、报告只有结论而缺少一手事实 |
-| [Qian Xuesen](https://github.com/constantin2088/qian-xuesen-system-synthesis-skill) | 复杂民用项目涉及多专业、需要把意见和模型对齐 |
-| [Su Shi](https://github.com/constantin2088/su-shi-understanding-skill) | 概念讲得懂却不会用、需要从说明转成体验与实践 |
-| [Hu Shi](https://github.com/constantin2088/hu-shi-hypotheses-skill) | 讨论被口号带走、需要把问题拆成可证伪假设 |
-| [Zhuge Liang](https://github.com/constantin2088/zhuge-liang-focus-skill) | 长期目标被杂务冲散、需要学习与行动节奏 |
-| [Zeng Guofan](https://github.com/constantin2088/zeng-guofan-routines-skill) | 长期习惯断断续续、需要稳健积累与复盘 |
-
-Recognition helps discovery; usefulness depends on the task. This is not a prediction of stars.
+| [Confucius](https://github.com/constantin2088/confucius-learning-skill) | Turn reading notes into actions and reliable commitments |
+| [Sun Tzu](https://github.com/constantin2088/sun-tzu-strategy-skill) | Compare civilian project options and opportunity costs |
+| [Laozi](https://github.com/constantin2088/laozi-low-intervention-skill) | Reduce unnecessary process and control costs |
+| [Zhuangzi](https://github.com/constantin2088/zhuangzi-perspective-skill) | Compare perspectives beyond a single metric |
+| [Wang Yangming](https://github.com/constantin2088/wang-yangming-action-skill) | Turn claimed knowledge into observed action |
+| [Lu Xun](https://github.com/constantin2088/lu-xun-selective-learning-skill) | Distinguish useful practices from harmful baggage |
+| [Mao Zedong](https://github.com/constantin2088/mao-zedong-investigation-skill) | Investigate first and keep a traceable fact ledger |
+| [Qian Xuesen](https://github.com/constantin2088/qian-xuesen-system-synthesis-skill) | Combine expert views and data into testable plans |
+| [Su Shi](https://github.com/constantin2088/su-shi-understanding-skill) | Test whether explanations transfer into practice |
+| [Hu Shi](https://github.com/constantin2088/hu-shi-hypotheses-skill) | Turn slogans into falsifiable research questions |
+| [Zhuge Liang](https://github.com/constantin2088/zhuge-liang-focus-skill) | Build a sustainable focus and learning plan |
+| [Zeng Guofan](https://github.com/constantin2088/zeng-guofan-routines-skill) | Build sustainable routines with recovery mechanisms |
 
 ### Full catalog
 
+<details>
+<summary>All 100 thinkers</summary>
+
 | Thinker | Focus | Repository | Status |
 |---|---|---|---|
-| **Liang Qichao** | 变局判断、能力更新、认知修正 | [liang-qichao-skill](https://github.com/constantin2088/liang-qichao-skill) | Published |
-| **Ye Maozhong** | 消费冲突、产品表达、增长实验 | [ye-maozhong-skill](https://github.com/constantin2088/ye-maozhong-skill) | Published |
-| **Chen Yinke** | 史料互证、证据分层、研究推断 | [chen-yinke-research-skill](https://github.com/constantin2088/chen-yinke-research-skill) | Published |
-| **Cai Yuanpei** | 异见管理、观点协调、多元协作 | [cai-yuanpei-skill](https://github.com/constantin2088/cai-yuanpei-skill) | Published |
-| **Song Zhiping** | 经营决策、精细管理、组织效率 | [song-zhiping-management-skill](https://github.com/constantin2088/song-zhiping-management-skill) | Published |
-| **Cho-yun Hsu** | 系统观察、跨学科分析、长期演化 | [xu-zhuoyun-systems-skill](https://github.com/constantin2088/xu-zhuoyun-systems-skill) | Published |
-| **Fei Xiaotong** | 访谈取证、关系情境、跨文化理解 | [fei-xiaotong-fieldwork-skill](https://github.com/constantin2088/fei-xiaotong-fieldwork-skill) | Published |
-| **Tao Xingzhi** | 真实任务学习、教人自学、迁移验证 | [tao-xingzhi-learning-skill](https://github.com/constantin2088/tao-xingzhi-learning-skill) | Published |
-| **Yan Fu** | 术语定名、意义保真、解释与译文分离 | [yan-fu-translation-skill](https://github.com/constantin2088/yan-fu-translation-skill) | Published |
-| **Huang Zongxi** | 规则受益分析、权责制衡、独立评议 | [huang-zongxi-governance-skill](https://github.com/constantin2088/huang-zongxi-governance-skill) | Published |
-| **Gu Yanwu** | 现实问题定位、广泛取证、知识转成公共用途 | [gu-yanwu-practical-skill](https://github.com/constantin2088/gu-yanwu-practical-skill) | Published |
-| **Zhang Zai** | 受影响者识别、责任边界、照护负担分配 | [zhang-zai-responsibility-skill](https://github.com/constantin2088/zhang-zai-responsibility-skill) | Published |
-| **Dai Zhen** | 词义分辨、规范与事实分离、真实负担审查 | [dai-zhen-concepts-skill](https://github.com/constantin2088/dai-zhen-concepts-skill) | Published |
-| **Wang Chong** | 权威主张质疑、逻辑矛盾、可检验反例 | [wang-chong-skepticism-skill](https://github.com/constantin2088/wang-chong-skepticism-skill) | Published |
-| **Zhang Xuecheng** | 文献目的、分类义例、编纂取舍与立场披露 | [zhang-xuecheng-documentation-skill](https://github.com/constantin2088/zhang-xuecheng-documentation-skill) | Published |
-| **Fu Sinian** | 研究材料扩展、工具适配、采集计划与证据缺口 | [fu-sinian-evidence-skill](https://github.com/constantin2088/fu-sinian-evidence-skill) | Published |
-| **Qian Mu** | 研究意义、通史关联、制度与文化的情境解释 | [qian-mu-context-skill](https://github.com/constantin2088/qian-mu-context-skill) | Published |
-| **Liang Shuming** | 地方组织、共同事务、合作能力与渐进试点 | [liang-shuming-community-skill](https://github.com/constantin2088/liang-shuming-community-skill) | Published |
-| **Yan Yangchu** | 识字与表达、生计、卫生常识、公民协作的联动设计 | [yan-yangchu-education-skill](https://github.com/constantin2088/yan-yangchu-education-skill) | Published |
-| **Ye Shengtao** | 思想与表达对齐、文字精密、自主修改 | [ye-shengtao-writing-skill](https://github.com/constantin2088/ye-shengtao-writing-skill) | Published |
-| **Zhu Guangqian** | 观看态度区分、具体形式观察、审美理由 | [zhu-guangqian-aesthetics-skill](https://github.com/constantin2088/zhu-guangqian-aesthetics-skill) | Published |
-| **Zong Baihua** | 情景关联、虚实层次、观看路径与时空节奏 | [zong-baihua-artistic-skill](https://github.com/constantin2088/zong-baihua-artistic-skill) | Published |
-| **Liu Xie** | 立意、材料与想象、篇章气脉和体裁适配 | [liu-xie-composition-skill](https://github.com/constantin2088/liu-xie-composition-skill) | Published |
-| **Liu Zhiji** | 事实与褒贬分离、删选偏差、叙事权力与修订 | [liu-zhiji-narrative-skill](https://github.com/constantin2088/liu-zhiji-narrative-skill) | Published |
-| **Shen Kuo** | 现象记录、条件变化、仪器误差与解释检验 | [shen-kuo-observation-skill](https://github.com/constantin2088/shen-kuo-observation-skill) | Published |
-| **Song Yingxing** | 原料工具工序、工艺依赖、产出与损耗记录 | [song-yingxing-process-skill](https://github.com/constantin2088/song-yingxing-process-skill) | Published |
-| **Xu Guangqi** | 跨域知识理解、本地条件适配、小试与扩展门槛 | [xu-guangqi-adaptation-skill](https://github.com/constantin2088/xu-guangqi-adaptation-skill) | Published |
-| **Feng Youlan** | 自我理解、动机与行动、个人与共同利益的关系 | [feng-youlan-reflection-skill](https://github.com/constantin2088/feng-youlan-reflection-skill) | Published |
-| **Zheng Guanying** | 商务得失、能力链、竞争比较与资源优先级 | [zheng-guanying-commerce-skill](https://github.com/constantin2088/zheng-guanying-commerce-skill) | Published |
-| **Yan Yuan** | 学习投入分配、身体力行、独立表现与反馈 | [yan-yuan-practice-skill](https://github.com/constantin2088/yan-yuan-practice-skill) | Published |
-| **Wang Fuzhi** | 历史类比条件、制度适用范围、变化中的判断 | [wang-fuzhi-context-skill](https://github.com/constantin2088/wang-fuzhi-context-skill) | Published |
-| **Gong Zizhen** | 单一标准偏差、人才多样性、修复成长环境 | [gong-zizhen-talent-skill](https://github.com/constantin2088/gong-zizhen-talent-skill) | Published |
-| **Wei Yuan** | 多方外部资料、能力差距、选择性学习 | [wei-yuan-benchmark-skill](https://github.com/constantin2088/wei-yuan-benchmark-skill) | Published |
-| **Kang Youwei** | 痛苦地图、理想制度假设、过渡与权利检验 | [kang-youwei-utopia-skill](https://github.com/constantin2088/kang-youwei-utopia-skill) | Published |
-| **Tan Sitong** | 关系阻隔、双向发声、资源与退出 | [tan-sitong-barriers-skill](https://github.com/constantin2088/tan-sitong-barriers-skill) | Published |
-| **Zhang Taiyan** | 术语古今义、文本类别、翻译中的时代错置 | [zhang-taiyan-terms-skill](https://github.com/constantin2088/zhang-taiyan-terms-skill) | Published |
-| **Li Zhi** | 表达动机、评价压力、经验与套话分离 | [li-zhi-authenticity-skill](https://github.com/constantin2088/li-zhi-authenticity-skill) | Published |
-| **Wang Anshi** | 改革定义、权限、实施负担与异议复核 | [wang-anshi-change-skill](https://github.com/constantin2088/wang-anshi-change-skill) | Published |
-| **Sima Guang** | 必要支出、惯性升级、收入变化下的持续性 | [sima-guang-restraint-skill](https://github.com/constantin2088/sima-guang-restraint-skill) | Published |
-| **Su Xun** | 短期缓解、累计资源损失、替代选择与停止线 | [su-xun-concessions-skill](https://github.com/constantin2088/su-xun-concessions-skill) | Published |
-| **Ouyang Xiu** | 协作理由、共同利益、异议和利益变化 | [ouyang-xiu-coalitions-skill](https://github.com/constantin2088/ouyang-xiu-coalitions-skill) | Published |
-| **Han Yu** | 问题定位、专长匹配、求教与独立迁移 | [han-yu-mentorship-skill](https://github.com/constantin2088/han-yu-mentorship-skill) | Published |
-| **Liu Zongyuan** | 过度干预、必要支持、扰动成本与恢复 | [liu-zongyuan-intervention-skill](https://github.com/constantin2088/liu-zongyuan-intervention-skill) | Published |
-| **Ji Kang** | 角色适配、不可承受条件、诚实拒绝与替代 | [ji-kang-boundaries-skill](https://github.com/constantin2088/ji-kang-boundaries-skill) | Published |
-| **Ruan Ji** | 默认身份脚本、外部评价、尺度转换与自主选择 | [ruan-ji-conformity-skill](https://github.com/constantin2088/ruan-ji-conformity-skill) | Published |
-| **Ge Hong** | 取材范围、异说保留、用途与证据归属 | [ge-hong-breadth-skill](https://github.com/constantin2088/ge-hong-breadth-skill) | Published |
-| **Chen Liang** | 账面资源、实际可用性、表现与配套 | [chen-liang-capability-skill](https://github.com/constantin2088/chen-liang-capability-skill) | Published |
-| **Hong Liangji** | 需求与供给增速、分配不均、条件压力与补缺 | [hong-liangji-resources-skill](https://github.com/constantin2088/hong-liangji-resources-skill) | Published |
-| **Li Yu** | 使用频率、位置适配、脆弱物保护与实际体验 | [li-yu-usability-skill](https://github.com/constantin2088/li-yu-usability-skill) | Published |
-| **Yuan Mei** | 具体感受、材料驱使、风格适配和多样评价 | [yuan-mei-expression-skill](https://github.com/constantin2088/yuan-mei-expression-skill) | Published |
-| **Confucius** | 把读书笔记转成行动、复盘承诺与协作信用 | [confucius-learning-skill](https://github.com/constantin2088/confucius-learning-skill) | Published |
-| **Mencius** | 面对利益与原则冲突、把同情转成有边界的行动 | [mencius-values-skill](https://github.com/constantin2088/mencius-values-skill) | Published |
-| **Xunzi** | 学习计划反复中断、选择工具与练习环境 | [xunzi-deliberate-learning-skill](https://github.com/constantin2088/xunzi-deliberate-learning-skill) | Published |
-| **Laozi** | 流程越来越复杂、需要降低控制和协调成本 | [laozi-low-intervention-skill](https://github.com/constantin2088/laozi-low-intervention-skill) | Published |
-| **Zhuangzi** | 被单一指标困住、比较不同尺度与生活选择 | [zhuangzi-perspective-skill](https://github.com/constantin2088/zhuangzi-perspective-skill) | Published |
-| **Mozi** | 选人、评价项目、比较受益与资源负担 | [mozi-merit-skill](https://github.com/constantin2088/mozi-merit-skill) | Published |
-| **Han Fei** | 指标被刷、奖励被套利、权责与实际表现脱节 | [han-fei-incentives-skill](https://github.com/constantin2088/han-fei-incentives-skill) | Published |
-| **Sun Tzu** | 民用项目竞争、资源不足或需要决定做与不做 | [sun-tzu-strategy-skill](https://github.com/constantin2088/sun-tzu-strategy-skill) | Published |
-| **Sun Bin** | 民用资源配置、需要在整体目标下重排任务 | [sun-bin-matching-skill](https://github.com/constantin2088/sun-bin-matching-skill) | Published |
-| **Guan Zhong** | 组织激励失效、资源基础与制度要求不匹配 | [guan-zhong-foundations-skill](https://github.com/constantin2088/guan-zhong-foundations-skill) | Published |
-| **Shang Yang** | 旧规则妨碍新目标、审查变革的实施与公平 | [shang-yang-reform-skill](https://github.com/constantin2088/shang-yang-reform-skill) | Published |
-| **Guiguzi** | 谈判信息不足、需要澄清对方真实约束 | [guiguzi-listening-skill](https://github.com/constantin2088/guiguzi-listening-skill) | Published |
-| **Dong Zhongshu** | 组织反复出错、检验领导示范和纠错机制 | [dong-zhongshu-accountability-skill](https://github.com/constantin2088/dong-zhongshu-accountability-skill) | Published |
-| **Jia Yi** | 日常资源够用但缺少应急余量、需要压力情景 | [jia-yi-reserves-skill](https://github.com/constantin2088/jia-yi-reserves-skill) | Published |
-| **Sima Qian** | 整理机构历史、人物故事或长期变化叙事 | [sima-qian-history-skill](https://github.com/constantin2088/sima-qian-history-skill) | Published |
-| **Ban Gu** | 知识库分类混乱、比较不同历史叙述与门类 | [ban-gu-categories-skill](https://github.com/constantin2088/ban-gu-categories-skill) | Published |
-| **Zhuge Liang** | 长期目标被杂务冲散、需要学习与行动节奏 | [zhuge-liang-focus-skill](https://github.com/constantin2088/zhuge-liang-focus-skill) | Published |
-| **Liu Yuxi** | 把失败全怪运气、辨认可以改变与不能控制的部分 | [liu-yuxi-agency-skill](https://github.com/constantin2088/liu-yuxi-agency-skill) | Published |
-| **Bai Juyi** | 文章好看但用途不清、想让写作回应读者与现实 | [bai-juyi-purpose-skill](https://github.com/constantin2088/bai-juyi-purpose-skill) | Published |
-| **Su Shi** | 概念讲得懂却不会用、需要从说明转成体验与实践 | [su-shi-understanding-skill](https://github.com/constantin2088/su-shi-understanding-skill) | Published |
-| **Zhu Xi** | 读长文只剩印象、需要逐段理解和检验先入观点 | [zhu-xi-close-reading-skill](https://github.com/constantin2088/zhu-xi-close-reading-skill) | Published |
-| **Lu Jiuyuan** | 目标正确却行动失真、需要审查义利冲突 | [lu-jiuyuan-intentions-skill](https://github.com/constantin2088/lu-jiuyuan-intentions-skill) | Published |
-| **Wang Yangming** | 明白道理却迟迟不做、需要知行复盘 | [wang-yangming-action-skill](https://github.com/constantin2088/wang-yangming-action-skill) | Published |
-| **Zeng Guofan** | 长期习惯断断续续、需要稳健积累与复盘 | [zeng-guofan-routines-skill](https://github.com/constantin2088/zeng-guofan-routines-skill) | Published |
-| **Hui Shi** | 双方都说有道理却用不同尺度、需要检查概念边界 | [hui-shi-definitions-skill](https://github.com/constantin2088/hui-shi-definitions-skill) | Published |
-| **Zhang Zhidong** | 引入新工具时担心失去原有目标、需要评估取舍 | [zhang-zhidong-adaptation-skill](https://github.com/constantin2088/zhang-zhidong-adaptation-skill) | Published |
-| **Hu Shi** | 讨论被口号带走、需要把问题拆成可证伪假设 | [hu-shi-hypotheses-skill](https://github.com/constantin2088/hu-shi-hypotheses-skill) | Published |
-| **Lu Xun** | 外部经验看起来都好、需要拆分可用与有害部分 | [lu-xun-selective-learning-skill](https://github.com/constantin2088/lu-xun-selective-learning-skill) | Published |
-| **Chen Duxiu** | 观点来自权威或习惯、需要检查自主判断与实际用途 | [chen-duxiu-independent-thinking-skill](https://github.com/constantin2088/chen-duxiu-independent-thinking-skill) | Published |
-| **Li Dazhao** | 谈未来理想很多、需要明确当下责任与可实施行动 | [li-dazhao-present-action-skill](https://github.com/constantin2088/li-dazhao-present-action-skill) | Published |
-| **Mao Zedong** | 民用项目出现争议、报告只有结论而缺少一手事实 | [mao-zedong-investigation-skill](https://github.com/constantin2088/mao-zedong-investigation-skill) | Published |
-| **Zhou Enlai** | 公共资源、亲友请求与岗位职责发生冲突 | [zhou-enlai-public-duty-skill](https://github.com/constantin2088/zhou-enlai-public-duty-skill) | Published |
-| **Deng Xiaoping** | 旧规则阻碍任务、需要先试后扩而非凭口号改革 | [deng-xiaoping-fact-based-pilots-skill](https://github.com/constantin2088/deng-xiaoping-fact-based-pilots-skill) | Published |
-| **Sun Yat Sen** | 计划看似能做、需要检查知识缺口与实施条件 | [sun-yat-sen-preparation-skill](https://github.com/constantin2088/sun-yat-sen-preparation-skill) | Published |
-| **Huang Yanpei** | 课程与岗位脱节、需要设计有实际产出的学习 | [huang-yanpei-vocational-fit-skill](https://github.com/constantin2088/huang-yanpei-vocational-fit-skill) | Published |
-| **Wang Guowei** | 评论诗词或创作只有好美、需要说明景与情如何相连 | [wang-guowei-aesthetic-scenes-skill](https://github.com/constantin2088/wang-guowei-aesthetic-scenes-skill) | Published |
-| **Lin Yutang** | 文案或表达想轻松一些、需要避开羞辱和冷酷 | [lin-yutang-kind-humor-skill](https://github.com/constantin2088/lin-yutang-kind-humor-skill) | Published |
-| **Qian Zhongshu** | 跨文化或跨作品比较容易变成标签、需要落实文本证据 | [qian-zhongshu-comparative-reading-skill](https://github.com/constantin2088/qian-zhongshu-comparative-reading-skill) | Published |
-| **Yang Jiang** | 回忆或个人叙事想避免煽情、需要区分所见与猜想 | [yang-jiang-restrained-narrative-skill](https://github.com/constantin2088/yang-jiang-restrained-narrative-skill) | Published |
-| **Chen Heqin** | 儿童学习只有讲解、需要设计安全的观察与做中学活动 | [chen-heqin-active-curriculum-skill](https://github.com/constantin2088/chen-heqin-active-curriculum-skill) | Published |
-| **Zhang Boling** | 公益或团队项目有热情、需要同时核受益与实际能力 | [zhang-boling-service-capability-skill](https://github.com/constantin2088/zhang-boling-service-capability-skill) | Published |
-| **Xiong Shili** | 宣称有原则但实际行为不一致、需要检查抽象承诺与表现 | [xiong-shili-principles-in-use-skill](https://github.com/constantin2088/xiong-shili-principles-in-use-skill) | Published |
-| **Mou Zongsan** | 以好动机代替专业证据、需要明确道德与知识的分工 | [mou-zongsan-judgment-boundaries-skill](https://github.com/constantin2088/mou-zongsan-judgment-boundaries-skill) | Published |
-| **Tang Junyi** | 跨背景交流陷入文化标签、需要理解自我与他人处境 | [tang-junyi-cultural-dialogue-skill](https://github.com/constantin2088/tang-junyi-cultural-dialogue-skill) | Published |
-| **Ji Xianlin** | 文化介绍容易只讲印象、需要核语言语境和互鉴条件 | [ji-xianlin-cultural-learning-skill](https://github.com/constantin2088/ji-xianlin-cultural-learning-skill) | Published |
-| **Nan Huaijin** | 通俗讲解很吸引人、需要分清原典与讲者发挥 | [nan-huaijin-classics-check-skill](https://github.com/constantin2088/nan-huaijin-classics-check-skill) | Published |
-| **Qian Xuesen** | 复杂民用项目涉及多专业、需要把意见和模型对齐 | [qian-xuesen-system-synthesis-skill](https://github.com/constantin2088/qian-xuesen-system-synthesis-skill) | Published |
-| **Ma Yinchu** | 人数、需求和供给增长不匹配、需要做有条件的资源情景 | [ma-yinchu-resource-scenarios-skill](https://github.com/constantin2088/ma-yinchu-resource-scenarios-skill) | Published |
-| **Wu Jinglian** | 业务竞争被特权、信息不透明或准入障碍扭曲 | [wu-jinglian-competition-rules-skill](https://github.com/constantin2088/wu-jinglian-competition-rules-skill) | Published |
-| **Li Zehou** | 作品评价只有个人喜好、需要连接形式与社会历史语境 | [li-zehou-aesthetic-context-skill](https://github.com/constantin2088/li-zehou-aesthetic-context-skill) | Published |
+| **Liang Qichao** | Assess changing conditions and update capabilities | [liang-qichao-skill](https://github.com/constantin2088/liang-qichao-skill) | Published |
+| **Ye Maozhong** | Find customer conflicts and design marketing experiments | [ye-maozhong-skill](https://github.com/constantin2088/ye-maozhong-skill) | Published |
+| **Chen Yinke** | Cross-check historical sources and separate evidence levels | [chen-yinke-research-skill](https://github.com/constantin2088/chen-yinke-research-skill) | Published |
+| **Cai Yuanpei** | Coordinate disagreement and plural perspectives | [cai-yuanpei-skill](https://github.com/constantin2088/cai-yuanpei-skill) | Published |
+| **Song Zhiping** | Improve operating decisions and organizational efficiency | [song-zhiping-management-skill](https://github.com/constantin2088/song-zhiping-management-skill) | Published |
+| **Cho-yun Hsu** | Trace structures and long-term system changes | [xu-zhuoyun-systems-skill](https://github.com/constantin2088/xu-zhuoyun-systems-skill) | Published |
+| **Fei Xiaotong** | Plan field interviews and examine relationship contexts | [fei-xiaotong-fieldwork-skill](https://github.com/constantin2088/fei-xiaotong-fieldwork-skill) | Published |
+| **Tao Xingzhi** | Learn through real tasks and independent transfer | [tao-xingzhi-learning-skill](https://github.com/constantin2088/tao-xingzhi-learning-skill) | Published |
+| **Yan Fu** | Translate concepts without changing their claims | [yan-fu-translation-skill](https://github.com/constantin2088/yan-fu-translation-skill) | Published |
+| **Huang Zongxi** | Review accountability and independent oversight | [huang-zongxi-governance-skill](https://github.com/constantin2088/huang-zongxi-governance-skill) | Published |
+| **Gu Yanwu** | Research practical problems and evidence gaps | [gu-yanwu-practical-skill](https://github.com/constantin2088/gu-yanwu-practical-skill) | Published |
+| **Zhang Zai** | Map shared responsibility and care burdens | [zhang-zai-responsibility-skill](https://github.com/constantin2088/zhang-zai-responsibility-skill) | Published |
+| **Dai Zhen** | Distinguish concepts from actual human burdens | [dai-zhen-concepts-skill](https://github.com/constantin2088/dai-zhen-concepts-skill) | Published |
+| **Wang Chong** | Challenge authority with logic and testable counterexamples | [wang-chong-skepticism-skill](https://github.com/constantin2088/wang-chong-skepticism-skill) | Published |
+| **Zhang Xuecheng** | Explain documentary purpose and editorial choices | [zhang-xuecheng-documentation-skill](https://github.com/constantin2088/zhang-xuecheng-documentation-skill) | Published |
+| **Fu Sinian** | Plan evidence collection and research tools | [fu-sinian-evidence-skill](https://github.com/constantin2088/fu-sinian-evidence-skill) | Published |
+| **Qian Mu** | Explain institutions in their historical context | [qian-mu-context-skill](https://github.com/constantin2088/qian-mu-context-skill) | Published |
+| **Liang Shuming** | Design gradual community cooperation experiments | [liang-shuming-community-skill](https://github.com/constantin2088/liang-shuming-community-skill) | Published |
+| **Yan Yangchu** | Connect literacy, livelihood and civic participation | [yan-yangchu-education-skill](https://github.com/constantin2088/yan-yangchu-education-skill) | Published |
+| **Ye Shengtao** | Revise writing to match what you really mean | [ye-shengtao-writing-skill](https://github.com/constantin2088/ye-shengtao-writing-skill) | Published |
+| **Zhu Guangqian** | Ground aesthetic judgments in concrete observations | [zhu-guangqian-aesthetics-skill](https://github.com/constantin2088/zhu-guangqian-aesthetics-skill) | Published |
+| **Zong Baihua** | Examine atmosphere, space and viewing rhythm | [zong-baihua-artistic-skill](https://github.com/constantin2088/zong-baihua-artistic-skill) | Published |
+| **Liu Xie** | Organize purpose, material and narrative structure | [liu-xie-composition-skill](https://github.com/constantin2088/liu-xie-composition-skill) | Published |
+| **Liu Zhiji** | Audit omissions and judgments in narratives | [liu-zhiji-narrative-skill](https://github.com/constantin2088/liu-zhiji-narrative-skill) | Published |
+| **Shen Kuo** | Test observations against conditions and measurement errors | [shen-kuo-observation-skill](https://github.com/constantin2088/shen-kuo-observation-skill) | Published |
+| **Song Yingxing** | Map materials, tools, processes and losses | [song-yingxing-process-skill](https://github.com/constantin2088/song-yingxing-process-skill) | Published |
+| **Xu Guangqi** | Adapt outside knowledge through small local trials | [xu-guangqi-adaptation-skill](https://github.com/constantin2088/xu-guangqi-adaptation-skill) | Published |
+| **Feng Youlan** | Reflect on motives and shared interests | [feng-youlan-reflection-skill](https://github.com/constantin2088/feng-youlan-reflection-skill) | Published |
+| **Zheng Guanying** | Compare industrial capabilities and priorities | [zheng-guanying-commerce-skill](https://github.com/constantin2088/zheng-guanying-commerce-skill) | Published |
+| **Yan Yuan** | Verify learning through independent performance | [yan-yuan-practice-skill](https://github.com/constantin2088/yan-yuan-practice-skill) | Published |
+| **Wang Fuzhi** | Check the conditions behind historical analogies | [wang-fuzhi-context-skill](https://github.com/constantin2088/wang-fuzhi-context-skill) | Published |
+| **Gong Zizhen** | Review talent diversity and narrow selection standards | [gong-zizhen-talent-skill](https://github.com/constantin2088/gong-zizhen-talent-skill) | Published |
+| **Wei Yuan** | Compare outside practices before adopting them | [wei-yuan-benchmark-skill](https://github.com/constantin2088/wei-yuan-benchmark-skill) | Published |
+| **Kang Youwei** | Pressure-test institutional visions and transition costs | [kang-youwei-utopia-skill](https://github.com/constantin2088/kang-youwei-utopia-skill) | Published |
+| **Tan Sitong** | Examine barriers to voice, access and exit | [tan-sitong-barriers-skill](https://github.com/constantin2088/tan-sitong-barriers-skill) | Published |
+| **Zhang Taiyan** | Trace terms across historical and translation contexts | [zhang-taiyan-terms-skill](https://github.com/constantin2088/zhang-taiyan-terms-skill) | Published |
+| **Li Zhi** | Separate lived experience from borrowed rhetoric | [li-zhi-authenticity-skill](https://github.com/constantin2088/li-zhi-authenticity-skill) | Published |
+| **Wang Anshi** | Review reform authority, burdens and objections | [wang-anshi-change-skill](https://github.com/constantin2088/wang-anshi-change-skill) | Published |
+| **Sima Guang** | Control recurring spending and resource commitments | [sima-guang-restraint-skill](https://github.com/constantin2088/sima-guang-restraint-skill) | Published |
+| **Su Xun** | Calculate cumulative costs of repeated concessions | [su-xun-concessions-skill](https://github.com/constantin2088/su-xun-concessions-skill) | Published |
+| **Ouyang Xiu** | Review coalition interests and durable cooperation | [ouyang-xiu-coalitions-skill](https://github.com/constantin2088/ouyang-xiu-coalitions-skill) | Published |
+| **Han Yu** | Match questions with mentors and test transfer | [han-yu-mentorship-skill](https://github.com/constantin2088/han-yu-mentorship-skill) | Published |
+| **Liu Zongyuan** | Reduce harmful intervention while preserving support | [liu-zongyuan-intervention-skill](https://github.com/constantin2088/liu-zongyuan-intervention-skill) | Published |
+| **Ji Kang** | State role boundaries and practical alternatives | [ji-kang-boundaries-skill](https://github.com/constantin2088/ji-kang-boundaries-skill) | Published |
+| **Ruan Ji** | Reconsider inherited social roles and evaluation scripts | [ruan-ji-conformity-skill](https://github.com/constantin2088/ruan-ji-conformity-skill) | Published |
+| **Ge Hong** | Compare diverse knowledge without erasing disagreement | [ge-hong-breadth-skill](https://github.com/constantin2088/ge-hong-breadth-skill) | Published |
+| **Chen Liang** | Distinguish nominal resources from usable capability | [chen-liang-capability-skill](https://github.com/constantin2088/chen-liang-capability-skill) | Published |
+| **Hong Liangji** | Compare demand growth, supply and distribution gaps | [hong-liangji-resources-skill](https://github.com/constantin2088/hong-liangji-resources-skill) | Published |
+| **Li Yu** | Match designs to real use and physical constraints | [li-yu-usability-skill](https://github.com/constantin2088/li-yu-usability-skill) | Published |
+| **Yuan Mei** | Develop style from concrete feeling and subject matter | [yuan-mei-expression-skill](https://github.com/constantin2088/yuan-mei-expression-skill) | Published |
+| **Confucius** | Turn reading notes into actions and reliable commitments | [confucius-learning-skill](https://github.com/constantin2088/confucius-learning-skill) | Published |
+| **Mencius** | Translate values into choices with clear boundaries | [mencius-values-skill](https://github.com/constantin2088/mencius-values-skill) | Published |
+| **Xunzi** | Design practice environments that sustain learning | [xunzi-deliberate-learning-skill](https://github.com/constantin2088/xunzi-deliberate-learning-skill) | Published |
+| **Laozi** | Reduce unnecessary process and control costs | [laozi-low-intervention-skill](https://github.com/constantin2088/laozi-low-intervention-skill) | Published |
+| **Zhuangzi** | Compare perspectives beyond a single metric | [zhuangzi-perspective-skill](https://github.com/constantin2088/zhuangzi-perspective-skill) | Published |
+| **Mozi** | Evaluate people through capability and resource effects | [mozi-merit-skill](https://github.com/constantin2088/mozi-merit-skill) | Published |
+| **Han Fei** | Audit incentives, gaming and divided responsibility | [han-fei-incentives-skill](https://github.com/constantin2088/han-fei-incentives-skill) | Published |
+| **Sun Tzu** | Compare civilian project options and opportunity costs | [sun-tzu-strategy-skill](https://github.com/constantin2088/sun-tzu-strategy-skill) | Published |
+| **Sun Bin** | Reallocate resources according to actual conditions | [sun-bin-matching-skill](https://github.com/constantin2088/sun-bin-matching-skill) | Published |
+| **Guan Zhong** | Repair operating foundations before changing incentives | [guan-zhong-foundations-skill](https://github.com/constantin2088/guan-zhong-foundations-skill) | Published |
+| **Shang Yang** | Review reform costs and legitimate objections | [shang-yang-reform-skill](https://github.com/constantin2088/shang-yang-reform-skill) | Published |
+| **Guiguzi** | Listen for evidence before persuading or negotiating | [guiguzi-listening-skill](https://github.com/constantin2088/guiguzi-listening-skill) | Published |
+| **Dong Zhongshu** | Trace failures to governance responsibilities | [dong-zhongshu-accountability-skill](https://github.com/constantin2088/dong-zhongshu-accountability-skill) | Published |
+| **Jia Yi** | Reserve resources for unexpected demand | [jia-yi-reserves-skill](https://github.com/constantin2088/jia-yi-reserves-skill) | Published |
+| **Sima Qian** | Write history with explicit evidence and uncertainty | [sima-qian-history-skill](https://github.com/constantin2088/sima-qian-history-skill) | Published |
+| **Ban Gu** | Make classification boundaries visible | [ban-gu-categories-skill](https://github.com/constantin2088/ban-gu-categories-skill) | Published |
+| **Zhuge Liang** | Build a sustainable focus and learning plan | [zhuge-liang-focus-skill](https://github.com/constantin2088/zhuge-liang-focus-skill) | Published |
+| **Liu Yuxi** | Separate fixed conditions from room for action | [liu-yuxi-agency-skill](https://github.com/constantin2088/liu-yuxi-agency-skill) | Published |
+| **Bai Juyi** | Make writing respond to a concrete problem | [bai-juyi-purpose-skill](https://github.com/constantin2088/bai-juyi-purpose-skill) | Published |
+| **Su Shi** | Test whether explanations transfer into practice | [su-shi-understanding-skill](https://github.com/constantin2088/su-shi-understanding-skill) | Published |
+| **Zhu Xi** | Read passages carefully and check interpretations | [zhu-xi-close-reading-skill](https://github.com/constantin2088/zhu-xi-close-reading-skill) | Published |
+| **Lu Jiuyuan** | Examine the motives behind stated goals | [lu-jiuyuan-intentions-skill](https://github.com/constantin2088/lu-jiuyuan-intentions-skill) | Published |
+| **Wang Yangming** | Turn claimed knowledge into observed action | [wang-yangming-action-skill](https://github.com/constantin2088/wang-yangming-action-skill) | Published |
+| **Zeng Guofan** | Build sustainable routines with recovery mechanisms | [zeng-guofan-routines-skill](https://github.com/constantin2088/zeng-guofan-routines-skill) | Published |
+| **Hui Shi** | Find shifting definitions and scales in disputes | [hui-shi-definitions-skill](https://github.com/constantin2088/hui-shi-definitions-skill) | Published |
+| **Zhang Zhidong** | Separate enduring purposes from imported methods | [zhang-zhidong-adaptation-skill](https://github.com/constantin2088/zhang-zhidong-adaptation-skill) | Published |
+| **Hu Shi** | Turn slogans into falsifiable research questions | [hu-shi-hypotheses-skill](https://github.com/constantin2088/hu-shi-hypotheses-skill) | Published |
+| **Lu Xun** | Distinguish useful practices from harmful baggage | [lu-xun-selective-learning-skill](https://github.com/constantin2088/lu-xun-selective-learning-skill) | Published |
+| **Chen Duxiu** | Test independent claims for practical validity | [chen-duxiu-independent-thinking-skill](https://github.com/constantin2088/chen-duxiu-independent-thinking-skill) | Published |
+| **Li Dazhao** | Connect future aspirations with present actions | [li-dazhao-present-action-skill](https://github.com/constantin2088/li-dazhao-present-action-skill) | Published |
+| **Mao Zedong** | Investigate first and keep a traceable fact ledger | [mao-zedong-investigation-skill](https://github.com/constantin2088/mao-zedong-investigation-skill) | Published |
+| **Zhou Enlai** | Clarify public duties and private interests | [zhou-enlai-public-duty-skill](https://github.com/constantin2088/zhou-enlai-public-duty-skill) | Published |
+| **Deng Xiaoping** | Test small changes against evidence before expanding | [deng-xiaoping-fact-based-pilots-skill](https://github.com/constantin2088/deng-xiaoping-fact-based-pilots-skill) | Published |
+| **Sun Yat Sen** | Separate preparation, knowledge and execution | [sun-yat-sen-preparation-skill](https://github.com/constantin2088/sun-yat-sen-preparation-skill) | Published |
+| **Huang Yanpei** | Connect learning to actual vocational tasks | [huang-yanpei-vocational-fit-skill](https://github.com/constantin2088/huang-yanpei-vocational-fit-skill) | Published |
+| **Wang Guowei** | Ground aesthetic scenes in textual details | [wang-guowei-aesthetic-scenes-skill](https://github.com/constantin2088/wang-guowei-aesthetic-scenes-skill) | Published |
+| **Lin Yutang** | Use humor without losing kindness or respect | [lin-yutang-kind-humor-skill](https://github.com/constantin2088/lin-yutang-kind-humor-skill) | Published |
+| **Qian Zhongshu** | Establish comparability before comparing texts | [qian-zhongshu-comparative-reading-skill](https://github.com/constantin2088/qian-zhongshu-comparative-reading-skill) | Published |
+| **Yang Jiang** | Write restrained narratives with facts and warmth | [yang-jiang-restrained-narrative-skill](https://github.com/constantin2088/yang-jiang-restrained-narrative-skill) | Published |
+| **Chen Heqin** | Design learning through life-based activities | [chen-heqin-active-curriculum-skill](https://github.com/constantin2088/chen-heqin-active-curriculum-skill) | Published |
+| **Zhang Boling** | Connect service purposes with capability evidence | [zhang-boling-service-capability-skill](https://github.com/constantin2088/zhang-boling-service-capability-skill) | Published |
+| **Xiong Shili** | Examine how principles appear in actual practice | [xiong-shili-principles-in-use-skill](https://github.com/constantin2088/xiong-shili-principles-in-use-skill) | Published |
+| **Mou Zongsan** | Separate value judgments from specialist knowledge | [mou-zongsan-judgment-boundaries-skill](https://github.com/constantin2088/mou-zongsan-judgment-boundaries-skill) | Published |
+| **Tang Junyi** | Preserve multiple perspectives in cultural dialogue | [tang-junyi-cultural-dialogue-skill](https://github.com/constantin2088/tang-junyi-cultural-dialogue-skill) | Published |
+| **Ji Xianlin** | Understand materials before cross-cultural borrowing | [ji-xianlin-cultural-learning-skill](https://github.com/constantin2088/ji-xianlin-cultural-learning-skill) | Published |
+| **Nan Huaijin** | Check classical commentary against its sources | [nan-huaijin-classics-check-skill](https://github.com/constantin2088/nan-huaijin-classics-check-skill) | Published |
+| **Qian Xuesen** | Combine expert views and data into testable plans | [qian-xuesen-system-synthesis-skill](https://github.com/constantin2088/qian-xuesen-system-synthesis-skill) | Published |
+| **Ma Yinchu** | Compare population and resources on consistent scales | [ma-yinchu-resource-scenarios-skill](https://github.com/constantin2088/ma-yinchu-resource-scenarios-skill) | Published |
+| **Wu Jinglian** | Review competition rules before judging efficiency | [wu-jinglian-competition-rules-skill](https://github.com/constantin2088/wu-jinglian-competition-rules-skill) | Published |
+| **Li Zehou** | Explain aesthetic experience through historical conditions | [li-zehou-aesthetic-context-skill](https://github.com/constantin2088/li-zehou-aesthetic-context-skill) | Published |
+
+</details>
+
+<details>
+<summary>Individual install commands</summary>
+
 
 Only published entries are installable.
 
@@ -249,34 +292,39 @@ npx skills add constantin2088/ma-yinchu-resource-scenarios-skill
 npx skills add constantin2088/wu-jinglian-competition-rules-skill
 npx skills add constantin2088/li-zehou-aesthetic-context-skill
 ```
+
+</details>
 <!-- CATALOG:END -->
 
-## Installation
+## What makes these methods useful
 
-```bash
-npx skills add constantin2088/liang-qichao-skill
-```
+- **Concrete artifacts:** ordered workflows, worksheets and examples that make the next step visible.
+- **Traceable evidence:** source notes identify passages, translations, research commentary and the scope actually reviewed.
+- **Distinct methods:** action acceptance, hypothesis testing and historical cross-checking produce different reasoning artifacts.
+- **Explicit limits:** modern workflows are project interpretations; historical figures are not presented as authorities on events they never experienced.
 
-Sample prompt:
+Skill instructions and worked examples are primarily in Chinese. The catalog provides English task descriptions for discovery; English client behavior has not been separately evaluated.
 
-> Use the Liang Qichao skill to examine whether AI is changing the underlying rules of my profession. Separate durable advantages from obsolete habits and propose a reversible 60-day experiment.
+## Current status
 
-Runtime behavior differs across agents; see [installation notes](docs/installation.md).
+**100 public thinker Skills. Direct repository installation, without GitHub Releases. Further character expansion is paused while we improve real use and feedback.**
 
-## Our standards
+The latest 50 additions have 550 passing local deterministic unit tests and 500 defined model behavior cases. **Independent-client model behavior evaluations have not been executed.** CI and installation discovery do not establish model quality or long-term results; older cases are reviewed separately.
 
-- Distinguish **historical fact / documented view / project interpretation / modern transfer**.
-- Avoid invented quotations and statements on posthumous events.
-- Never claim a thought framework applies to every problem.
-- Prefer transparent methods over stylistic imitation.
-- Evaluate on realistic tasks and adverse test cases.
-- Respect copyright and modern professional / political boundaries.
+[Quality standard](QUALITY_STANDARD.md) · [Roadmap](ROADMAP.md) · [Selection and source scope](docs/selection-famous-fifty-2026-10-10.md).
 
-Read the [quality standard](QUALITY_STANDARD.md) and [roadmap](ROADMAP.md). Contributions are welcome: [CONTRIBUTING.md](CONTRIBUTING.md).
+## One catalog, connected repositories
 
-**MIT licensed** · Maintained by [@constantin2088](https://github.com/constantin2088).
-Series links and repository metadata derive from catalog/skills.json; see [automation](docs/series-automation.md).
+[catalog/skills.json](catalog/skills.json) supplies publication status, task descriptions, six discovery paths and recommendation order. Generated README blocks preserve each repository's original text. Each thinker has a series mark, backlink, three related methods and a collapsed complete list. About metadata is synchronized during publishing; the [developer template](https://github.com/constantin2088/thinkers-skill-template) inherits the association.
 
-The initial part of this expansion brought the series to 80 public Skills, installed directly from repositories without GitHub Releases. The thirty added in this expansion have 330 passing local deterministic unit tests and 300 defined behavior cases; independent-client model behavior evaluations have not been executed. CI and installation discovery do not establish model quality. [Selection scope and differentiation](docs/selection-famous-thirty-2026-10-11.md).
+[Automation details](docs/series-automation.md).
 
-The series now contains 100 public Skills, installed directly from repositories without GitHub Releases. The fifty added in this expansion have 550 passing local deterministic unit tests and 500 defined behavior cases; independent-client model behavior evaluations have not been executed. CI and installation discovery do not establish model quality. [Selection scope and differentiation](docs/selection-famous-fifty-2026-10-10.md).
+## Help improve a method
+
+If a method is useful, ⭐ star the index so you can find it again. A concrete failure report is even more useful: [share a task](https://github.com/constantin2088/chinese-thinkers-skills/issues/new?template=task-feedback.yml) or [correct a source](https://github.com/constantin2088/chinese-thinkers-skills/issues/new?template=quality-bug.yml). Include the Skill, client, input, output and failure point; remove private data first. New thinker proposals remain a backlog during this quality phase.
+
+[Contributing](CONTRIBUTING.md) · [Code of conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md).
+
+A [1280×640 share card](assets/social-preview.png) is available when you introduce the collection to someone else. Link to this index so they can choose by task.
+
+Original project material is [MIT licensed](LICENSE); linked third-party works retain their own rights. Independent project, with no endorsement claimed from historical figures, families or institutions. Maintainer: [@constantin2088](https://github.com/constantin2088).

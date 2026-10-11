@@ -25,3 +25,12 @@ for item in records:
 for name in ('README.md','README.en.md','QUALITY_STANDARD.md','ROADMAP.md','assets/banner.svg'):
     assert (ROOT/name).exists(),name
 print('OK:',len(records),'unique thinkers and essential files')
+
+paths=[p['id'] for p in catalog.get('discovery_paths',[])]
+if paths:
+    assert len(paths)==len(set(paths)), 'Duplicate discovery path'
+    for p in catalog['discovery_paths']:
+        assert all(p.get(k) for k in ('name_zh','name_en','question_zh','question_en')),p
+    for s in records:
+        assert s.get('discovery_path') in paths,s
+        assert s.get('focus_en'),s

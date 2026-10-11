@@ -17,7 +17,7 @@ jobs:
       - run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md README.en.md
+          git add README.md README.en.md docs/choose-a-skill.md
           if ! git diff --cached --quiet; then
             git commit -m 'Generate catalog from skills.json'
             git push

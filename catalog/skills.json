@@ -13,7 +13,9 @@
       "topics": [
         "strategy",
         "liang-qichao-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Assess changing conditions and update capabilities"
     },
     {
       "id": "ye-maozhong-skill",
@@ -26,7 +28,9 @@
         "marketing",
         "ye-maozhong-skill"
       ],
-      "repo": "constantin2088/ye-maozhong-skill"
+      "repo": "constantin2088/ye-maozhong-skill",
+      "discovery_path": "organizations",
+      "focus_en": "Find customer conflicts and design marketing experiments"
     },
     {
       "id": "chen-yinke-research-skill",
@@ -39,7 +43,9 @@
         "research",
         "chen-yinke-research-skill"
       ],
-      "repo": "constantin2088/chen-yinke-research-skill"
+      "repo": "constantin2088/chen-yinke-research-skill",
+      "discovery_path": "research",
+      "focus_en": "Cross-check historical sources and separate evidence levels"
     },
     {
       "id": "cai-yuanpei-skill",
@@ -52,7 +58,9 @@
         "collaboration",
         "cai-yuanpei-skill"
       ],
-      "repo": "constantin2088/cai-yuanpei-skill"
+      "repo": "constantin2088/cai-yuanpei-skill",
+      "discovery_path": "organizations",
+      "focus_en": "Coordinate disagreement and plural perspectives"
     },
     {
       "id": "song-zhiping-management-skill",
@@ -65,7 +73,9 @@
         "management",
         "song-zhiping-management-skill"
       ],
-      "repo": "constantin2088/song-zhiping-management-skill"
+      "repo": "constantin2088/song-zhiping-management-skill",
+      "discovery_path": "organizations",
+      "focus_en": "Improve operating decisions and organizational efficiency"
     },
     {
       "id": "xu-zhuoyun-systems-skill",
@@ -78,7 +88,9 @@
         "systems",
         "xu-zhuoyun-systems-skill"
       ],
-      "repo": "constantin2088/xu-zhuoyun-systems-skill"
+      "repo": "constantin2088/xu-zhuoyun-systems-skill",
+      "discovery_path": "decisions",
+      "focus_en": "Trace structures and long-term system changes"
     },
     {
       "id": "fei-xiaotong-fieldwork-skill",
@@ -91,7 +103,9 @@
       "topics": [
         "fieldwork",
         "fei-xiaotong-fieldwork-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Plan field interviews and examine relationship contexts"
     },
     {
       "id": "tao-xingzhi-learning-skill",
@@ -104,7 +118,9 @@
       "topics": [
         "learning",
         "tao-xingzhi-learning-skill"
-      ]
+      ],
+      "discovery_path": "learning",
+      "focus_en": "Learn through real tasks and independent transfer"
     },
     {
       "id": "yan-fu-translation-skill",
@@ -117,7 +133,9 @@
       "topics": [
         "translation",
         "yan-fu-translation-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Translate concepts without changing their claims"
     },
     {
       "id": "huang-zongxi-governance-skill",
@@ -130,7 +148,9 @@
       "topics": [
         "governance",
         "huang-zongxi-governance-skill"
-      ]
+      ],
+      "discovery_path": "organizations",
+      "focus_en": "Review accountability and independent oversight"
     },
     {
       "id": "gu-yanwu-practical-skill",
@@ -143,7 +163,9 @@
       "topics": [
         "practical-research",
         "gu-yanwu-practical-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Research practical problems and evidence gaps"
     },
     {
       "id": "zhang-zai-responsibility-skill",
@@ -156,7 +178,9 @@
       "topics": [
         "ethics",
         "zhang-zai-responsibility-skill"
-      ]
+      ],
+      "discovery_path": "reflection",
+      "focus_en": "Map shared responsibility and care burdens"
     },
     {
       "id": "dai-zhen-concepts-skill",
@@ -169,7 +193,9 @@
       "topics": [
         "concept-analysis",
         "dai-zhen-concepts-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Distinguish concepts from actual human burdens"
     },
     {
       "id": "wang-chong-skepticism-skill",
@@ -182,7 +208,9 @@
       "topics": [
         "critical-thinking",
         "wang-chong-skepticism-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Challenge authority with logic and testable counterexamples"
     },
     {
       "id": "zhang-xuecheng-documentation-skill",
@@ -195,7 +223,9 @@
       "topics": [
         "documentation",
         "zhang-xuecheng-documentation-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Explain documentary purpose and editorial choices"
     },
     {
       "id": "fu-sinian-evidence-skill",
@@ -208,7 +238,9 @@
       "topics": [
         "research-planning",
         "fu-sinian-evidence-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Plan evidence collection and research tools"
     },
     {
       "id": "qian-mu-context-skill",
@@ -221,7 +253,9 @@
       "topics": [
         "historical-context",
         "qian-mu-context-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Explain institutions in their historical context"
     },
     {
       "id": "liang-shuming-community-skill",
@@ -234,7 +268,9 @@
       "topics": [
         "community-development",
         "liang-shuming-community-skill"
-      ]
+      ],
+      "discovery_path": "organizations",
+      "focus_en": "Design gradual community cooperation experiments"
     },
     {
       "id": "yan-yangchu-education-skill",
@@ -247,7 +283,9 @@
       "topics": [
         "community-education",
         "yan-yangchu-education-skill"
-      ]
+      ],
+      "discovery_path": "learning",
+      "focus_en": "Connect literacy, livelihood and civic participation"
     },
     {
       "id": "ye-shengtao-writing-skill",
@@ -260,7 +298,9 @@
       "topics": [
         "writing",
         "ye-shengtao-writing-skill"
-      ]
+      ],
+      "discovery_path": "expression",
+      "focus_en": "Revise writing to match what you really mean"
     },
     {
       "id": "zhu-guangqian-aesthetics-skill",
@@ -273,7 +313,9 @@
       "topics": [
         "aesthetics",
         "zhu-guangqian-aesthetics-skill"
-      ]
+      ],
+      "discovery_path": "expression",
+      "focus_en": "Ground aesthetic judgments in concrete observations"
     },
     {
       "id": "zong-baihua-artistic-skill",
@@ -286,7 +328,9 @@
       "topics": [
         "artistic-design",
         "zong-baihua-artistic-skill"
-      ]
+      ],
+      "discovery_path": "expression",
+      "focus_en": "Examine atmosphere, space and viewing rhythm"
     },
     {
       "id": "liu-xie-composition-skill",
@@ -299,7 +343,9 @@
       "topics": [
         "composition",
         "liu-xie-composition-skill"
-      ]
+      ],
+      "discovery_path": "expression",
+      "focus_en": "Organize purpose, material and narrative structure"
     },
     {
       "id": "liu-zhiji-narrative-skill",
@@ -312,7 +358,9 @@
       "topics": [
         "narrative-audit",
         "liu-zhiji-narrative-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Audit omissions and judgments in narratives"
     },
     {
       "id": "shen-kuo-observation-skill",
@@ -325,7 +373,9 @@
       "topics": [
         "observation",
         "shen-kuo-observation-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Test observations against conditions and measurement errors"
     },
     {
       "id": "song-yingxing-process-skill",
@@ -338,7 +388,9 @@
       "topics": [
         "process-design",
         "song-yingxing-process-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Map materials, tools, processes and losses"
     },
     {
       "id": "xu-guangqi-adaptation-skill",
@@ -351,7 +403,9 @@
       "topics": [
         "knowledge-adaptation",
         "xu-guangqi-adaptation-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Adapt outside knowledge through small local trials"
     },
     {
       "id": "feng-youlan-reflection-skill",
@@ -364,7 +418,9 @@
       "topics": [
         "reflection",
         "feng-youlan-reflection-skill"
-      ]
+      ],
+      "discovery_path": "reflection",
+      "focus_en": "Reflect on motives and shared interests"
     },
     {
       "id": "zheng-guanying-commerce-skill",
@@ -377,7 +433,9 @@
       "topics": [
         "industrial-strategy",
         "zheng-guanying-commerce-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Compare industrial capabilities and priorities"
     },
     {
       "id": "yan-yuan-practice-skill",
@@ -390,7 +448,9 @@
       "topics": [
         "practice",
         "yan-yuan-practice-skill"
-      ]
+      ],
+      "discovery_path": "learning",
+      "focus_en": "Verify learning through independent performance"
     },
     {
       "id": "wang-fuzhi-context-skill",
@@ -403,7 +463,9 @@
       "topics": [
         "contextual-reasoning",
         "wang-fuzhi-context-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Check the conditions behind historical analogies"
     },
     {
       "id": "gong-zizhen-talent-skill",
@@ -416,7 +478,9 @@
       "topics": [
         "talent-systems",
         "gong-zizhen-talent-skill"
-      ]
+      ],
+      "discovery_path": "organizations",
+      "focus_en": "Review talent diversity and narrow selection standards"
     },
     {
       "id": "wei-yuan-benchmark-skill",
@@ -429,7 +493,9 @@
       "topics": [
         "benchmarking",
         "wei-yuan-benchmark-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Compare outside practices before adopting them"
     },
     {
       "id": "kang-youwei-utopia-skill",
@@ -442,7 +508,9 @@
       "topics": [
         "institutional-design",
         "kang-youwei-utopia-skill"
-      ]
+      ],
+      "discovery_path": "organizations",
+      "focus_en": "Pressure-test institutional visions and transition costs"
     },
     {
       "id": "tan-sitong-barriers-skill",
@@ -455,7 +523,9 @@
       "topics": [
         "accessibility",
         "tan-sitong-barriers-skill"
-      ]
+      ],
+      "discovery_path": "organizations",
+      "focus_en": "Examine barriers to voice, access and exit"
     },
     {
       "id": "zhang-taiyan-terms-skill",
@@ -468,7 +538,9 @@
       "topics": [
         "historical-semantics",
         "zhang-taiyan-terms-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Trace terms across historical and translation contexts"
     },
     {
       "id": "li-zhi-authenticity-skill",
@@ -481,7 +553,9 @@
       "topics": [
         "authentic-expression",
         "li-zhi-authenticity-skill"
-      ]
+      ],
+      "discovery_path": "expression",
+      "focus_en": "Separate lived experience from borrowed rhetoric"
     },
     {
       "id": "wang-anshi-change-skill",
@@ -494,7 +568,9 @@
       "topics": [
         "change-design",
         "wang-anshi-change-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Review reform authority, burdens and objections"
     },
     {
       "id": "sima-guang-restraint-skill",
@@ -507,7 +583,9 @@
       "topics": [
         "resource-restraint",
         "sima-guang-restraint-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Control recurring spending and resource commitments"
     },
     {
       "id": "su-xun-concessions-skill",
@@ -520,7 +598,9 @@
       "topics": [
         "concession-analysis",
         "su-xun-concessions-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Calculate cumulative costs of repeated concessions"
     },
     {
       "id": "ouyang-xiu-coalitions-skill",
@@ -533,7 +613,9 @@
       "topics": [
         "coalition-review",
         "ouyang-xiu-coalitions-skill"
-      ]
+      ],
+      "discovery_path": "organizations",
+      "focus_en": "Review coalition interests and durable cooperation"
     },
     {
       "id": "han-yu-mentorship-skill",
@@ -546,7 +628,9 @@
       "topics": [
         "mentorship",
         "han-yu-mentorship-skill"
-      ]
+      ],
+      "discovery_path": "learning",
+      "focus_en": "Match questions with mentors and test transfer"
     },
     {
       "id": "liu-zongyuan-intervention-skill",
@@ -559,7 +643,9 @@
       "topics": [
         "intervention-design",
         "liu-zongyuan-intervention-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Reduce harmful intervention while preserving support"
     },
     {
       "id": "ji-kang-boundaries-skill",
@@ -572,7 +658,9 @@
       "topics": [
         "role-boundaries",
         "ji-kang-boundaries-skill"
-      ]
+      ],
+      "discovery_path": "reflection",
+      "focus_en": "State role boundaries and practical alternatives"
     },
     {
       "id": "ruan-ji-conformity-skill",
@@ -585,7 +673,9 @@
       "topics": [
         "social-scripts",
         "ruan-ji-conformity-skill"
-      ]
+      ],
+      "discovery_path": "reflection",
+      "focus_en": "Reconsider inherited social roles and evaluation scripts"
     },
     {
       "id": "ge-hong-breadth-skill",
@@ -598,7 +688,9 @@
       "topics": [
         "knowledge-synthesis",
         "ge-hong-breadth-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Compare diverse knowledge without erasing disagreement"
     },
     {
       "id": "chen-liang-capability-skill",
@@ -611,7 +703,9 @@
       "topics": [
         "capability-audit",
         "chen-liang-capability-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Distinguish nominal resources from usable capability"
     },
     {
       "id": "hong-liangji-resources-skill",
@@ -624,7 +718,9 @@
       "topics": [
         "resource-demand",
         "hong-liangji-resources-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Compare demand growth, supply and distribution gaps"
     },
     {
       "id": "li-yu-usability-skill",
@@ -637,7 +733,9 @@
       "topics": [
         "usability",
         "li-yu-usability-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Match designs to real use and physical constraints"
     },
     {
       "id": "yuan-mei-expression-skill",
@@ -650,7 +748,9 @@
       "topics": [
         "creative-judgment",
         "yuan-mei-expression-skill"
-      ]
+      ],
+      "discovery_path": "expression",
+      "focus_en": "Develop style from concrete feeling and subject matter"
     },
     {
       "id": "confucius-learning-skill",
@@ -664,7 +764,9 @@
         "learning-transfer",
         "confucius-learning-skill"
       ],
-      "discovery_rank": 1
+      "discovery_rank": 1,
+      "discovery_path": "learning",
+      "focus_en": "Turn reading notes into actions and reliable commitments"
     },
     {
       "id": "mencius-values-skill",
@@ -677,7 +779,9 @@
       "topics": [
         "values-in-action",
         "mencius-values-skill"
-      ]
+      ],
+      "discovery_path": "reflection",
+      "focus_en": "Translate values into choices with clear boundaries"
     },
     {
       "id": "xunzi-deliberate-learning-skill",
@@ -690,7 +794,9 @@
       "topics": [
         "learning-design",
         "xunzi-deliberate-learning-skill"
-      ]
+      ],
+      "discovery_path": "learning",
+      "focus_en": "Design practice environments that sustain learning"
     },
     {
       "id": "laozi-low-intervention-skill",
@@ -704,7 +810,9 @@
         "minimal-intervention",
         "laozi-low-intervention-skill"
       ],
-      "discovery_rank": 3
+      "discovery_rank": 3,
+      "discovery_path": "decisions",
+      "focus_en": "Reduce unnecessary process and control costs"
     },
     {
       "id": "zhuangzi-perspective-skill",
@@ -718,7 +826,9 @@
         "perspective-shifting",
         "zhuangzi-perspective-skill"
       ],
-      "discovery_rank": 4
+      "discovery_rank": 4,
+      "discovery_path": "reflection",
+      "focus_en": "Compare perspectives beyond a single metric"
     },
     {
       "id": "mozi-merit-skill",
@@ -731,7 +841,9 @@
       "topics": [
         "merit-review",
         "mozi-merit-skill"
-      ]
+      ],
+      "discovery_path": "organizations",
+      "focus_en": "Evaluate people through capability and resource effects"
     },
     {
       "id": "han-fei-incentives-skill",
@@ -744,7 +856,9 @@
       "topics": [
         "incentive-audit",
         "han-fei-incentives-skill"
-      ]
+      ],
+      "discovery_path": "organizations",
+      "focus_en": "Audit incentives, gaming and divided responsibility"
     },
     {
       "id": "sun-tzu-strategy-skill",
@@ -758,7 +872,9 @@
         "strategy-options",
         "sun-tzu-strategy-skill"
       ],
-      "discovery_rank": 2
+      "discovery_rank": 2,
+      "discovery_path": "decisions",
+      "focus_en": "Compare civilian project options and opportunity costs"
     },
     {
       "id": "sun-bin-matching-skill",
@@ -771,7 +887,9 @@
       "topics": [
         "resource-matching",
         "sun-bin-matching-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Reallocate resources according to actual conditions"
     },
     {
       "id": "guan-zhong-foundations-skill",
@@ -784,7 +902,9 @@
       "topics": [
         "operating-foundations",
         "guan-zhong-foundations-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Repair operating foundations before changing incentives"
     },
     {
       "id": "shang-yang-reform-skill",
@@ -797,7 +917,9 @@
       "topics": [
         "reform-review",
         "shang-yang-reform-skill"
-      ]
+      ],
+      "discovery_path": "organizations",
+      "focus_en": "Review reform costs and legitimate objections"
     },
     {
       "id": "guiguzi-listening-skill",
@@ -810,7 +932,9 @@
       "topics": [
         "listening-negotiation",
         "guiguzi-listening-skill"
-      ]
+      ],
+      "discovery_path": "organizations",
+      "focus_en": "Listen for evidence before persuading or negotiating"
     },
     {
       "id": "dong-zhongshu-accountability-skill",
@@ -823,7 +947,9 @@
       "topics": [
         "governance-responsibility",
         "dong-zhongshu-accountability-skill"
-      ]
+      ],
+      "discovery_path": "organizations",
+      "focus_en": "Trace failures to governance responsibilities"
     },
     {
       "id": "jia-yi-reserves-skill",
@@ -836,7 +962,9 @@
       "topics": [
         "resilience-planning",
         "jia-yi-reserves-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Reserve resources for unexpected demand"
     },
     {
       "id": "sima-qian-history-skill",
@@ -849,7 +977,9 @@
       "topics": [
         "historical-narrative",
         "sima-qian-history-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Write history with explicit evidence and uncertainty"
     },
     {
       "id": "ban-gu-categories-skill",
@@ -862,7 +992,9 @@
       "topics": [
         "classification-review",
         "ban-gu-categories-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Make classification boundaries visible"
     },
     {
       "id": "zhuge-liang-focus-skill",
@@ -876,7 +1008,9 @@
         "focus-planning",
         "zhuge-liang-focus-skill"
       ],
-      "discovery_rank": 11
+      "discovery_rank": 11,
+      "discovery_path": "learning",
+      "focus_en": "Build a sustainable focus and learning plan"
     },
     {
       "id": "liu-yuxi-agency-skill",
@@ -889,7 +1023,9 @@
       "topics": [
         "agency-analysis",
         "liu-yuxi-agency-skill"
-      ]
+      ],
+      "discovery_path": "reflection",
+      "focus_en": "Separate fixed conditions from room for action"
     },
     {
       "id": "bai-juyi-purpose-skill",
@@ -902,7 +1038,9 @@
       "topics": [
         "purposeful-writing",
         "bai-juyi-purpose-skill"
-      ]
+      ],
+      "discovery_path": "expression",
+      "focus_en": "Make writing respond to a concrete problem"
     },
     {
       "id": "su-shi-understanding-skill",
@@ -916,7 +1054,9 @@
         "understanding-transfer",
         "su-shi-understanding-skill"
       ],
-      "discovery_rank": 9
+      "discovery_rank": 9,
+      "discovery_path": "learning",
+      "focus_en": "Test whether explanations transfer into practice"
     },
     {
       "id": "zhu-xi-close-reading-skill",
@@ -929,7 +1069,9 @@
       "topics": [
         "close-reading",
         "zhu-xi-close-reading-skill"
-      ]
+      ],
+      "discovery_path": "learning",
+      "focus_en": "Read passages carefully and check interpretations"
     },
     {
       "id": "lu-jiuyuan-intentions-skill",
@@ -942,7 +1084,9 @@
       "topics": [
         "intentions-review",
         "lu-jiuyuan-intentions-skill"
-      ]
+      ],
+      "discovery_path": "reflection",
+      "focus_en": "Examine the motives behind stated goals"
     },
     {
       "id": "wang-yangming-action-skill",
@@ -956,7 +1100,9 @@
         "action-learning",
         "wang-yangming-action-skill"
       ],
-      "discovery_rank": 5
+      "discovery_rank": 5,
+      "discovery_path": "learning",
+      "focus_en": "Turn claimed knowledge into observed action"
     },
     {
       "id": "zeng-guofan-routines-skill",
@@ -970,7 +1116,9 @@
         "sustainable-routines",
         "zeng-guofan-routines-skill"
       ],
-      "discovery_rank": 12
+      "discovery_rank": 12,
+      "discovery_path": "learning",
+      "focus_en": "Build sustainable routines with recovery mechanisms"
     },
     {
       "id": "hui-shi-definitions-skill",
@@ -983,7 +1131,9 @@
       "topics": [
         "definition-testing",
         "hui-shi-definitions-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Find shifting definitions and scales in disputes"
     },
     {
       "id": "zhang-zhidong-adaptation-skill",
@@ -996,7 +1146,9 @@
       "topics": [
         "method-adaptation",
         "zhang-zhidong-adaptation-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Separate enduring purposes from imported methods"
     },
     {
       "id": "hu-shi-hypotheses-skill",
@@ -1010,7 +1162,9 @@
         "hypothesis-review",
         "hu-shi-hypotheses-skill"
       ],
-      "discovery_rank": 10
+      "discovery_rank": 10,
+      "discovery_path": "research",
+      "focus_en": "Turn slogans into falsifiable research questions"
     },
     {
       "id": "lu-xun-selective-learning-skill",
@@ -1024,7 +1178,9 @@
         "selective-learning",
         "lu-xun-selective-learning-skill"
       ],
-      "discovery_rank": 6
+      "discovery_rank": 6,
+      "discovery_path": "research",
+      "focus_en": "Distinguish useful practices from harmful baggage"
     },
     {
       "id": "chen-duxiu-independent-thinking-skill",
@@ -1037,7 +1193,9 @@
       "topics": [
         "independent-thinking",
         "chen-duxiu-independent-thinking-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Test independent claims for practical validity"
     },
     {
       "id": "li-dazhao-present-action-skill",
@@ -1050,7 +1208,9 @@
       "topics": [
         "future-present",
         "li-dazhao-present-action-skill"
-      ]
+      ],
+      "discovery_path": "learning",
+      "focus_en": "Connect future aspirations with present actions"
     },
     {
       "id": "mao-zedong-investigation-skill",
@@ -1064,7 +1224,9 @@
         "field-investigation",
         "mao-zedong-investigation-skill"
       ],
-      "discovery_rank": 7
+      "discovery_rank": 7,
+      "discovery_path": "research",
+      "focus_en": "Investigate first and keep a traceable fact ledger"
     },
     {
       "id": "zhou-enlai-public-duty-skill",
@@ -1077,7 +1239,9 @@
       "topics": [
         "public-duty",
         "zhou-enlai-public-duty-skill"
-      ]
+      ],
+      "discovery_path": "organizations",
+      "focus_en": "Clarify public duties and private interests"
     },
     {
       "id": "deng-xiaoping-fact-based-pilots-skill",
@@ -1090,7 +1254,9 @@
       "topics": [
         "fact-based-pilots",
         "deng-xiaoping-fact-based-pilots-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Test small changes against evidence before expanding"
     },
     {
       "id": "sun-yat-sen-preparation-skill",
@@ -1103,7 +1269,9 @@
       "topics": [
         "prepared-action",
         "sun-yat-sen-preparation-skill"
-      ]
+      ],
+      "discovery_path": "learning",
+      "focus_en": "Separate preparation, knowledge and execution"
     },
     {
       "id": "huang-yanpei-vocational-fit-skill",
@@ -1116,7 +1284,9 @@
       "topics": [
         "vocational-fit",
         "huang-yanpei-vocational-fit-skill"
-      ]
+      ],
+      "discovery_path": "learning",
+      "focus_en": "Connect learning to actual vocational tasks"
     },
     {
       "id": "wang-guowei-aesthetic-scenes-skill",
@@ -1129,7 +1299,9 @@
       "topics": [
         "aesthetic-scenes",
         "wang-guowei-aesthetic-scenes-skill"
-      ]
+      ],
+      "discovery_path": "expression",
+      "focus_en": "Ground aesthetic scenes in textual details"
     },
     {
       "id": "lin-yutang-kind-humor-skill",
@@ -1142,7 +1314,9 @@
       "topics": [
         "kind-humor",
         "lin-yutang-kind-humor-skill"
-      ]
+      ],
+      "discovery_path": "expression",
+      "focus_en": "Use humor without losing kindness or respect"
     },
     {
       "id": "qian-zhongshu-comparative-reading-skill",
@@ -1155,7 +1329,9 @@
       "topics": [
         "comparative-reading",
         "qian-zhongshu-comparative-reading-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Establish comparability before comparing texts"
     },
     {
       "id": "yang-jiang-restrained-narrative-skill",
@@ -1168,7 +1344,9 @@
       "topics": [
         "restrained-narrative",
         "yang-jiang-restrained-narrative-skill"
-      ]
+      ],
+      "discovery_path": "expression",
+      "focus_en": "Write restrained narratives with facts and warmth"
     },
     {
       "id": "chen-heqin-active-curriculum-skill",
@@ -1181,7 +1359,9 @@
       "topics": [
         "active-curriculum",
         "chen-heqin-active-curriculum-skill"
-      ]
+      ],
+      "discovery_path": "learning",
+      "focus_en": "Design learning through life-based activities"
     },
     {
       "id": "zhang-boling-service-capability-skill",
@@ -1194,7 +1374,9 @@
       "topics": [
         "service-capability",
         "zhang-boling-service-capability-skill"
-      ]
+      ],
+      "discovery_path": "learning",
+      "focus_en": "Connect service purposes with capability evidence"
     },
     {
       "id": "xiong-shili-principles-in-use-skill",
@@ -1207,7 +1389,9 @@
       "topics": [
         "principles-in-use",
         "xiong-shili-principles-in-use-skill"
-      ]
+      ],
+      "discovery_path": "reflection",
+      "focus_en": "Examine how principles appear in actual practice"
     },
     {
       "id": "mou-zongsan-judgment-boundaries-skill",
@@ -1220,7 +1404,9 @@
       "topics": [
         "judgment-boundaries",
         "mou-zongsan-judgment-boundaries-skill"
-      ]
+      ],
+      "discovery_path": "reflection",
+      "focus_en": "Separate value judgments from specialist knowledge"
     },
     {
       "id": "tang-junyi-cultural-dialogue-skill",
@@ -1233,7 +1419,9 @@
       "topics": [
         "cultural-dialogue",
         "tang-junyi-cultural-dialogue-skill"
-      ]
+      ],
+      "discovery_path": "reflection",
+      "focus_en": "Preserve multiple perspectives in cultural dialogue"
     },
     {
       "id": "ji-xianlin-cultural-learning-skill",
@@ -1246,7 +1434,9 @@
       "topics": [
         "cultural-learning",
         "ji-xianlin-cultural-learning-skill"
-      ]
+      ],
+      "discovery_path": "research",
+      "focus_en": "Understand materials before cross-cultural borrowing"
     },
     {
       "id": "nan-huaijin-classics-check-skill",
@@ -1259,7 +1449,9 @@
       "topics": [
         "classics-check",
         "nan-huaijin-classics-check-skill"
-      ]
+      ],
+      "discovery_path": "learning",
+      "focus_en": "Check classical commentary against its sources"
     },
     {
       "id": "qian-xuesen-system-synthesis-skill",
@@ -1273,7 +1465,9 @@
         "system-synthesis",
         "qian-xuesen-system-synthesis-skill"
       ],
-      "discovery_rank": 8
+      "discovery_rank": 8,
+      "discovery_path": "decisions",
+      "focus_en": "Combine expert views and data into testable plans"
     },
     {
       "id": "ma-yinchu-resource-scenarios-skill",
@@ -1286,7 +1480,9 @@
       "topics": [
         "resource-scenarios",
         "ma-yinchu-resource-scenarios-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Compare population and resources on consistent scales"
     },
     {
       "id": "wu-jinglian-competition-rules-skill",
@@ -1299,7 +1495,9 @@
       "topics": [
         "competition-rules",
         "wu-jinglian-competition-rules-skill"
-      ]
+      ],
+      "discovery_path": "decisions",
+      "focus_en": "Review competition rules before judging efficiency"
     },
     {
       "id": "li-zehou-aesthetic-context-skill",
@@ -1312,14 +1510,66 @@
       "topics": [
         "aesthetic-context",
         "li-zehou-aesthetic-context-skill"
-      ]
+      ],
+      "discovery_path": "expression",
+      "focus_en": "Explain aesthetic experience through historical conditions"
     }
   ],
   "homepage": "https://github.com/constantin2088/chinese-thinkers-skills",
   "topics": [
     "chinese-thinkers",
     "agent-skills",
-    "chinese-thinkers-as-skills"
+    "chinese-thinkers-as-skills",
+    "ai-skills",
+    "chinese-philosophy",
+    "chinese",
+    "reasoning",
+    "methodology"
   ],
-  "description": "让中国思想成为 AI 的可执行能力：有依据、有边界、可测试的中文思想家 Agent Skills。"
+  "description": "100位中国思想家的实用方法，变成 AI 能执行的 Skill：学习、研究、决策、管理、写作。孔子到钱学森，一人一套工作流，附来源、示例与边界。Chinese thinkers → practical Agent Skills.",
+  "phase": "quality-and-feedback",
+  "discovery_paths": [
+    {
+      "id": "learning",
+      "name_zh": "学习与行动",
+      "name_en": "Learning & action",
+      "question_zh": "读了很多，怎样真正做到？",
+      "question_en": "Turn knowledge into demonstrated action."
+    },
+    {
+      "id": "research",
+      "name_zh": "研究与辨别",
+      "name_en": "Research & evidence",
+      "question_zh": "材料很多，哪些值得相信？",
+      "question_en": "Check evidence, concepts and competing explanations."
+    },
+    {
+      "id": "decisions",
+      "name_zh": "决策与系统",
+      "name_en": "Decisions & systems",
+      "question_zh": "资源有限，先做什么、停止什么？",
+      "question_en": "Compare options, constraints and system effects."
+    },
+    {
+      "id": "organizations",
+      "name_zh": "组织与协作",
+      "name_en": "Teams & organizations",
+      "question_zh": "人和规则，怎样一起运转？",
+      "question_en": "Examine incentives, responsibilities and coordination."
+    },
+    {
+      "id": "expression",
+      "name_zh": "写作与审美",
+      "name_en": "Writing & aesthetics",
+      "question_zh": "怎样写得清楚、看得具体？",
+      "question_en": "Make expression precise and aesthetic judgments explicit."
+    },
+    {
+      "id": "reflection",
+      "name_zh": "选择与反思",
+      "name_en": "Values & perspectives",
+      "question_zh": "被惯性困住，怎样重新看问题？",
+      "question_en": "Reconsider assumptions, values and personal boundaries."
+    }
+  ]
 }

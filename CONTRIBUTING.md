@@ -1,6 +1,6 @@
 # Contributing / 参与贡献
 
-欢迎提出真实用户问题、测试失败案例、史料修正与新人物建议。提交任何贡献都须遵守 [行为准则](CODE_OF_CONDUCT.md)。
+当前优先处理真实用户问题、测试失败案例和史料修正。人物扩展暂告一段落，新人物建议保留为备选。提交任何贡献都须遵守 [行为准则](CODE_OF_CONDUCT.md)。
 
 ## 第一选择：具体可复现的问题
 
@@ -18,7 +18,7 @@
 
 ## 提交 PR 的检查单
 
-1. 修改作品状态时同步更新 `catalog/skills.json`、`README.md`、`README.en.md`。
+1. 作品元数据只修改 `catalog/skills.json`，再运行 `python scripts/render_catalog.py` 生成双语首页与场景指南，勿手改受管理区块。
 2. 涉及历史事实时提供出处，分清原意与转译。
 3. 修改工作流时提供行为测试或反例。
 4. 本地运行 `python scripts/check_catalog.py`。

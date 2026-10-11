@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340"><rect width="1200" height="340" fill="#151d2b"/><path d="M104 85 Q220 35 333 94 L333 249 Q220 197 104 249Z M333 94 Q450 35 565 85 L565 249 Q450 197 333 249Z" stroke="#dfb86a" fill="none" stroke-width="7"/><text x="625" y="135" fill="#f1e9d8" font-family="sans-serif" font-size="43" font-weight="700">Chinese Thinkers</text><text x="625" y="187" fill="#dfb86a" font-family="sans-serif" font-size="43" font-weight="700">as Skills</text><text x="625" y="240" fill="#b4c0d4" font-family="sans-serif" font-size="24">Not personas. Executable wisdom.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Chinese Thinkers as Skills · 中国思想的 AI 工具箱</title>
+<desc id="desc">100 位人物的方法：学习、研究、决策与表达。深蓝与金色的书本品牌图。</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111a29"/><stop offset="1" stop-color="#22324a"/></linearGradient></defs>
+<rect width="1200" height="400" rx="12" fill="url(#bg)"/>
+<g fill="none" stroke="#d9b875"><path d="M62 80 Q152 43 242 86 L242 243 Q151 208 62 243Z M242 86 Q331 43 421 80 L421 243 Q330 208 242 243Z" stroke-width="5"/><path d="M242 86 V243 M82 265 H404" opacity=".55" stroke-width="2"/></g>
+<text x="61" y="336" fill="#d9b875" font-family="Segoe UI,Arial,sans-serif" font-size="72" font-weight="700">100</text>
+<text x="212" y="314" fill="#f6efdf" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="21">位人物</text>
+<text x="212" y="340" fill="#abbad0" font-family="Arial,sans-serif" font-size="16">practical methods</text>
+<text x="482" y="102" fill="#f6efdf" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700">Chinese Thinkers</text>
+<text x="482" y="153" fill="#d9b875" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700">as Skills</text>
+<text x="482" y="218" fill="#f6efdf" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="32" font-weight="700">给 AI 一座中国思想的工具箱。</text>
+<text x="482" y="262" fill="#abbad0" font-family="Arial,sans-serif" font-size="20">A toolbox of Chinese thought for your AI agent.</text>
+<rect x="482" y="299" width="629" height="48" rx="8" fill="#111a29" stroke="#d9b875" stroke-opacity=".35"/>
+<text x="505" y="331" fill="#d9b875" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="22">学习 → 行动　　材料 → 证据　　问题 → 方法</text>
+</svg>

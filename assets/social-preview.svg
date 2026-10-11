@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640"><rect width="1280" height="640" fill="#151d2b"/><path d="M85 168 Q224 98 357 168 V434 Q224 364 85 434Z M357 168 Q490 98 629 168 V434 Q490 364 357 434Z" stroke="#dfb86a" fill="none" stroke-width="9"/><text x="685" y="232" font-family="sans-serif" font-size="54" font-weight="700" fill="#f1e9d8">Chinese Thinkers</text><text x="685" y="307" font-family="sans-serif" font-size="54" font-weight="700" fill="#dfb86a">as Skills</text><text x="686" y="367" font-family="sans-serif" font-size="28" fill="#b4c0d4">Not personas. Executable wisdom.</text><text x="686" y="420" font-family="sans-serif" font-size="23" fill="#f1e9d8">让中国思想，成为 AI 的可执行能力。</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640">
+<rect width="1280" height="640" fill="#172236"/>
+<svg x="40" y="24" width="1200" height="400" viewBox="0 0 1200 400">
+<title id="title">Chinese Thinkers as Skills · 中国思想的 AI 工具箱</title>
+<desc id="desc">100 位人物的方法：学习、研究、决策与表达。深蓝与金色的书本品牌图。</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111a29"/><stop offset="1" stop-color="#22324a"/></linearGradient></defs>
+<rect width="1200" height="400" rx="12" fill="url(#bg)"/>
+<g fill="none" stroke="#d9b875"><path d="M62 80 Q152 43 242 86 L242 243 Q151 208 62 243Z M242 86 Q331 43 421 80 L421 243 Q330 208 242 243Z" stroke-width="5"/><path d="M242 86 V243 M82 265 H404" opacity=".55" stroke-width="2"/></g>
+<text x="61" y="336" fill="#d9b875" font-family="Segoe UI,Arial,sans-serif" font-size="72" font-weight="700">100</text>
+<text x="212" y="314" fill="#f6efdf" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="21">位人物</text>
+<text x="212" y="340" fill="#abbad0" font-family="Arial,sans-serif" font-size="16">practical methods</text>
+<text x="482" y="102" fill="#f6efdf" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700">Chinese Thinkers</text>
+<text x="482" y="153" fill="#d9b875" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700">as Skills</text>
+<text x="482" y="218" fill="#f6efdf" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="32" font-weight="700">给 AI 一座中国思想的工具箱。</text>
+<text x="482" y="262" fill="#abbad0" font-family="Arial,sans-serif" font-size="20">A toolbox of Chinese thought for your AI agent.</text>
+<rect x="482" y="299" width="629" height="48" rx="8" fill="#111a29" stroke="#d9b875" stroke-opacity=".35"/>
+<text x="505" y="331" fill="#d9b875" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="22">学习 → 行动　　材料 → 证据　　问题 → 方法</text>
+</svg>
+<path d="M100 458 H1180" stroke="#d9b875" opacity=".35"/>
+<text x="640" y="509" text-anchor="middle" fill="#f6efdf" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700">100 位人物 · 六类任务 · 一人一套工作流</text>
+<text x="640" y="556" text-anchor="middle" fill="#d9b875" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="24">学习 / 研究 / 决策 / 协作 / 写作 / 反思</text>
+<text x="640" y="605" text-anchor="middle" fill="#abbad0" font-family="Arial,sans-serif" font-size="22">github.com/constantin2088/chinese-thinkers-skills</text>
+</svg>
